@@ -1,8 +1,8 @@
-# Tickets de Compras — Toma de decisiones con datos
+# Tickets de Compras: Toma de decisiones con datos
 
 App de Streamlit para la materia **Ciencia de datos: Toma de decisiones en los
 negocios**. Recorre el framework **Entender → Limpiar → Describir → Predecir →
-Prescribir → Decidir** sobre tickets de un centro de compras.
+Prescribir → Decidir** sobre solicitudes de un centro de compras.
 
 **Pregunta guía:** ¿Qué tickets de compras tienen mayor probabilidad de
 incumplir el SLA, y qué acción o priorización deberíamos tomar con cada tipo?
