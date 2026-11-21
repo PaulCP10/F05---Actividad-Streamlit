@@ -1,0 +1,1516 @@
+id_ticket,categoria_compra,prioridad,tipo_solicitud,canal_entrada,region,turno,antiguedad_solicitante_meses,adjuntos,interacciones,reasignaciones,horas_primera_respuesta,horas_abierto,reabierto,incumplio_sla
+TK-100495,IT,Media,Creación de pedido,Correo,BR,Matutino,114.0,3,4,0,0.4,28.2,0,0
+TK-100593,Indirectos,Media,Liberación,Portal,MX,Matutino,92.0,1,4,0,5.5,24.0,0,0
+TK-100991,Servicios,Crítica,Consulta,Portal,US,Matutino,18.0,1,3,1,12.8,12.1,0,1
+TK-100914,MRO,Media,Cambio de proveedor,Portal,BR,Matutino,25.0,1,8,1,0.7,17.5,0,1
+TK-100686,Indirectos,Baja,Creación de pedido,Correo,US,Nocturno,,0,0,0,3.9,11.5,0,0
+TK-100102,Logística,Baja,Creación de pedido,Teléfono,US,Nocturno,11.0,1,8,0,1.6,16.3,0,0
+TK-100444,Materiales directos,Baja,Cambio de proveedor,Teléfono,BR,Vespertino,40.0,2,5,1,1.1,23.2,0,1
+TK-100777,Servicios,Media,Alta de material,Correo,MX,Matutino,30.0,0,2,0,3.4,7.8,0,0
+TK-100447,MRO,Baja,Alta de material,Correo,MX,Nocturno,1.0,1,0,2,3.1,21.2,0,0
+TK-100465,Servicios,Alta,Liberación,Portal,MX,Matutino,96.0,0,1,0,1.2,5.7,1,1
+TK-100928,IT,Alta,Liberación,Correo,CA,Matutino,19.0,3,6,0,4.5,28.4,0,0
+TK-101018,IT,Baja,Actualización de precio,Portal,US,Matutino,87.0,2,1,0,3.5,8.4,0,1
+TK-101102,Indirectos,Media,Alta de material,Portal,US,Matutino,111.0,0,4,2,1.1,27.3,0,1
+TK-100499,Indirectos,Alta,Cambio de proveedor,Portal,US,Matutino,21.0,4,6,0,4.5,39.6,1,1
+TK-101332,Servicios,Media,Consulta,Portal,CA,Vespertino,89.0,1,6,0,3.4,40.3,0,0
+TK-100824,Logística,Baja,Creación de pedido,Portal,US,Nocturno,43.0,1,4,0,4.1,28.6,0,1
+TK-101440,MRO,Baja,Cambio de proveedor,Correo,CA,Nocturno,1.0,5,3,1,14.3,31.9,0,1
+TK-100994,Materiales directos,Crítica,Cambio de proveedor,Portal,MX,Nocturno,10.0,0,4,2,13.8,16.5,0,1
+TK-100852,Materiales directos,Alta,Creación de pedido,Correo,US,Nocturno,94.0,5,7,0,7.2,44.0,0,1
+TK-101187,Indirectos,Baja,Creación de pedido,Portal,US,Vespertino,36.0,0,1,0,10.3,8.4,0,0
+TK-101438,Servicios,Baja,Creación de pedido,Portal,US,Matutino,102.0,0,7,1,3.1,20.0,1,1
+TK-100112,Materiales directos,Alta,Creación de pedido,Portal,MX,Vespertino,112.0,1,4,1,6.9,18.1,0,0
+TK-101398,MRO,Baja,Liberación,Correo,US,Matutino,19.0,0,6,0,1.8,30.3,0,0
+TK-100526,Indirectos,Media,Actualización de precio,Correo,CA,Matutino,85.0,4,6,1,6.9,15.6,0,1
+TK-100598,Servicios,Media,Consulta,Correo,US,Vespertino,79.0,0,8,1,2.5,31.1,0,0
+TK-100336,Servicios,Baja,Cambio de proveedor,Correo,US,Matutino,15.0,1,4,1,6.1,21.0,0,1
+TK-101147,Logística,Alta,Creación de pedido,Correo,US,Vespertino,32.0,2,6,0,7.1,13.4,0,1
+TK-100922,IT,Baja,Liberación,Portal,BR,Vespertino,106.0,2,4,2,6.6,18.5,1,0
+TK-100769,Materiales directos,Alta,Alta de material,Teléfono,BR,Vespertino,5.0,0,4,0,6.6,9.5,0,0
+TK-101242,Indirectos,Alta,Liberación,Correo,US,Vespertino,21.0,1,3,2,11.8,14.1,0,1
+TK-101317,Servicios,Baja,Consulta,Portal,BR,Nocturno,85.0,3,3,0,1.6,32.3,0,0
+TK-100453,Logística,Alta,Creación de pedido,Portal,MX,Nocturno,109.0,1,3,1,3.7,30.5,0,0
+TK-100942,IT,Baja,Creación de pedido,Correo,MX,Matutino,81.0,1,4,0,11.3,15.3,0,0
+TK-100714,MRO,Media,Liberación,Teléfono,MX,Vespertino,118.0,1,4,1,3.4,35.5,1,1
+TK-100092,Logística,Baja,Consulta,Portal,US,Nocturno,8.0,2,5,0,2.9,10.6,0,1
+TK-100463,MRO,Media,Creación de pedido,Portal,MX,Vespertino,77.0,1,7,1,5.8,18.9,0,0
+TK-101349,Indirectos,Alta,Actualización de precio,Portal,US,Vespertino,9.0,0,0,1,3.9,12.9,0,0
+TK-101224,Servicios,Media,Creación de pedido,Teléfono,US,Vespertino,84.0,1,7,3,2.5,28.0,1,0
+TK-100827,Servicios,Baja,Creación de pedido,Correo,US,Vespertino,74.0,0,2,0,12.9,31.9,0,1
+TK-100436,Materiales directos,Baja,Actualización de precio,Portal,MX,Matutino,,1,4,0,11.6,26.5,0,0
+TK-101144,IT,Alta,Cambio de proveedor,Portal,US,Matutino,79.0,0,4,0,1.9,27.6,1,0
+TK-101493,Servicios,Media,Consulta,Teléfono,BR,Matutino,30.0,1,6,0,5.9,34.7,0,1
+TK-100574,Logística,Alta,Actualización de precio,Portal,MX,Matutino,105.0,0,6,0,2.5,29.0,0,0
+TK-100108,Indirectos,Baja,Alta de material,Portal,US,Matutino,95.0,2,1,2,5.3,15.7,0,0
+TK-100491,Logística,Baja,Alta de material,Portal,US,Vespertino,23.0,1,3,1,0.6,17.1,1,0
+TK-100397,IT,Media,Creación de pedido,Portal,BR,Vespertino,33.0,1,2,1,9.8,21.0,0,1
+TK-100547,Indirectos,Media,Actualización de precio,Portal,US,Vespertino,13.0,1,3,0,6.1,19.0,0,1
+TK-101222,Materiales directos,Alta,Creación de pedido,Portal,US,Matutino,114.0,1,5,3,10.0,29.3,1,0
+TK-100268,Materiales directos,Baja,Liberación,Correo,BR,Matutino,71.0,2,4,2,3.2,59.8,0,1
+TK-100387,Logística,Baja,Actualización de precio,Portal,US,Matutino,77.0,3,5,0,10.6,25.7,0,0
+TK-100590,Materiales directos,Media,Cambio de proveedor,,MX,Matutino,20.0,1,5,0,1.9,20.5,0,0
+TK-100786,Indirectos,Baja,Consulta,Portal,MX,Matutino,67.0,2,3,0,8.6,28.3,1,0
+TK-101167,IT,Alta,Creación de pedido,Portal,MX,Matutino,62.0,1,1,1,7.6,8.8,0,0
+TK-100938,Materiales directos,Media,Alta de material,Portal,MX,Vespertino,67.0,4,1,3,11.1,14.2,0,1
+TK-100120,Servicios,Baja,Creación de pedido,Portal,US,Vespertino,101.0,0,6,1,4.3,23.2,0,0
+TK-100835,Logística,Media,Cambio de proveedor,Portal,MX,Matutino,54.0,2,4,1,7.0,29.4,1,1
+TK-100772,Servicios,Media,Consulta,Correo,MX,Matutino,62.0,3,3,2,10.9,36.4,0,1
+TK-100076,Indirectos,Baja,Consulta,Portal,MX,Nocturno,68.0,2,2,3,7.1,23.8,1,0
+TK-100061,Logística,Crítica,Alta de material,Teléfono,MX,Nocturno,,3,3,0,0.4,19.9,0,0
+TK-100816,MRO,Baja,Cambio de proveedor,Portal,US,Vespertino,16.0,1,5,1,4.2,40.4,0,0
+TK-100718,Materiales directos,Crítica,Liberación,Portal,BR,Vespertino,73.0,0,3,2,7.3,22.9,0,0
+TK-101109,MRO,Media,Consulta,Portal,US,Matutino,78.0,1,1,0,3.9,11.3,1,0
+TK-100205,Materiales directos,Media,Consulta,Portal,US,Matutino,21.0,1,7,2,6.8,20.5,0,0
+TK-100038,Indirectos,Alta,Creación de pedido,Correo,US,Vespertino,86.0,4,8,0,7.0,30.2,0,1
+TK-101462,Servicios,Crítica,Actualización de precio,Portal,MX,Matutino,36.0,2,5,2,2.6,21.4,0,1
+TK-101103,IT,Media,Actualización de precio,Teléfono,MX,Matutino,29.0,1,7,0,8.4,27.5,0,1
+TK-100081,Logística,Alta,Creación de pedido,Correo,US,Matutino,109.0,0,8,0,5.1,18.6,0,0
+TK-100842,IT,Baja,Alta de material,Portal,CA,Vespertino,7.0,4,2,0,9.2,17.6,0,0
+TK-100212,Servicios,Media,Alta de material,Portal,BR,Vespertino,88.0,4,10,1,1.3,35.2,1,1
+TK-100609,Logística,Media,Creación de pedido,Portal,US,Vespertino,52.0,0,5,0,4.2,17.3,0,0
+TK-100054,Logística,Media,Liberación,Correo,US,Matutino,92.0,2,4,2,7.7,30.9,0,0
+TK-100409,Materiales directos,Alta,Actualización de precio,,MX,Vespertino,4.0,2,4,1,8.7,26.6,0,1
+TK-101273,Indirectos,Alta,Liberación,Portal,US,Vespertino,120.0,1,4,4,5.5,34.2,1,1
+TK-100856,Indirectos,Alta,Creación de pedido,Teléfono,US,Vespertino,53.0,2,4,0,3.2,15.3,0,0
+TK-100427,Indirectos,Media,Creación de pedido,Portal,US,Matutino,52.0,1,3,1,2.0,28.7,0,0
+TK-101232,Servicios,Baja,Creación de pedido,Teléfono,US,Vespertino,53.0,1,2,0,1.2,14.6,0,0
+TK-101469,Logística,Media,Consulta,Correo,BR,Nocturno,1.0,4,4,0,8.1,12.4,0,1
+TK-101046,Indirectos,Media,Creación de pedido,Portal,CA,Vespertino,,0,5,0,2.1,9.2,0,1
+TK-101263,Indirectos,Baja,Cambio de proveedor,Correo,MX,Matutino,90.0,1,3,1,6.3,14.4,0,0
+TK-100768,Materiales directos,Media,Cambio de proveedor,Correo,MX,Matutino,112.0,2,3,1,4.6,14.2,0,1
+TK-101022,Logística,Media,Creación de pedido,Portal,CA,Matutino,71.0,2,2,1,8.3,31.8,0,0
+TK-101041,Materiales directos,Media,Actualización de precio,Teléfono,MX,Matutino,103.0,0,4,0,3.6,14.1,0,1
+TK-101178,Indirectos,Alta,Consulta,Correo,CA,Vespertino,93.0,3,5,0,7.1,27.1,0,1
+TK-101268,MRO,Media,Liberación,Correo,MX,Nocturno,39.0,0,9,0,2.7,17.8,0,1
+TK-101482,Materiales directos,Baja,Alta de material,Portal,CA,Vespertino,62.0,1,9,1,8.3,63.7,0,1
+TK-101217,Indirectos,Media,Alta de material,Correo,MX,Matutino,71.0,1,2,0,7.8,7.1,0,0
+TK-101207,Servicios,Alta,Creación de pedido,Teléfono,MX,Matutino,118.0,1,2,1,9.3,14.0,0,1
+TK-100103,Indirectos,Media,Consulta,Teléfono,BR,Vespertino,47.0,1,2,1,1.8,12.9,0,0
+TK-101226,MRO,Alta,Liberación,Teléfono,US,Nocturno,76.0,1,3,2,3.9,46.9,0,1
+TK-101238,Indirectos,Media,Liberación,Correo,MX,Matutino,72.0,0,2,1,10.3,19.0,0,1
+TK-100672,Servicios,Baja,Alta de material,Correo,US,Vespertino,100.0,0,3,0,7.9,14.8,0,0
+TK-100191,MRO,Alta,Creación de pedido,Portal,BR,Matutino,99.0,1,4,0,3.5,15.6,0,0
+TK-100522,Indirectos,Baja,Liberación,Correo,MX,Matutino,119.0,0,0,0,14.2,7.9,0,0
+TK-101421,Logística,Crítica,Cambio de proveedor,Portal,US,Matutino,70.0,0,5,4,4.0,32.2,0,1
+TK-101104,IT,Alta,Cambio de proveedor,Teléfono,US,Nocturno,14.0,3,7,1,7.2,25.5,0,0
+TK-101464,Indirectos,Media,Consulta,Portal,CA,Vespertino,46.0,0,1,0,8.4,6.0,0,0
+TK-101286,MRO,Alta,Creación de pedido,Correo,CA,Matutino,108.0,3,4,1,8.8,41.4,0,1
+TK-100732,Materiales directos,Media,Consulta,Teléfono,MX,Matutino,32.0,1,4,0,5.3,19.4,0,0
+TK-100787,IT,Alta,Consulta,Correo,MX,Matutino,16.0,1,3,1,2.7,14.2,1,1
+TK-100237,Indirectos,Alta,Consulta,Correo,MX,Vespertino,120.0,1,3,3,8.4,19.7,0,1
+TK-100600,Servicios,Baja,Actualización de precio,,MX,Nocturno,12.0,1,3,0,2.5,18.0,0,0
+TK-100168,IT,Baja,Creación de pedido,Portal,MX,Matutino,25.0,1,4,0,5.1,19.4,0,1
+TK-100681,Materiales directos,Alta,Liberación,Correo,MX,Matutino,22.0,1,3,1,2.3,30.9,0,0
+TK-100170,MRO,Alta,Alta de material,Portal,MX,Vespertino,3.0,2,3,2,3.3,19.5,1,0
+TK-100573,Servicios,Baja,Cambio de proveedor,Portal,MX,Matutino,73.0,0,3,3,3.5,22.6,0,1
+TK-100482,Materiales directos,Media,Alta de material,Portal,MX,Nocturno,36.0,0,4,1,1.3,29.4,0,0
+TK-100517,Indirectos,Baja,Alta de material,Portal,BR,Vespertino,33.0,1,1,1,0.2,10.4,0,0
+TK-101065,Indirectos,Media,Creación de pedido,Teléfono,US,Matutino,60.0,3,6,0,3.2,18.1,0,0
+TK-100362,Materiales directos,Crítica,Cambio de proveedor,Teléfono,MX,Matutino,52.0,2,4,0,0.9,16.7,0,0
+TK-100655,IT,Media,Cambio de proveedor,Portal,MX,Vespertino,116.0,1,4,0,4.7,21.3,0,1
+TK-100712,Logística,Media,Liberación,,BR,Nocturno,38.0,2,3,1,7.2,17.4,0,0
+TK-100497,Indirectos,Baja,Alta de material,Portal,MX,Matutino,48.0,3,5,1,0.6,24.0,0,0
+TK-100699,Servicios,Baja,Creación de pedido,Correo,BR,Matutino,89.0,3,3,1,7.7,24.5,0,0
+TK-101287,Indirectos,Alta,Consulta,Correo,BR,Vespertino,120.0,3,1,0,5.2,19.1,0,0
+TK-100858,IT,Media,Actualización de precio,Portal,US,Matutino,83.0,1,2,0,3.8,12.2,0,0
+TK-100698,Servicios,Media,Creación de pedido,Portal,US,Matutino,84.0,1,1,4,8.7,37.9,0,0
+TK-101428,Materiales directos,Media,Creación de pedido,Correo,US,Nocturno,96.0,1,5,0,4.6,32.9,0,1
+TK-100049,Logística,Media,Consulta,Correo,US,Matutino,100.0,1,4,2,4.7,37.6,0,0
+TK-100560,Servicios,Baja,Actualización de precio,Portal,US,Nocturno,112.0,3,5,2,1.2,34.8,0,0
+TK-100910,Indirectos,Crítica,Liberación,Correo,US,Vespertino,64.0,1,2,0,2.5,7.7,0,1
+TK-101004,Materiales directos,Alta,Creación de pedido,Correo,MX,Vespertino,77.0,0,7,1,3.7,30.3,0,0
+TK-100809,Servicios,Media,Consulta,Portal,MX,Matutino,93.0,2,7,2,10.3,21.6,1,1
+TK-100639,Logística,Alta,Liberación,Portal,BR,Vespertino,16.0,2,6,0,1.4,27.4,0,0
+TK-100873,MRO,Media,Creación de pedido,Portal,MX,Matutino,109.0,5,3,0,8.5,13.1,1,0
+TK-100433,Logística,Alta,Consulta,Correo,US,Matutino,108.0,1,2,0,2.3,27.4,0,1
+TK-100300,Servicios,Media,Creación de pedido,Correo,CA,Matutino,14.0,3,7,0,7.4,24.1,0,0
+TK-100713,IT,Alta,Consulta,Teléfono,US,Vespertino,94.0,2,2,2,12.0,23.7,0,0
+TK-101318,Materiales directos,Media,Liberación,Portal,CA,Vespertino,112.0,2,1,1,2.7,12.7,0,1
+TK-100305,IT,Media,Alta de material,Correo,BR,Matutino,83.0,1,4,1,5.1,40.0,0,0
+TK-100775,Materiales directos,Alta,Liberación,Portal,MX,Matutino,41.0,2,7,1,7.0,36.9,0,1
+TK-100709,Indirectos,Baja,Actualización de precio,Portal,MX,Vespertino,29.0,2,5,1,6.0,18.3,1,0
+TK-100967,MRO,Alta,Actualización de precio,Correo,MX,Matutino,15.0,1,5,1,6.7,20.6,0,1
+TK-100633,Materiales directos,Crítica,Alta de material,Portal,CA,Vespertino,51.0,0,5,1,0.4,22.4,0,0
+TK-101330,Materiales directos,Alta,Consulta,Correo,MX,Nocturno,,1,4,0,6.3,10.9,0,0
+TK-101196,Materiales directos,Baja,Actualización de precio,Portal,CA,Matutino,42.0,0,6,0,2.7,12.6,0,0
+TK-100286,Indirectos,Alta,Alta de material,Correo,MX,Nocturno,28.0,3,2,0,0.8,8.4,0,0
+TK-100443,Logística,Media,Creación de pedido,Correo,BR,Vespertino,106.0,2,3,1,7.2,10.5,0,0
+TK-100773,Servicios,Alta,Alta de material,Correo,MX,Nocturno,105.0,2,0,2,3.7,19.0,0,0
+TK-100893,Indirectos,Media,Actualización de precio,Teléfono,US,Matutino,18.0,2,3,1,12.6,14.0,0,1
+TK-100792,Indirectos,Alta,Cambio de proveedor,Portal,US,Nocturno,81.0,0,5,0,2.0,37.4,0,1
+TK-100289,Servicios,Alta,Creación de pedido,Portal,US,Vespertino,,0,1,0,6.1,1.8,0,0
+TK-100020,Servicios,Baja,Creación de pedido,Portal,CA,Matutino,4.0,0,5,1,4.0,19.5,1,0
+TK-100461,Servicios,Media,Actualización de precio,Portal,US,Matutino,112.0,0,3,0,4.1,8.7,0,0
+TK-101271,MRO,Baja,Consulta,Correo,BR,Matutino,38.0,1,5,1,10.3,13.9,0,1
+TK-100736,Logística,Alta,Consulta,Correo,CA,Matutino,98.0,1,3,2,2.8,14.4,0,1
+TK-100488,Indirectos,Alta,Liberación,Portal,MX,Nocturno,31.0,2,4,0,4.9,14.3,0,1
+TK-100588,Indirectos,Media,Actualización de precio,Portal,CA,Matutino,10.0,1,1,1,2.0,16.9,0,1
+TK-100758,MRO,Alta,Creación de pedido,Portal,CA,Matutino,41.0,0,3,0,3.2,21.7,0,0
+TK-100004,Logística,Media,Liberación,Portal,US,Matutino,30.0,1,5,1,4.4,37.1,0,0
+TK-100293,MRO,Baja,Actualización de precio,Portal,CA,Matutino,56.0,0,3,1,11.2,32.2,0,0
+TK-100116,IT,Baja,Alta de material,Portal,BR,Vespertino,120.0,1,4,1,1.1,19.5,0,0
+TK-100141,Servicios,Alta,Cambio de proveedor,Portal,US,Matutino,78.0,2,5,0,4.2,9.6,0,0
+TK-100315,Indirectos,Alta,Cambio de proveedor,Portal,MX,Vespertino,20.0,0,4,0,5.0,23.6,0,0
+TK-100651,Indirectos,Media,Cambio de proveedor,Correo,MX,Vespertino,90.0,2,10,1,4.6,31.5,0,1
+TK-101101,Materiales directos,Media,Cambio de proveedor,Portal,US,Vespertino,115.0,2,3,1,8.4,17.6,0,0
+TK-101257,Logística,Alta,Creación de pedido,Portal,MX,Matutino,33.0,0,1,0,3.7,12.6,1,0
+TK-100195,Materiales directos,Media,Alta de material,Portal,US,Matutino,15.0,0,2,0,0.6,5.7,0,1
+TK-100202,MRO,Crítica,Consulta,Portal,MX,Vespertino,,0,4,3,6.8,43.4,0,1
+TK-100050,Materiales directos,Baja,Creación de pedido,Portal,MX,Matutino,87.0,1,8,1,12.1,44.0,0,0
+TK-100232,Indirectos,Baja,Creación de pedido,Teléfono,MX,Matutino,102.0,1,7,0,2.9,32.7,0,0
+TK-101170,Materiales directos,Media,Actualización de precio,Correo,US,Nocturno,,1,4,1,3.4,39.8,0,1
+TK-100580,Indirectos,Baja,Creación de pedido,Correo,CA,Nocturno,10.0,2,4,0,8.1,19.2,0,1
+TK-100886,Indirectos,Alta,Creación de pedido,Correo,CA,Matutino,85.0,1,9,0,5.7,25.6,0,0
+TK-100105,Logística,Baja,Alta de material,Correo,MX,Nocturno,3.0,2,9,1,2.9,29.2,0,1
+TK-101429,Logística,Media,Creación de pedido,Correo,MX,Matutino,82.0,2,3,0,2.8,9.5,0,0
+TK-101387,Logística,Baja,Cambio de proveedor,Portal,MX,Matutino,81.0,0,2,0,9.1,7.5,0,0
+TK-100726,Materiales directos,Baja,Liberación,Portal,MX,Matutino,76.0,0,4,1,3.0,22.0,0,1
+TK-100943,Materiales directos,Baja,Creación de pedido,Correo,MX,Matutino,119.0,1,3,1,7.5,18.6,0,0
+TK-100984,Indirectos,Media,Creación de pedido,Portal,BR,Vespertino,114.0,0,4,0,9.0,20.0,0,0
+TK-100719,Servicios,Crítica,Consulta,Portal,MX,Matutino,95.0,1,3,0,3.0,22.7,0,0
+TK-100326,Servicios,Baja,Liberación,Portal,US,Matutino,82.0,0,3,1,6.0,30.2,1,1
+TK-100249,Indirectos,Media,Liberación,Correo,MX,Matutino,18.0,2,5,1,1.5,18.4,0,1
+TK-100182,MRO,Alta,Creación de pedido,Portal,MX,Vespertino,80.0,0,5,0,9.9,32.1,1,1
+TK-101371,Materiales directos,Media,Cambio de proveedor,Correo,US,Vespertino,109.0,2,1,1,7.0,32.3,0,0
+TK-100654,Indirectos,Alta,Creación de pedido,Portal,MX,Nocturno,63.0,2,5,1,14.8,15.7,0,1
+TK-101399,Servicios,Media,Creación de pedido,Portal,CA,Matutino,38.0,1,1,1,7.7,10.9,0,0
+TK-100302,Materiales directos,Media,Cambio de proveedor,Portal,MX,Vespertino,42.0,0,10,1,4.8,38.7,0,1
+TK-100608,Materiales directos,Crítica,Creación de pedido,Portal,US,Vespertino,69.0,1,1,0,1.5,24.8,0,1
+TK-100052,Materiales directos,Media,Creación de pedido,Correo,MX,Vespertino,63.0,1,2,0,6.4,11.1,1,1
+TK-101490,Indirectos,Media,Actualización de precio,Portal,US,Matutino,97.0,1,3,0,1.6,22.1,0,0
+TK-100626,Indirectos,Media,Actualización de precio,Portal,CA,Matutino,31.0,1,2,0,5.8,21.5,0,0
+TK-100410,MRO,Alta,Creación de pedido,Portal,US,Matutino,4.0,1,6,1,10.4,25.9,1,1
+TK-100109,Materiales directos,Media,Creación de pedido,Portal,US,Matutino,34.0,2,6,1,6.2,46.2,0,1
+TK-101031,Servicios,Media,Actualización de precio,Portal,US,Vespertino,,2,3,2,4.4,15.2,0,0
+TK-100636,Materiales directos,Media,Creación de pedido,Portal,US,Matutino,41.0,1,5,1,4.3,22.2,0,0
+TK-100780,IT,Media,Consulta,Correo,BR,Matutino,2.0,5,3,1,3.4,42.5,1,0
+TK-101410,Logística,Media,Creación de pedido,Portal,US,Matutino,37.0,2,5,0,11.8,23.6,0,0
+TK-100031,Logística,Media,Liberación,Correo,US,Matutino,19.0,4,8,0,4.0,29.8,0,0
+TK-101474,Servicios,Crítica,Creación de pedido,Teléfono,MX,Matutino,3.0,0,6,3,2.3,21.8,1,1
+TK-101168,Servicios,Baja,Actualización de precio,Teléfono,US,Vespertino,99.0,1,7,1,2.5,19.3,0,1
+TK-101277,Materiales directos,Media,Actualización de precio,Correo,MX,Matutino,77.0,0,3,1,12.8,36.4,0,0
+TK-101391,MRO,Baja,Creación de pedido,Teléfono,US,Vespertino,42.0,1,3,1,4.1,25.8,0,0
+TK-100970,Materiales directos,Media,Creación de pedido,Portal,MX,Matutino,90.0,2,0,1,11.1,26.3,0,0
+TK-100538,Materiales directos,Baja,Alta de material,Portal,MX,Matutino,109.0,1,2,1,0.2,22.3,0,0
+TK-100831,Servicios,Media,Actualización de precio,Correo,MX,Matutino,94.0,0,4,0,5.1,53.0,0,0
+TK-101352,IT,Media,Creación de pedido,Correo,US,Matutino,,2,3,0,3.4,15.6,0,0
+TK-101150,MRO,Alta,Actualización de precio,Portal,MX,Vespertino,7.0,2,3,0,1.5,21.8,0,0
+TK-100269,Materiales directos,Baja,Consulta,Portal,US,Nocturno,5.0,0,1,0,6.9,6.4,0,0
+TK-100256,Logística,Media,Liberación,Portal,CA,Nocturno,74.0,2,3,1,10.6,17.8,1,1
+TK-100178,MRO,Media,Cambio de proveedor,Portal,US,Nocturno,64.0,1,3,1,4.8,20.8,0,1
+TK-100260,Servicios,Crítica,Creación de pedido,Teléfono,US,Vespertino,78.0,1,4,0,3.9,13.5,1,1
+TK-100743,IT,Media,Liberación,Portal,US,Nocturno,118.0,3,4,1,5.8,16.8,0,0
+TK-100963,Materiales directos,Baja,Alta de material,Portal,MX,Vespertino,66.0,1,2,1,6.9,16.0,0,1
+TK-100089,Materiales directos,Baja,Actualización de precio,Correo,US,Vespertino,2.0,1,7,2,2.4,47.5,0,0
+TK-101204,Logística,Alta,Alta de material,Correo,CA,Matutino,24.0,1,2,2,8.4,20.8,0,0
+TK-101409,IT,Crítica,Liberación,Portal,MX,Matutino,61.0,1,8,1,13.8,40.1,0,1
+TK-100265,MRO,Baja,Cambio de proveedor,Portal,MX,Vespertino,4.0,3,0,0,7.6,1.6,0,0
+TK-101316,Logística,Media,Alta de material,Correo,US,Matutino,6.0,1,5,0,3.8,13.0,0,0
+TK-100407,Indirectos,Media,Actualización de precio,Correo,CA,Vespertino,37.0,2,3,1,3.8,43.9,0,0
+TK-100635,Materiales directos,Media,Alta de material,Correo,BR,Matutino,98.0,1,5,1,9.3,22.4,0,0
+TK-100978,Indirectos,Baja,Creación de pedido,Portal,US,Matutino,115.0,0,5,1,1.6,17.7,0,0
+TK-100481,Indirectos,Alta,Actualización de precio,Teléfono,BR,Matutino,1.0,1,6,0,7.8,24.8,0,0
+TK-101475,Servicios,Media,Actualización de precio,Teléfono,MX,Matutino,53.0,2,4,2,6.9,33.9,0,1
+TK-101423,Indirectos,Baja,Alta de material,Correo,US,Matutino,61.0,2,4,0,4.0,13.8,0,0
+TK-100924,Servicios,Baja,Consulta,Portal,MX,Nocturno,4.0,2,4,0,4.7,17.8,0,1
+TK-101250,MRO,Baja,Liberación,Teléfono,MX,Vespertino,95.0,0,5,0,18.6,25.3,0,0
+TK-100401,Indirectos,Media,Creación de pedido,Portal,US,Matutino,57.0,2,2,2,8.6,18.7,0,0
+TK-100284,Indirectos,Baja,Creación de pedido,Correo,US,Matutino,114.0,2,4,2,7.0,34.6,0,0
+TK-101067,Indirectos,Baja,Cambio de proveedor,Correo,MX,Nocturno,37.0,0,5,1,2.4,35.5,0,0
+TK-101403,MRO,Baja,Creación de pedido,Portal,US,Vespertino,,1,5,0,1.5,22.6,0,0
+TK-100778,Materiales directos,Baja,Creación de pedido,Correo,MX,Vespertino,29.0,2,5,0,1.7,13.9,0,0
+TK-100159,Logística,Media,Consulta,Correo,US,Matutino,112.0,3,5,2,0.4,30.2,1,0
+TK-100224,MRO,Media,Alta de material,Correo,US,Matutino,44.0,0,7,0,5.0,23.4,0,0
+TK-100992,Logística,Media,Actualización de precio,Correo,US,Nocturno,20.0,4,2,1,3.4,11.4,0,0
+TK-100624,Indirectos,Baja,Liberación,Correo,MX,Matutino,68.0,0,4,1,2.8,13.6,0,1
+TK-100800,Logística,Alta,Creación de pedido,Portal,US,Matutino,81.0,3,1,0,5.4,9.9,0,1
+TK-101452,Servicios,Alta,Consulta,Portal,US,Vespertino,97.0,1,7,0,8.9,25.0,0,1
+TK-100981,MRO,Media,Creación de pedido,Portal,CA,Matutino,73.0,0,4,2,7.7,29.4,1,0
+TK-101166,IT,Alta,Creación de pedido,Correo,MX,Vespertino,27.0,2,4,0,9.5,11.4,1,0
+TK-100623,MRO,Baja,Actualización de precio,Portal,US,Vespertino,81.0,2,3,0,11.6,18.6,0,0
+TK-100951,Servicios,Media,Actualización de precio,Portal,MX,Nocturno,35.0,1,6,0,0.8,18.6,0,0
+TK-100095,Indirectos,Alta,Actualización de precio,Portal,CA,Vespertino,11.0,2,6,0,3.2,24.3,0,0
+TK-100529,Logística,Media,Liberación,Correo,MX,Nocturno,48.0,1,1,0,2.4,30.3,0,0
+TK-100900,Servicios,Media,Creación de pedido,Portal,CA,Vespertino,42.0,0,1,1,1.8,9.3,0,0
+TK-101246,Indirectos,Alta,Creación de pedido,Portal,CA,Matutino,114.0,4,4,0,5.2,31.6,1,0
+TK-100310,Materiales directos,Baja,Creación de pedido,Correo,MX,Matutino,57.0,2,1,0,3.5,24.6,0,0
+TK-101180,Materiales directos,Media,Consulta,Portal,US,Vespertino,17.0,1,4,0,3.6,50.9,0,0
+TK-100701,Indirectos,Baja,Consulta,Portal,US,Matutino,8.0,0,2,1,7.7,17.5,0,0
+TK-101130,MRO,Baja,Consulta,Portal,US,Nocturno,79.0,0,4,0,9.5,38.1,1,0
+TK-100615,Indirectos,Baja,Alta de material,Portal,CA,Matutino,68.0,3,2,3,2.3,38.8,0,0
+TK-100617,Logística,Baja,Cambio de proveedor,Correo,MX,Vespertino,68.0,2,5,0,7.5,26.1,0,0
+TK-100066,Servicios,Media,Actualización de precio,Correo,BR,Nocturno,48.0,3,7,2,4.7,33.2,1,1
+TK-100271,Materiales directos,Media,Consulta,Correo,MX,Matutino,50.0,1,6,0,6.1,30.4,0,0
+TK-100331,Logística,Media,Consulta,Correo,MX,Nocturno,26.0,3,5,2,8.8,23.3,0,1
+TK-100960,Servicios,Media,Cambio de proveedor,Portal,CA,Vespertino,87.0,2,3,1,5.6,19.2,0,0
+TK-100756,Indirectos,Media,Cambio de proveedor,Correo,US,Matutino,21.0,2,3,0,2.4,39.3,0,0
+TK-100422,Materiales directos,Media,Cambio de proveedor,Portal,MX,Matutino,114.0,1,0,0,0.8,26.7,0,0
+TK-100504,Servicios,Media,Alta de material,Portal,BR,Matutino,42.0,0,4,2,2.0,41.0,0,1
+TK-101145,Indirectos,Baja,Actualización de precio,Correo,BR,Matutino,48.0,3,4,2,7.9,21.0,0,1
+TK-101181,Logística,Alta,Liberación,Correo,US,Matutino,91.0,0,7,1,15.4,28.3,0,1
+TK-100751,Indirectos,Media,Creación de pedido,Portal,US,Matutino,104.0,0,2,3,7.1,20.9,1,1
+TK-100259,Materiales directos,Crítica,Actualización de precio,Portal,MX,Matutino,26.0,2,1,0,9.3,24.1,0,1
+TK-100057,Indirectos,Crítica,Alta de material,Correo,US,Matutino,112.0,1,2,0,3.8,17.7,1,1
+TK-100143,MRO,Media,Consulta,,US,Matutino,9.0,3,5,0,17.6,13.4,0,0
+TK-101308,Logística,Alta,Cambio de proveedor,Correo,BR,Vespertino,81.0,0,3,1,4.9,16.4,0,0
+TK-101245,Indirectos,Media,Alta de material,Correo,MX,Vespertino,47.0,1,7,2,1.0,28.2,1,1
+TK-100496,Servicios,Alta,Liberación,Portal,US,Matutino,44.0,3,6,1,6.7,18.9,0,0
+TK-100429,Materiales directos,Baja,Consulta,Correo,MX,Matutino,14.0,0,3,2,1.2,33.2,0,1
+TK-100322,Servicios,Media,Actualización de precio,Portal,US,Vespertino,40.0,2,7,0,5.3,64.6,0,1
+TK-100513,Materiales directos,Baja,Consulta,Portal,US,Vespertino,43.0,2,5,1,1.6,23.9,0,0
+TK-100199,Materiales directos,Crítica,Creación de pedido,Portal,MX,Matutino,33.0,0,3,1,3.8,10.8,0,0
+TK-100160,Logística,Baja,Cambio de proveedor,Portal,CA,Vespertino,41.0,2,5,1,8.2,32.3,0,1
+TK-100228,Servicios,Alta,Creación de pedido,Portal,US,Matutino,57.0,2,3,1,5.5,11.8,0,1
+TK-100956,MRO,Media,Alta de material,Portal,MX,Matutino,91.0,0,6,2,4.1,18.5,0,0
+TK-100597,Logística,Baja,Liberación,Correo,US,Matutino,16.0,2,7,1,6.6,23.1,0,0
+TK-100576,Servicios,Media,Cambio de proveedor,Portal,MX,Matutino,68.0,1,1,2,13.7,15.1,0,0
+TK-100532,Logística,Media,Creación de pedido,Correo,CA,Matutino,86.0,3,4,1,1.3,19.9,0,0
+TK-100805,Materiales directos,Media,Creación de pedido,Portal,CA,Vespertino,52.0,2,5,2,9.7,33.7,0,0
+TK-100962,Indirectos,Media,Creación de pedido,Portal,US,Vespertino,116.0,2,1,2,4.4,15.7,0,0
+TK-101221,Materiales directos,Media,Creación de pedido,Correo,US,Vespertino,78.0,0,6,1,13.4,22.5,0,0
+TK-100952,Indirectos,Alta,Consulta,Correo,CA,Matutino,118.0,2,3,1,5.3,28.5,0,1
+TK-100662,MRO,Baja,Consulta,Teléfono,CA,Vespertino,75.0,2,7,0,0.8,25.4,0,0
+TK-100088,Indirectos,Media,Actualización de precio,Teléfono,US,Nocturno,73.0,0,3,2,2.2,32.3,0,0
+TK-100731,Indirectos,Media,Consulta,,BR,Matutino,5.0,0,2,1,1.5,38.9,1,0
+TK-100820,Indirectos,Crítica,Liberación,Portal,CA,Matutino,,1,5,1,6.7,27.6,0,0
+TK-101136,Indirectos,Media,Creación de pedido,Correo,MX,Matutino,98.0,3,8,0,2.5,20.9,1,1
+TK-100901,Indirectos,Media,Creación de pedido,Correo,US,Vespertino,25.0,3,3,0,4.5,7.3,0,1
+TK-100814,Servicios,Baja,Creación de pedido,Correo,US,Matutino,59.0,0,2,2,8.5,10.6,0,0
+TK-100360,Servicios,Baja,Alta de material,Portal,MX,Vespertino,5.0,3,8,1,26.7,22.8,0,0
+TK-100919,Indirectos,Baja,Alta de material,Portal,US,Matutino,46.0,2,3,1,4.4,9.1,0,0
+TK-101275,Materiales directos,Alta,Creación de pedido,Portal,MX,Vespertino,81.0,1,1,1,9.1,24.9,0,0
+TK-100121,Servicios,Baja,Creación de pedido,Portal,US,Matutino,111.0,5,5,1,2.7,32.6,0,0
+TK-101091,Indirectos,Alta,Creación de pedido,Portal,MX,Vespertino,5.0,0,5,0,7.3,13.8,0,1
+TK-100419,Materiales directos,Media,Creación de pedido,Teléfono,BR,Nocturno,29.0,4,1,0,4.3,27.9,0,1
+TK-101163,IT,Media,Liberación,Portal,MX,Nocturno,27.0,0,3,0,9.7,24.9,0,0
+TK-101049,IT,Media,Cambio de proveedor,Correo,MX,Vespertino,116.0,1,3,0,3.3,17.3,0,0
+TK-100187,Indirectos,Media,Liberación,Portal,MX,Matutino,115.0,1,7,0,3.2,22.2,0,0
+TK-101134,Logística,Media,Actualización de precio,Portal,MX,Vespertino,30.0,1,6,0,8.8,23.5,0,0
+TK-100373,Indirectos,Crítica,Liberación,Correo,CA,Matutino,58.0,0,4,0,8.3,15.1,0,0
+TK-100680,Indirectos,Crítica,Creación de pedido,Portal,MX,Matutino,38.0,1,3,1,3.8,17.2,0,1
+TK-100557,Indirectos,Crítica,Actualización de precio,Portal,BR,Vespertino,49.0,2,5,0,6.4,30.5,0,0
+TK-100134,Indirectos,Alta,Creación de pedido,,US,Vespertino,44.0,0,4,0,7.8,19.6,0,0
+TK-100303,Servicios,Baja,Creación de pedido,Portal,MX,Matutino,46.0,2,5,1,12.2,17.7,0,1
+TK-101284,Servicios,Media,Creación de pedido,Correo,US,Matutino,18.0,1,7,0,2.5,13.3,0,1
+TK-100082,Indirectos,Media,Creación de pedido,Correo,US,Vespertino,14.0,1,4,1,0.8,18.4,0,0
+TK-100644,Indirectos,Alta,Creación de pedido,Teléfono,US,Matutino,34.0,0,4,0,6.7,16.3,0,0
+TK-100548,Materiales directos,Media,Consulta,Correo,MX,Nocturno,75.0,0,6,1,2.4,19.6,0,0
+TK-100479,Servicios,Alta,Consulta,Correo,US,Nocturno,80.0,2,4,1,7.4,23.4,0,0
+TK-101088,Logística,Baja,Alta de material,Portal,US,Matutino,63.0,3,4,0,3.3,30.9,0,0
+TK-100425,Servicios,Baja,Creación de pedido,Portal,US,Vespertino,85.0,1,5,2,0.3,24.2,1,0
+TK-100621,Logística,Baja,Alta de material,Correo,BR,Matutino,92.0,1,3,1,6.3,12.6,0,0
+TK-101107,Materiales directos,Media,Alta de material,Portal,MX,Matutino,,1,3,3,1.5,15.1,1,0
+TK-101210,Indirectos,Media,Creación de pedido,Correo,MX,Matutino,22.0,2,3,1,7.4,25.7,0,0
+TK-101495,Indirectos,Media,Creación de pedido,Correo,CA,Matutino,119.0,1,4,0,2.2,24.7,1,0
+TK-100694,Indirectos,Baja,Actualización de precio,Correo,BR,Nocturno,48.0,0,7,0,0.9,22.7,1,1
+TK-101362,Indirectos,Media,Actualización de precio,Portal,BR,Matutino,,1,5,1,6.5,16.5,0,0
+TK-101157,Materiales directos,Media,Consulta,Teléfono,BR,Matutino,55.0,2,1,1,2.1,24.0,1,1
+TK-101433,Materiales directos,Media,Liberación,Portal,MX,Matutino,29.0,2,7,0,5.1,27.1,0,0
+TK-101205,Materiales directos,Alta,Liberación,Portal,MX,Matutino,28.0,0,6,1,7.6,17.5,1,0
+TK-100404,Materiales directos,Baja,Consulta,Correo,MX,Vespertino,116.0,3,4,2,4.3,21.6,0,1
+TK-101184,Materiales directos,Media,Actualización de precio,Correo,US,Nocturno,12.0,2,8,0,1.3,24.5,0,1
+TK-100013,Servicios,Media,Liberación,Correo,US,Matutino,,2,5,0,6.3,11.0,0,0
+TK-100402,MRO,Baja,Liberación,Portal,US,Vespertino,20.0,1,5,2,14.6,34.6,1,1
+TK-100074,Indirectos,Alta,Liberación,Portal,US,Matutino,109.0,2,4,1,5.3,26.7,0,0
+TK-101451,IT,Baja,Liberación,Portal,US,Matutino,110.0,1,6,0,10.4,35.7,0,0
+TK-100528,MRO,Media,Creación de pedido,Portal,US,Vespertino,103.0,2,6,0,4.4,15.7,0,0
+TK-101488,Indirectos,Media,Creación de pedido,Portal,US,Nocturno,78.0,1,6,0,8.2,21.3,0,0
+TK-100306,Indirectos,Alta,Creación de pedido,Correo,US,Vespertino,63.0,0,4,0,5.6,40.6,0,0
+TK-100332,Materiales directos,Crítica,Creación de pedido,Portal,CA,Vespertino,48.0,3,2,0,4.5,12.4,0,0
+TK-100492,Servicios,Media,Creación de pedido,Correo,MX,Nocturno,72.0,0,5,1,8.3,20.8,1,0
+TK-101085,MRO,Baja,Actualización de precio,Correo,MX,Vespertino,34.0,1,5,0,3.8,18.4,0,1
+TK-101182,Materiales directos,Alta,Creación de pedido,Portal,MX,Vespertino,87.0,0,5,0,9.7,10.1,0,1
+TK-100891,Indirectos,Media,Creación de pedido,Correo,MX,Vespertino,48.0,1,6,0,5.3,25.6,0,1
+TK-100164,Materiales directos,Baja,Alta de material,Portal,MX,Nocturno,44.0,2,6,1,3.8,25.7,1,1
+TK-100048,Indirectos,Alta,Alta de material,Portal,US,Matutino,59.0,1,4,1,7.3,25.2,0,0
+TK-100614,MRO,Media,Consulta,Teléfono,US,Vespertino,102.0,2,2,3,4.9,23.3,1,0
+TK-100099,Materiales directos,Alta,Creación de pedido,Portal,MX,Matutino,80.0,1,4,0,2.1,22.3,0,0
+TK-101473,Materiales directos,Baja,Alta de material,Portal,US,Vespertino,78.0,0,3,0,5.4,16.0,0,0
+TK-100896,MRO,Crítica,Alta de material,Portal,US,Vespertino,64.0,2,3,1,1.8,9.1,1,1
+TK-100554,MRO,Alta,Actualización de precio,Portal,US,Vespertino,103.0,1,4,3,2.4,33.5,0,0
+TK-100454,Materiales directos,Crítica,Creación de pedido,Teléfono,US,Matutino,120.0,1,4,0,17.1,7.8,0,1
+TK-100281,Materiales directos,Baja,Alta de material,Portal,BR,Vespertino,73.0,0,5,1,12.1,11.2,0,0
+TK-101457,Indirectos,Baja,Creación de pedido,Portal,BR,Vespertino,43.0,0,6,0,2.0,27.2,0,0
+TK-100312,Indirectos,Media,Consulta,Correo,BR,Vespertino,110.0,0,3,0,3.9,26.6,0,0
+TK-100132,MRO,Alta,Consulta,Portal,MX,Vespertino,73.0,2,5,0,21.8,9.3,0,1
+TK-100862,Logística,Baja,Creación de pedido,Portal,CA,Nocturno,60.0,1,3,0,5.0,31.4,1,1
+TK-101294,Indirectos,Crítica,Alta de material,Portal,US,Vespertino,52.0,1,5,0,3.2,26.4,0,1
+TK-101011,Servicios,Media,Creación de pedido,Portal,US,Matutino,104.0,1,4,1,2.7,11.8,0,0
+TK-100603,MRO,Alta,Actualización de precio,Portal,US,Vespertino,105.0,0,2,1,4.5,16.5,0,0
+TK-100639,Logística,Alta,Liberación,Portal,BR,Vespertino,16.0,2,6,0,1.4,27.4,0,0
+TK-100216,Logística,Alta,Liberación,Portal,US,Matutino,54.0,1,3,0,5.9,12.0,0,1
+TK-100136,Materiales directos,Media,Liberación,Portal,US,Matutino,72.0,1,9,1,4.9,28.6,1,0
+TK-101432,Servicios,Baja,Consulta,Portal,MX,Matutino,59.0,0,1,2,8.5,24.0,0,0
+TK-101244,Materiales directos,Alta,Actualización de precio,Teléfono,BR,Vespertino,88.0,1,3,1,20.0,12.4,0,0
+TK-100661,Indirectos,Media,Creación de pedido,Teléfono,US,Matutino,6.0,0,2,2,12.2,28.1,0,0
+TK-100299,Logística,Media,Actualización de precio,Correo,US,Matutino,27.0,1,4,1,3.8,58.2,0,1
+TK-101389,MRO,Baja,Liberación,Correo,US,Vespertino,109.0,1,5,0,3.6,38.2,1,1
+TK-101302,Servicios,Media,Alta de material,Correo,MX,Matutino,102.0,3,3,1,6.1,17.7,1,0
+TK-100665,Indirectos,Alta,Creación de pedido,Correo,US,Matutino,118.0,0,9,3,1.2,27.6,0,0
+TK-101247,Servicios,Baja,Liberación,Portal,BR,Vespertino,107.0,1,6,1,3.3,23.8,1,0
+TK-100749,IT,Media,Cambio de proveedor,Portal,MX,Matutino,65.0,2,3,0,6.3,21.6,0,0
+TK-101036,Servicios,Media,Cambio de proveedor,Correo,MX,Matutino,44.0,0,5,0,1.5,9.3,0,1
+TK-100196,Materiales directos,Media,Cambio de proveedor,Correo,MX,Vespertino,47.0,1,8,0,2.4,49.1,0,0
+TK-100369,Indirectos,Media,Creación de pedido,Portal,MX,Vespertino,28.0,1,3,2,4.0,30.6,0,0
+TK-100578,Servicios,Baja,Creación de pedido,Portal,BR,Matutino,49.0,0,6,2,3.5,19.1,0,1
+TK-100582,Servicios,Baja,Liberación,Correo,MX,Vespertino,49.0,0,5,1,12.9,14.4,0,0
+TK-100730,Servicios,Media,Liberación,Portal,MX,Vespertino,92.0,1,4,1,7.0,17.6,0,0
+TK-100760,Indirectos,Media,Creación de pedido,Portal,US,Vespertino,21.0,2,3,3,11.5,17.6,0,1
+TK-101149,Servicios,Media,Actualización de precio,Portal,BR,Matutino,90.0,3,3,0,21.3,14.3,0,0
+TK-100376,Materiales directos,Alta,Actualización de precio,Correo,US,Matutino,73.0,0,4,1,2.1,34.3,0,0
+TK-100342,MRO,Media,Liberación,Portal,CA,Matutino,21.0,3,1,0,4.2,7.0,0,0
+TK-101367,Materiales directos,Media,Actualización de precio,Correo,US,Matutino,109.0,4,4,0,15.3,12.0,0,0
+TK-101010,Indirectos,Media,Alta de material,Correo,MX,Nocturno,,0,5,0,0.6,23.8,0,1
+TK-100871,Logística,Media,Cambio de proveedor,Portal,MX,Matutino,24.0,3,6,3,6.0,24.2,0,0
+TK-100949,IT,Media,Liberación,Portal,MX,Matutino,110.0,1,3,0,5.6,9.7,0,0
+TK-100059,Materiales directos,Media,Creación de pedido,Portal,BR,Nocturno,76.0,2,3,0,2.9,11.1,0,0
+TK-100383,IT,Media,Consulta,Correo,MX,Matutino,15.0,3,4,0,5.0,24.3,1,1
+TK-101393,Materiales directos,Media,Actualización de precio,Portal,US,Vespertino,102.0,2,10,1,8.5,32.0,1,1
+TK-100240,Materiales directos,Alta,Cambio de proveedor,Correo,MX,Matutino,103.0,1,6,1,12.6,50.5,0,1
+TK-100708,IT,Media,Alta de material,Teléfono,MX,Matutino,88.0,1,0,1,7.2,12.7,0,0
+TK-100423,Materiales directos,Media,Alta de material,Portal,MX,Vespertino,93.0,0,3,1,3.6,24.6,0,0
+TK-100877,Indirectos,Alta,Creación de pedido,Portal,US,Vespertino,33.0,0,1,2,3.9,19.1,0,1
+TK-101094,Indirectos,Baja,Creación de pedido,Portal,BR,Matutino,81.0,1,3,3,4.6,20.6,0,0
+TK-100762,Materiales directos,Crítica,Cambio de proveedor,Correo,MX,Matutino,56.0,2,4,0,3.8,16.6,1,0
+TK-100670,Indirectos,Media,Actualización de precio,Portal,BR,Matutino,79.0,0,4,0,2.2,51.0,0,0
+TK-100028,Materiales directos,Media,Liberación,,US,Vespertino,36.0,1,3,1,8.3,18.4,1,1
+TK-101472,Materiales directos,Media,Creación de pedido,Portal,BR,Matutino,71.0,1,4,1,5.1,22.0,0,0
+TK-101449,Servicios,Crítica,Actualización de precio,Portal,MX,Matutino,37.0,1,2,1,3.5,26.4,0,0
+TK-100530,Indirectos,Media,Actualización de precio,Portal,US,Vespertino,19.0,1,6,1,5.8,24.7,0,0
+TK-100127,Indirectos,Media,Actualización de precio,Correo,US,Nocturno,22.0,0,4,1,6.7,13.5,0,0
+TK-100894,Materiales directos,Baja,Actualización de precio,Portal,US,Vespertino,66.0,1,9,1,1.3,21.4,0,1
+TK-100794,Materiales directos,Media,Creación de pedido,Correo,MX,Matutino,68.0,3,4,0,10.5,11.5,0,0
+TK-100720,MRO,Media,Actualización de precio,Portal,MX,Vespertino,9.0,1,5,0,13.8,18.7,1,0
+TK-100869,Materiales directos,Media,Alta de material,Correo,MX,Matutino,113.0,1,4,2,1.5,20.7,0,0
+TK-101171,Indirectos,Media,Consulta,Correo,MX,Matutino,41.0,1,2,1,17.9,25.7,0,1
+TK-100349,Servicios,Media,Liberación,Portal,MX,Matutino,49.0,4,5,1,2.5,16.0,0,0
+TK-100400,Indirectos,Baja,Alta de material,Correo,BR,Matutino,60.0,3,2,1,3.5,26.7,0,0
+TK-100766,Materiales directos,Baja,Liberación,Portal,MX,Nocturno,59.0,1,5,0,18.3,18.4,0,1
+TK-100091,Materiales directos,Baja,Liberación,Portal,US,Matutino,1.0,2,5,0,4.2,32.7,0,0
+TK-100725,Materiales directos,Alta,Liberación,Portal,MX,Matutino,4.0,1,4,1,0.6,20.4,0,1
+TK-101340,Indirectos,Baja,Liberación,Portal,CA,Vespertino,105.0,1,3,2,2.6,16.0,0,0
+TK-100263,Indirectos,Baja,Creación de pedido,Teléfono,US,Matutino,,2,2,0,2.6,18.7,0,0
+TK-100899,Materiales directos,Baja,Creación de pedido,Correo,MX,Nocturno,46.0,1,7,1,2.2,40.2,0,0
+TK-101164,Materiales directos,Baja,Cambio de proveedor,Portal,BR,Nocturno,8.0,1,5,1,7.5,23.8,0,1
+TK-101291,Indirectos,Alta,Creación de pedido,Correo,US,Nocturno,93.0,0,6,0,10.4,20.0,0,0
+TK-100149,Indirectos,Crítica,Liberación,Portal,CA,Matutino,24.0,2,1,2,10.0,16.8,0,0
+TK-100337,Materiales directos,Baja,Actualización de precio,Portal,MX,Matutino,109.0,2,2,0,7.4,16.9,0,0
+TK-100415,Materiales directos,Baja,Cambio de proveedor,Portal,MX,Nocturno,112.0,2,2,1,2.2,22.1,0,1
+TK-100391,Servicios,Baja,Creación de pedido,Portal,US,Vespertino,27.0,1,7,0,2.2,16.4,0,1
+TK-101009,Logística,Media,Creación de pedido,Correo,US,Nocturno,112.0,1,6,0,5.8,17.3,0,0
+TK-100079,Servicios,Crítica,Alta de material,Portal,US,Matutino,36.0,2,1,2,6.2,20.7,1,0
+TK-101106,Logística,Baja,Creación de pedido,Correo,US,Matutino,76.0,0,3,0,4.0,25.9,1,1
+TK-101042,Logística,Media,Liberación,Portal,US,Matutino,110.0,1,5,1,8.6,24.5,0,0
+TK-100875,Logística,Media,Consulta,Correo,US,Vespertino,65.0,1,4,1,5.9,21.9,0,0
+TK-100036,Materiales directos,Media,Alta de material,Portal,BR,Nocturno,48.0,3,3,0,8.1,31.1,0,1
+TK-101480,Indirectos,Alta,Consulta,,CA,Vespertino,80.0,3,6,1,2.9,17.3,0,1
+TK-100637,Logística,Media,Liberación,Portal,US,Vespertino,114.0,1,3,1,0.8,18.7,0,0
+TK-100539,Materiales directos,Media,Creación de pedido,Teléfono,MX,Matutino,37.0,4,3,1,10.9,14.9,0,0
+TK-101116,Materiales directos,Media,Creación de pedido,Portal,CA,Vespertino,77.0,0,6,0,6.2,22.0,0,0
+TK-100324,Servicios,Media,Liberación,Correo,US,Matutino,104.0,2,4,1,12.4,52.9,0,0
+TK-100664,Materiales directos,Media,Alta de material,Portal,BR,Matutino,6.0,0,4,2,8.1,25.5,0,1
+TK-100007,Logística,Alta,Alta de material,Portal,MX,Nocturno,60.0,2,3,1,6.5,16.8,0,1
+TK-100861,Logística,Alta,Actualización de precio,Correo,US,Matutino,33.0,2,3,1,13.6,18.7,0,1
+TK-101154,Materiales directos,Alta,Actualización de precio,Portal,MX,Matutino,18.0,2,4,0,8.0,31.4,0,1
+TK-101074,MRO,Alta,Creación de pedido,Correo,MX,Matutino,103.0,5,3,0,4.9,44.0,1,1
+TK-100645,Servicios,Media,Creación de pedido,Portal,MX,Vespertino,53.0,3,4,0,7.2,14.9,0,1
+TK-100304,Servicios,Alta,Consulta,Portal,US,Matutino,43.0,2,3,0,4.9,14.3,0,1
+TK-101311,Indirectos,Baja,Actualización de precio,Portal,MX,Vespertino,53.0,0,1,0,6.7,4.6,0,0
+TK-100217,Materiales directos,Media,Cambio de proveedor,Portal,MX,Vespertino,38.0,1,2,0,5.6,11.0,0,0
+TK-101087,Logística,Media,Actualización de precio,Correo,BR,Matutino,59.0,2,4,2,5.3,25.9,0,1
+TK-100396,Indirectos,Baja,Consulta,Portal,BR,Vespertino,30.0,2,3,0,8.4,5.3,0,0
+TK-100920,Servicios,Crítica,Actualización de precio,Portal,MX,Matutino,117.0,2,7,1,8.2,20.2,0,1
+TK-100351,Servicios,Baja,Creación de pedido,Portal,BR,Vespertino,116.0,1,5,0,6.0,20.3,1,0
+TK-101404,Indirectos,Crítica,Creación de pedido,Correo,MX,Matutino,14.0,1,5,0,1.6,14.2,0,1
+TK-101174,Logística,Media,Cambio de proveedor,Portal,MX,Matutino,40.0,2,6,0,4.7,20.8,0,0
+TK-100203,Servicios,Media,Consulta,Portal,MX,Vespertino,119.0,1,7,1,8.9,30.3,0,1
+TK-101029,Logística,Alta,Actualización de precio,Teléfono,MX,Vespertino,56.0,2,4,1,5.1,19.2,0,0
+TK-100384,Indirectos,Alta,Actualización de precio,Portal,BR,Vespertino,36.0,2,5,1,2.2,24.2,0,0
+TK-100562,Indirectos,Baja,Actualización de precio,Portal,US,Matutino,114.0,4,3,0,1.1,15.8,0,0
+TK-100311,Indirectos,Baja,Consulta,Portal,US,Matutino,6.0,0,3,2,6.0,18.2,1,1
+TK-100979,Servicios,Media,Actualización de precio,Correo,BR,Matutino,92.0,0,3,2,8.3,19.9,0,1
+TK-101253,Materiales directos,Alta,Creación de pedido,Correo,BR,Vespertino,113.0,3,4,1,9.5,30.4,0,0
+TK-100405,MRO,Media,Liberación,Correo,US,Nocturno,90.0,2,8,0,2.0,32.5,0,0
+TK-100537,Servicios,Crítica,Creación de pedido,Teléfono,US,Matutino,59.0,0,6,0,2.5,32.2,0,1
+TK-100009,Materiales directos,Baja,Creación de pedido,Correo,BR,Vespertino,80.0,2,3,0,3.6,10.7,0,1
+TK-101248,Materiales directos,Baja,Creación de pedido,Teléfono,US,Nocturno,,1,5,0,1.2,15.5,0,0
+TK-100242,IT,Baja,Actualización de precio,Portal,US,Matutino,74.0,2,4,0,7.9,16.3,0,0
+TK-101320,IT,Crítica,Cambio de proveedor,Portal,US,Nocturno,48.0,2,4,0,2.6,7.8,0,1
+TK-100892,MRO,Alta,Alta de material,Portal,US,Matutino,34.0,1,9,1,5.0,36.9,0,0
+TK-101235,Materiales directos,Baja,Creación de pedido,Portal,MX,Vespertino,84.0,2,3,1,1.5,17.5,1,0
+TK-101200,Logística,Alta,Creación de pedido,Portal,MX,Matutino,65.0,1,4,0,7.2,25.2,0,0
+TK-100206,Indirectos,Crítica,Actualización de precio,Portal,MX,Vespertino,58.0,1,6,2,4.1,38.4,1,1
+TK-100825,IT,Baja,Liberación,Portal,MX,Nocturno,7.0,3,2,0,1.7,21.5,0,1
+TK-100986,MRO,Media,Creación de pedido,Teléfono,MX,Vespertino,107.0,5,4,0,0.9,24.8,0,0
+TK-100559,Servicios,Baja,Alta de material,Correo,BR,Vespertino,118.0,1,3,1,6.1,10.2,0,1
+TK-100923,Servicios,Alta,Cambio de proveedor,Correo,MX,Vespertino,42.0,0,4,0,3.1,20.5,0,1
+TK-100276,Indirectos,Media,Liberación,,BR,Matutino,76.0,1,7,2,1.8,24.2,0,1
+TK-101146,Indirectos,Alta,Creación de pedido,Portal,BR,Matutino,51.0,0,3,1,10.9,15.5,0,0
+TK-100585,MRO,Media,Consulta,Teléfono,MX,Matutino,97.0,2,6,1,0.6,28.7,0,0
+TK-101071,IT,Baja,Cambio de proveedor,Portal,MX,Vespertino,101.0,3,5,2,5.5,26.7,1,1
+TK-100521,IT,Media,Actualización de precio,Teléfono,CA,Matutino,,3,6,1,13.9,23.6,0,0
+TK-101441,Indirectos,Crítica,Creación de pedido,Correo,CA,Matutino,8.0,1,7,0,4.3,38.1,0,1
+TK-100535,Materiales directos,Baja,Alta de material,Correo,MX,Matutino,89.0,1,2,3,14.9,20.6,0,0
+TK-100063,Servicios,Alta,Creación de pedido,,US,Matutino,63.0,2,2,0,12.5,6.0,0,0
+TK-101376,Materiales directos,Baja,Creación de pedido,Portal,US,Matutino,104.0,0,6,3,9.2,71.1,0,0
+TK-100676,Indirectos,Media,Liberación,Portal,US,Nocturno,66.0,1,6,1,9.9,17.3,0,1
+TK-100316,Indirectos,Media,Creación de pedido,Portal,MX,Matutino,13.0,3,4,0,2.3,45.1,0,0
+TK-100983,Logística,Baja,Alta de material,Portal,US,Vespertino,52.0,0,3,1,4.1,22.9,0,1
+TK-101468,Indirectos,Baja,Alta de material,Portal,US,Matutino,22.0,5,0,0,5.2,13.4,0,0
+TK-101295,Indirectos,Alta,Liberación,Correo,MX,Vespertino,4.0,2,7,0,4.4,16.3,1,1
+TK-100536,Materiales directos,Alta,Liberación,Portal,US,Nocturno,,2,3,0,3.2,6.7,1,1
+TK-101158,Materiales directos,Media,Creación de pedido,Correo,CA,Matutino,15.0,2,5,3,5.6,40.2,0,0
+TK-101264,MRO,Media,Liberación,Teléfono,US,Vespertino,117.0,2,4,1,6.8,37.4,0,0
+TK-100867,IT,Baja,Actualización de precio,Portal,MX,Matutino,78.0,1,6,0,3.8,38.9,0,0
+TK-100977,Indirectos,Baja,Creación de pedido,Portal,BR,Vespertino,17.0,0,6,0,3.5,24.3,0,1
+TK-100755,Logística,Crítica,Actualización de precio,Correo,MX,Vespertino,3.0,1,3,0,4.7,14.8,0,1
+TK-100594,Servicios,Baja,Creación de pedido,Portal,BR,Nocturno,13.0,3,6,0,4.3,15.2,0,1
+TK-100155,Materiales directos,Crítica,Creación de pedido,Portal,MX,Matutino,52.0,0,5,4,16.5,22.7,0,1
+TK-100764,Materiales directos,Baja,Creación de pedido,Teléfono,MX,Nocturno,51.0,2,6,1,3.4,27.8,0,0
+TK-100790,Servicios,Baja,Alta de material,Correo,BR,Matutino,89.0,2,3,0,2.8,8.0,0,0
+TK-100954,Materiales directos,Alta,Alta de material,Portal,MX,Nocturno,,1,3,1,5.1,17.9,1,0
+TK-101193,IT,Alta,Actualización de precio,Portal,MX,Matutino,28.0,3,5,0,5.8,10.4,0,0
+TK-100189,Logística,Media,Creación de pedido,Correo,MX,Matutino,11.0,1,2,0,5.0,6.6,0,0
+TK-100190,Indirectos,Media,Cambio de proveedor,Correo,MX,Matutino,27.0,4,6,0,8.0,24.9,0,0
+TK-101052,Materiales directos,Media,Alta de material,,US,Vespertino,69.0,1,4,1,4.7,25.9,0,0
+TK-100575,IT,Media,Cambio de proveedor,Teléfono,MX,Nocturno,9.0,1,5,2,4.3,25.2,0,0
+TK-101239,Materiales directos,Alta,Actualización de precio,Teléfono,MX,Vespertino,111.0,1,3,0,13.1,45.1,0,0
+TK-101070,Indirectos,Crítica,Creación de pedido,Correo,MX,Vespertino,111.0,3,4,1,19.5,23.2,0,1
+TK-100243,Indirectos,Baja,Consulta,Correo,US,Vespertino,30.0,0,6,2,13.0,22.8,0,0
+TK-101345,MRO,Baja,Liberación,Portal,US,Vespertino,61.0,2,6,1,3.6,27.0,0,0
+TK-101343,Servicios,Media,Actualización de precio,Portal,BR,Matutino,28.0,2,8,0,5.8,30.7,0,0
+TK-101383,Servicios,Media,Creación de pedido,Correo,CA,Vespertino,7.0,3,3,0,4.4,13.8,0,0
+TK-101443,Materiales directos,Alta,Liberación,Portal,MX,Matutino,102.0,1,3,2,9.8,32.1,1,1
+TK-100352,Materiales directos,Crítica,Creación de pedido,Correo,CA,Vespertino,120.0,1,7,1,12.5,28.7,0,1
+TK-100042,IT,Baja,Consulta,Portal,US,Matutino,37.0,1,4,0,4.9,15.4,1,0
+TK-101251,Materiales directos,Baja,Cambio de proveedor,Portal,MX,Vespertino,18.0,1,5,1,2.0,24.9,0,0
+TK-101030,Indirectos,Media,Consulta,Correo,CA,Matutino,22.0,2,4,1,3.3,11.6,0,1
+TK-101281,Indirectos,Baja,Creación de pedido,Teléfono,MX,Vespertino,100.0,2,4,0,2.4,16.9,0,0
+TK-100765,MRO,Media,Creación de pedido,Portal,US,Vespertino,117.0,0,7,0,11.8,21.7,0,0
+TK-100100,MRO,Baja,Creación de pedido,Portal,US,Vespertino,48.0,1,8,0,10.6,24.3,0,0
+TK-100287,Materiales directos,Media,Alta de material,,MX,Vespertino,7.0,0,3,1,9.2,18.1,0,1
+TK-100846,MRO,Baja,Actualización de precio,Portal,US,Vespertino,69.0,0,6,1,3.8,16.8,0,0
+TK-101008,Indirectos,Crítica,Creación de pedido,Portal,US,Matutino,25.0,2,3,0,8.6,16.6,0,0
+TK-101214,Indirectos,Baja,Creación de pedido,Correo,MX,Vespertino,61.0,2,4,2,10.7,32.8,1,1
+TK-101208,Servicios,Baja,Creación de pedido,Correo,US,Matutino,48.0,1,6,2,9.3,48.3,0,1
+TK-100564,Servicios,Baja,Creación de pedido,Portal,CA,Vespertino,120.0,1,2,2,3.6,20.9,0,0
+TK-100485,Materiales directos,Media,Alta de material,Portal,CA,Vespertino,68.0,3,4,2,2.6,32.9,0,1
+TK-101099,IT,Crítica,Alta de material,Correo,US,Matutino,62.0,4,4,1,0.7,25.6,0,0
+TK-100209,Materiales directos,Alta,Creación de pedido,Portal,US,Matutino,69.0,1,2,1,9.2,20.9,1,1
+TK-100084,Materiales directos,Baja,Liberación,Teléfono,US,Vespertino,17.0,4,1,2,0.7,23.5,0,0
+TK-101128,Logística,Media,Actualización de precio,Correo,MX,Nocturno,76.0,2,2,0,0.6,15.7,0,1
+TK-100251,Servicios,Media,Consulta,Portal,BR,Nocturno,57.0,4,5,3,19.8,34.1,1,1
+TK-101243,Indirectos,Baja,Actualización de precio,Correo,MX,Matutino,,3,6,0,9.3,15.6,0,0
+TK-100077,Indirectos,Alta,Cambio de proveedor,Correo,MX,Nocturno,106.0,2,4,1,19.4,28.3,0,1
+TK-100229,Servicios,Baja,Alta de material,Correo,MX,Vespertino,8.0,2,7,1,2.9,19.5,0,0
+TK-101378,IT,Media,Creación de pedido,Portal,CA,Vespertino,12.0,0,4,3,1.4,30.2,0,0
+TK-101227,Indirectos,Alta,Alta de material,Correo,US,Nocturno,52.0,1,8,0,1.4,22.1,0,0
+TK-100613,MRO,Baja,Alta de material,Correo,MX,Nocturno,66.0,0,4,0,3.0,10.3,0,0
+TK-101083,MRO,Baja,Liberación,Portal,BR,Vespertino,105.0,2,3,2,16.6,27.2,0,1
+TK-100572,IT,Media,Creación de pedido,Portal,MX,Vespertino,13.0,0,2,0,9.3,9.1,0,0
+TK-101342,IT,Media,Creación de pedido,Portal,US,Matutino,34.0,1,7,0,8.4,15.4,0,0
+TK-100640,IT,Alta,Actualización de precio,Correo,MX,Matutino,12.0,1,7,0,10.3,62.8,0,1
+TK-101114,MRO,Alta,Actualización de precio,Correo,MX,Matutino,44.0,2,4,0,8.2,18.1,0,0
+TK-100675,Servicios,Media,Liberación,Portal,MX,Matutino,97.0,3,4,3,7.5,27.6,0,0
+TK-100440,Servicios,Baja,Alta de material,Portal,MX,Vespertino,20.0,1,1,0,2.0,18.3,0,0
+TK-100420,MRO,Crítica,Liberación,Portal,MX,Matutino,90.0,1,4,0,6.7,13.1,0,1
+TK-101115,MRO,Baja,Liberación,Correo,BR,Matutino,35.0,1,8,0,5.2,28.1,0,0
+TK-100834,Logística,Baja,Actualización de precio,Portal,CA,Vespertino,49.0,0,3,1,4.3,13.5,0,1
+TK-100747,Indirectos,Baja,Creación de pedido,Portal,MX,Matutino,18.0,2,3,0,10.4,12.6,0,1
+TK-101351,IT,Media,Creación de pedido,Teléfono,US,Matutino,67.0,1,5,1,11.9,18.7,0,0
+TK-100695,MRO,Media,Liberación,Teléfono,MX,Nocturno,37.0,0,0,2,9.0,36.7,0,1
+TK-100201,Logística,Crítica,Liberación,Teléfono,MX,Matutino,46.0,3,1,1,3.7,32.5,0,1
+TK-100350,Materiales directos,Alta,Cambio de proveedor,Correo,MX,Vespertino,109.0,0,3,1,7.4,14.2,0,1
+TK-100878,Indirectos,Media,Consulta,Correo,US,Vespertino,63.0,5,4,0,5.1,21.2,0,0
+TK-101476,Servicios,Alta,Alta de material,Portal,MX,Matutino,22.0,1,3,0,6.7,11.8,0,0
+TK-100905,MRO,Alta,Cambio de proveedor,Correo,MX,Nocturno,73.0,1,4,2,4.3,29.7,0,0
+TK-101044,Logística,Baja,Consulta,Correo,US,Nocturno,76.0,1,6,1,1.7,26.8,0,0
+TK-101258,IT,Alta,Actualización de precio,Portal,CA,Matutino,114.0,3,4,0,1.4,12.0,1,0
+TK-100641,Logística,Alta,Creación de pedido,Correo,US,Matutino,16.0,0,6,0,4.2,13.8,0,1
+TK-100356,Servicios,Crítica,Cambio de proveedor,Teléfono,MX,Vespertino,60.0,1,2,0,3.0,18.6,0,1
+TK-100693,Indirectos,Alta,Creación de pedido,,CA,Matutino,1.0,0,3,3,2.8,17.6,0,0
+TK-100494,Indirectos,Baja,Alta de material,Portal,US,Nocturno,57.0,2,0,1,10.2,10.6,0,0
+TK-100181,MRO,Alta,Consulta,Teléfono,US,Nocturno,,0,3,0,15.4,22.5,0,1
+TK-100245,Servicios,Alta,Creación de pedido,Portal,US,Vespertino,95.0,3,4,0,3.2,10.8,0,0
+TK-100822,Servicios,Baja,Alta de material,Correo,CA,Vespertino,42.0,1,4,2,21.7,28.8,0,1
+TK-100275,Logística,Media,Alta de material,Portal,US,Vespertino,,0,3,0,7.1,12.0,0,1
+TK-100393,Servicios,Media,Consulta,Portal,US,Matutino,,0,6,0,2.4,21.0,0,0
+TK-100221,Indirectos,Baja,Creación de pedido,Portal,MX,Matutino,82.0,0,3,0,12.3,17.8,0,0
+TK-100235,MRO,Alta,Creación de pedido,Teléfono,US,Vespertino,17.0,2,5,0,3.8,39.6,0,0
+TK-100035,Indirectos,Baja,Consulta,Portal,CA,Matutino,11.0,2,4,1,6.8,16.9,0,0
+TK-100086,Materiales directos,Crítica,Cambio de proveedor,Correo,BR,Matutino,44.0,1,5,0,5.2,14.2,0,0
+TK-100157,Indirectos,Baja,Creación de pedido,Teléfono,MX,Vespertino,90.0,1,4,0,2.4,8.5,0,0
+TK-101229,MRO,Media,Actualización de precio,Teléfono,US,Matutino,,2,1,0,3.8,10.8,0,0
+TK-101358,Indirectos,Media,Cambio de proveedor,Portal,US,Nocturno,49.0,2,1,1,5.3,10.3,0,1
+TK-101119,Indirectos,Alta,Cambio de proveedor,Correo,US,Matutino,59.0,0,4,0,6.2,41.8,0,1
+TK-100364,Materiales directos,Media,Alta de material,Correo,US,Matutino,12.0,2,1,1,0.7,6.3,1,1
+TK-100832,Servicios,Media,Alta de material,Correo,MX,Vespertino,68.0,5,7,0,9.0,18.0,1,1
+TK-100381,Servicios,Media,Cambio de proveedor,Portal,MX,Matutino,74.0,1,2,3,9.7,18.5,0,1
+TK-101379,Servicios,Media,Consulta,Correo,MX,Matutino,1.0,0,3,3,3.1,21.2,0,0
+TK-101339,IT,Media,Actualización de precio,Portal,US,Matutino,97.0,0,3,0,3.5,12.4,0,0
+TK-100510,Materiales directos,Alta,Creación de pedido,Portal,MX,Vespertino,100.0,3,12,0,3.0,29.1,0,1
+TK-100068,Indirectos,Baja,Creación de pedido,Portal,US,Vespertino,107.0,2,5,1,10.5,23.5,1,1
+TK-101354,Indirectos,Media,Creación de pedido,Portal,MX,Vespertino,71.0,3,3,0,6.6,28.3,0,1
+TK-100895,Logística,Media,Consulta,Portal,US,Matutino,82.0,1,6,2,15.6,46.2,0,1
+TK-100813,MRO,Media,Actualización de precio,Portal,US,Matutino,91.0,2,4,2,7.5,17.2,0,1
+TK-100802,Indirectos,Alta,Creación de pedido,Correo,MX,Matutino,80.0,2,7,0,4.1,29.6,0,1
+TK-100632,IT,Alta,Consulta,Portal,US,Nocturno,113.0,1,1,1,3.8,18.4,0,0
+TK-100472,Indirectos,Crítica,Actualización de precio,Portal,MX,Matutino,37.0,3,2,0,6.9,28.9,1,0
+TK-100927,Materiales directos,Baja,Actualización de precio,Teléfono,US,Vespertino,23.0,0,3,3,5.2,25.6,0,1
+TK-100394,Logística,Baja,Creación de pedido,Portal,US,Matutino,68.0,6,3,0,3.6,26.8,0,0
+TK-101380,Indirectos,Baja,Creación de pedido,Portal,US,Matutino,19.0,2,3,0,14.7,43.4,0,0
+TK-100917,Materiales directos,Baja,Actualización de precio,Portal,US,Nocturno,93.0,0,2,0,5.7,14.7,0,1
+TK-100348,Indirectos,Media,Alta de material,Correo,BR,Matutino,20.0,0,2,1,1.1,15.7,1,1
+TK-100826,Materiales directos,Crítica,Actualización de precio,Portal,MX,Matutino,30.0,3,4,1,6.4,22.1,1,1
+TK-100330,Indirectos,Media,Creación de pedido,Teléfono,US,Matutino,59.0,1,3,1,3.1,17.8,0,0
+TK-100135,Servicios,Crítica,Liberación,Correo,US,Matutino,40.0,2,6,0,5.2,21.1,0,0
+TK-101133,Materiales directos,Alta,Actualización de precio,Portal,US,Matutino,54.0,2,3,1,12.5,22.4,1,0
+TK-100010,Indirectos,Alta,Liberación,Portal,BR,Vespertino,2.0,2,3,2,4.4,20.9,0,0
+TK-101249,MRO,Media,Creación de pedido,Teléfono,BR,Vespertino,90.0,0,2,1,5.3,16.2,1,1
+TK-100864,Servicios,Alta,Cambio de proveedor,Teléfono,US,Matutino,25.0,1,7,0,12.8,22.4,0,0
+TK-100011,Indirectos,Baja,Cambio de proveedor,Correo,BR,Vespertino,96.0,0,7,2,6.2,24.2,0,0
+TK-100660,Indirectos,Baja,Creación de pedido,Portal,MX,Matutino,73.0,3,3,3,7.5,20.4,0,0
+TK-100993,IT,Baja,Creación de pedido,Portal,CA,Matutino,94.0,1,7,2,7.3,24.1,0,1
+TK-100931,Indirectos,Alta,Actualización de precio,,US,Matutino,25.0,3,9,2,5.3,24.9,1,1
+TK-101045,Materiales directos,Media,Actualización de precio,Correo,CA,Matutino,103.0,3,5,1,3.4,24.1,0,0
+TK-100285,Servicios,Baja,Creación de pedido,Teléfono,BR,Matutino,85.0,2,3,0,8.3,14.4,1,0
+TK-100703,Materiales directos,Alta,Actualización de precio,Portal,CA,Matutino,52.0,0,3,0,5.2,24.2,1,1
+TK-100371,Logística,Media,Consulta,Portal,CA,Matutino,16.0,0,2,2,12.5,16.3,0,0
+TK-101209,Indirectos,Baja,Actualización de precio,Portal,US,Matutino,100.0,4,2,3,11.5,35.4,0,1
+TK-100599,MRO,Baja,Consulta,Correo,US,Matutino,62.0,1,4,2,4.7,38.0,1,1
+TK-100126,Servicios,Alta,Creación de pedido,Correo,US,Matutino,58.0,0,3,0,0.9,7.8,0,0
+TK-100408,IT,Baja,Creación de pedido,Portal,US,Vespertino,43.0,1,4,0,4.6,10.3,1,0
+TK-101442,Materiales directos,Baja,Cambio de proveedor,Correo,BR,Matutino,88.0,0,7,0,1.4,20.6,0,1
+TK-101282,Indirectos,Baja,Cambio de proveedor,Teléfono,US,Matutino,87.0,3,2,2,5.2,23.7,0,0
+TK-100936,Materiales directos,Crítica,Creación de pedido,Portal,MX,Vespertino,,4,1,3,1.8,23.2,0,1
+TK-100542,Servicios,Alta,Actualización de precio,Portal,US,Matutino,8.0,0,1,1,21.4,17.9,0,0
+TK-100140,Materiales directos,Alta,Cambio de proveedor,Portal,MX,Matutino,42.0,5,6,0,17.4,45.0,1,1
+TK-100261,Materiales directos,Media,Creación de pedido,Portal,CA,Matutino,5.0,2,9,1,3.8,18.9,1,0
+TK-100474,Materiales directos,Media,Actualización de precio,Correo,MX,Matutino,44.0,2,3,1,13.5,17.0,0,0
+TK-100166,Indirectos,Alta,Alta de material,Portal,MX,Matutino,15.0,2,7,0,7.2,31.1,1,0
+TK-100227,Materiales directos,Media,Alta de material,Correo,MX,Matutino,96.0,1,4,2,2.6,42.6,0,0
+TK-101272,Indirectos,Alta,Actualización de precio,Correo,CA,Nocturno,3.0,0,8,0,1.0,27.7,0,1
+TK-100192,Indirectos,Crítica,Creación de pedido,Portal,US,Matutino,72.0,2,3,1,3.7,13.8,1,1
+TK-100307,Indirectos,Baja,Creación de pedido,Portal,MX,Vespertino,24.0,2,6,1,3.5,23.6,0,1
+TK-100648,Servicios,Crítica,Cambio de proveedor,Portal,US,Matutino,82.0,1,4,2,4.2,17.8,0,1
+TK-101153,Materiales directos,Alta,Actualización de precio,Correo,CA,Nocturno,73.0,3,3,1,5.1,32.9,0,1
+TK-101325,Indirectos,Crítica,Creación de pedido,Portal,BR,Nocturno,71.0,0,2,0,7.2,26.1,0,1
+TK-100483,Servicios,Alta,Liberación,Portal,BR,Nocturno,108.0,3,4,1,4.6,20.8,1,0
+TK-101219,Logística,Baja,Consulta,Portal,US,Vespertino,25.0,2,3,1,2.9,34.9,0,1
+TK-101098,IT,Media,Alta de material,Portal,US,Vespertino,64.0,3,2,3,7.1,27.2,0,0
+TK-101131,MRO,Baja,Liberación,Portal,MX,Vespertino,120.0,1,6,0,1.0,13.6,1,0
+TK-100321,MRO,Crítica,Creación de pedido,Correo,US,Vespertino,6.0,2,4,1,4.5,18.4,0,0
+TK-100985,Materiales directos,Alta,Cambio de proveedor,Teléfono,US,Vespertino,19.0,1,0,0,2.2,20.9,0,0
+TK-101300,Indirectos,Alta,Alta de material,Portal,MX,Matutino,55.0,1,4,3,4.8,33.4,1,1
+TK-100018,Materiales directos,Crítica,Creación de pedido,Portal,BR,Vespertino,84.0,0,4,2,4.7,34.3,0,0
+TK-100629,Servicios,Baja,Alta de material,Teléfono,US,Vespertino,93.0,2,2,2,2.4,24.4,1,1
+TK-100431,MRO,Media,Actualización de precio,Correo,MX,Matutino,96.0,2,6,0,7.0,10.2,0,0
+TK-101478,MRO,Alta,Creación de pedido,Portal,US,Nocturno,75.0,1,6,1,7.2,16.4,0,1
+TK-101274,Servicios,Baja,Liberación,Portal,US,Vespertino,69.0,3,5,1,11.9,26.2,0,0
+TK-101336,IT,Media,Creación de pedido,Portal,CA,Matutino,120.0,3,7,1,4.8,18.9,1,1
+TK-101444,Materiales directos,Baja,Consulta,Correo,US,Vespertino,119.0,1,3,1,9.7,16.3,0,0
+TK-101365,Indirectos,Media,Liberación,Correo,US,Matutino,113.0,0,3,0,9.1,28.9,0,1
+TK-100208,Logística,Media,Creación de pedido,Portal,US,Matutino,86.0,1,4,0,0.5,19.5,0,0
+TK-100238,IT,Baja,Cambio de proveedor,Portal,MX,Matutino,75.0,0,3,0,4.8,33.9,0,0
+TK-100907,Servicios,Media,Liberación,Portal,BR,Matutino,56.0,1,4,0,2.3,10.0,0,0
+TK-100346,IT,Media,Alta de material,Portal,MX,Matutino,,1,6,4,5.6,40.8,1,1
+TK-101027,MRO,Crítica,Alta de material,Portal,MX,Vespertino,3.0,2,5,0,4.5,15.7,0,1
+TK-100854,MRO,Media,Cambio de proveedor,Correo,MX,Matutino,17.0,0,2,1,0.7,26.7,0,0
+TK-100341,Materiales directos,Baja,Cambio de proveedor,Correo,BR,Nocturno,34.0,1,2,2,7.6,14.3,0,0
+TK-100630,IT,Baja,Creación de pedido,Teléfono,MX,Matutino,21.0,2,3,0,17.2,18.7,0,0
+TK-100458,Indirectos,Baja,Consulta,Portal,BR,Matutino,94.0,1,0,2,5.4,36.8,0,1
+TK-100176,Materiales directos,Crítica,Creación de pedido,Portal,CA,Vespertino,99.0,1,3,0,8.2,7.5,0,1
+TK-100550,Indirectos,Media,Liberación,Teléfono,US,Vespertino,73.0,0,4,0,5.5,17.8,0,1
+TK-100301,Logística,Media,Consulta,Portal,US,Matutino,16.0,1,5,0,3.7,27.2,0,0
+TK-100460,Servicios,Media,Liberación,Correo,MX,Nocturno,47.0,1,4,1,0.2,43.9,0,1
+TK-101297,Materiales directos,Media,Actualización de precio,Portal,MX,Matutino,29.0,1,7,1,0.4,28.6,0,0
+TK-100650,Materiales directos,Baja,Liberación,Portal,US,Matutino,57.0,0,4,0,4.6,28.4,1,1
+TK-100548,Materiales directos,Media,Consulta,Correo,MX,Nocturno,75.0,0,6,1,2.4,19.6,0,0
+TK-100811,Materiales directos,Crítica,Actualización de precio,Portal,US,Nocturno,37.0,0,5,1,1.3,15.2,0,1
+TK-101298,Materiales directos,Media,Alta de material,Teléfono,US,Vespertino,25.0,1,3,0,2.4,22.8,0,0
+TK-101283,Indirectos,Media,Alta de material,Portal,US,Nocturno,22.0,0,5,0,14.0,25.2,0,0
+TK-100702,Indirectos,Crítica,Creación de pedido,Portal,MX,Nocturno,94.0,0,3,1,10.7,15.2,0,0
+TK-101386,Materiales directos,Baja,Consulta,Portal,BR,Matutino,89.0,0,8,2,3.6,33.3,0,0
+TK-100464,Indirectos,Baja,Cambio de proveedor,Portal,US,Vespertino,96.0,1,2,0,5.5,19.9,0,0
+TK-101056,Logística,Alta,Liberación,Correo,MX,Matutino,10.0,0,6,1,5.7,17.0,0,1
+TK-100327,IT,Media,Actualización de precio,Portal,BR,Vespertino,119.0,1,3,0,4.0,36.3,0,0
+TK-101280,Servicios,Baja,Alta de material,Portal,BR,Matutino,36.0,1,6,1,4.3,31.8,1,1
+TK-101120,MRO,Crítica,Actualización de precio,Portal,MX,Vespertino,81.0,1,4,0,7.1,8.0,0,1
+TK-100988,Materiales directos,Alta,Actualización de precio,Portal,US,Matutino,71.0,1,5,2,16.8,25.6,0,0
+TK-101252,Materiales directos,Alta,Creación de pedido,Portal,MX,Matutino,85.0,2,7,0,24.8,17.3,0,0
+TK-100060,Materiales directos,Alta,Creación de pedido,Correo,CA,Nocturno,10.0,3,2,0,9.9,14.8,0,1
+TK-100014,IT,Alta,Alta de material,Portal,MX,Vespertino,15.0,2,5,0,11.7,29.6,1,1
+TK-100393,Servicios,Media,Consulta,Portal,US,Matutino,,0,6,0,2.4,21.0,0,0
+TK-100859,Indirectos,Crítica,Alta de material,Portal,US,Nocturno,44.0,0,3,0,21.2,12.9,0,1
+TK-101005,Servicios,Baja,Actualización de precio,Correo,CA,Vespertino,70.0,1,3,1,7.5,30.4,0,1
+TK-100808,Materiales directos,Media,Alta de material,Portal,CA,Vespertino,56.0,2,6,0,5.8,27.8,1,0
+TK-100973,Materiales directos,Alta,Actualización de precio,Teléfono,US,Matutino,118.0,2,2,1,0.8,29.2,0,1
+TK-101033,Servicios,Alta,Alta de material,Portal,US,Matutino,99.0,2,3,0,1.3,13.5,1,0
+TK-100604,Logística,Crítica,Creación de pedido,Correo,US,Vespertino,45.0,0,3,2,4.7,21.0,0,1
+TK-100323,Indirectos,Media,Alta de material,Correo,BR,Matutino,105.0,2,3,1,3.6,33.0,0,0
+TK-101012,Servicios,Media,Creación de pedido,Portal,CA,Vespertino,76.0,1,6,0,1.9,45.7,0,0
+TK-100442,Materiales directos,Media,Creación de pedido,Portal,CA,Matutino,118.0,2,4,2,4.8,41.6,0,0
+TK-101467,Indirectos,Media,Creación de pedido,Correo,US,Vespertino,48.0,0,2,1,5.8,15.2,0,1
+TK-100738,Indirectos,Media,Liberación,Portal,MX,Vespertino,92.0,2,5,0,7.7,15.0,1,0
+TK-100555,Materiales directos,Media,Cambio de proveedor,Correo,US,Nocturno,22.0,0,1,0,4.0,22.1,0,0
+TK-100257,IT,Baja,Creación de pedido,Portal,MX,Matutino,48.0,0,4,0,11.0,9.8,0,0
+TK-100561,Materiales directos,Crítica,Alta de material,Portal,MX,Vespertino,67.0,3,5,0,1.9,37.6,0,0
+TK-100706,Servicios,Media,Creación de pedido,Portal,MX,Matutino,42.0,2,5,0,11.5,27.3,0,1
+TK-101416,IT,Baja,Liberación,,BR,Matutino,111.0,2,1,0,13.5,13.6,0,0
+TK-100889,Materiales directos,Alta,Consulta,Portal,MX,Matutino,59.0,1,3,0,3.5,18.1,0,1
+TK-100073,IT,Media,Liberación,Portal,US,Matutino,67.0,0,6,1,3.3,48.8,1,0
+TK-100258,Materiales directos,Crítica,Cambio de proveedor,Teléfono,US,Matutino,34.0,1,3,0,6.1,36.5,0,1
+TK-101006,Indirectos,Baja,Creación de pedido,Portal,MX,Matutino,76.0,0,3,1,5.8,38.9,0,0
+TK-100003,IT,Media,Creación de pedido,Correo,MX,Matutino,18.0,1,3,1,7.9,14.6,0,0
+TK-101377,Servicios,Baja,Liberación,Correo,US,Nocturno,60.0,2,7,0,2.5,15.0,0,0
+TK-101172,Logística,Media,Alta de material,Correo,MX,Matutino,103.0,1,1,0,1.9,16.6,0,0
+TK-100684,Indirectos,Baja,Actualización de precio,Correo,BR,Matutino,1.0,1,6,1,4.0,50.3,0,0
+TK-100368,Logística,Baja,Alta de material,Portal,US,Matutino,119.0,3,4,3,5.2,34.2,0,1
+TK-101135,MRO,Media,Actualización de precio,Portal,US,Matutino,81.0,1,3,2,3.6,20.5,0,1
+TK-101487,MRO,Baja,Liberación,Portal,US,Matutino,119.0,0,5,1,4.9,47.2,0,0
+TK-100480,Indirectos,Baja,Actualización de precio,Teléfono,US,Matutino,116.0,5,6,0,1.5,31.6,0,0
+TK-100997,Servicios,Media,Creación de pedido,Teléfono,BR,Matutino,93.0,1,8,1,8.5,23.3,0,1
+TK-100683,Materiales directos,Alta,Actualización de precio,Portal,MX,Vespertino,102.0,0,4,0,1.0,17.8,0,1
+TK-101048,Logística,Baja,Creación de pedido,Correo,US,Vespertino,62.0,2,3,0,1.3,10.5,0,0
+TK-100586,Servicios,Baja,Liberación,Portal,US,Vespertino,85.0,0,4,2,8.9,22.5,0,0
+TK-100118,Logística,Media,Alta de material,Portal,US,Vespertino,4.0,1,5,0,16.1,23.2,1,0
+TK-101058,Materiales directos,Baja,Consulta,Portal,US,Vespertino,,0,0,0,8.8,2.6,0,0
+TK-100006,MRO,Media,Liberación,Portal,MX,Vespertino,59.0,1,4,0,4.5,21.4,0,0
+TK-101408,Materiales directos,Baja,Cambio de proveedor,Correo,MX,Vespertino,34.0,1,3,0,3.5,14.2,0,0
+TK-101077,Servicios,Alta,Alta de material,Teléfono,US,Matutino,30.0,1,3,0,2.4,11.6,1,1
+TK-101414,MRO,Media,Creación de pedido,Portal,MX,Matutino,91.0,3,2,1,2.1,9.8,0,0
+TK-100969,Servicios,Media,Actualización de precio,Portal,MX,Vespertino,73.0,0,5,1,16.9,35.9,0,1
+TK-100704,IT,Baja,Alta de material,Portal,US,Vespertino,61.0,2,4,0,6.2,29.5,0,1
+TK-100446,Logística,Crítica,Cambio de proveedor,,US,Matutino,41.0,2,4,2,1.0,29.5,0,0
+TK-100137,MRO,Media,Liberación,Portal,CA,Matutino,86.0,2,6,0,5.5,28.1,0,0
+TK-100012,MRO,Baja,Consulta,Portal,MX,Vespertino,85.0,3,2,0,5.1,31.6,0,0
+TK-101061,MRO,Media,Consulta,Teléfono,US,Matutino,47.0,2,8,3,7.4,31.0,1,1
+TK-100333,Logística,Media,Creación de pedido,Correo,MX,Matutino,113.0,1,4,0,10.8,22.9,0,0
+TK-100605,MRO,Media,Consulta,Correo,BR,Vespertino,13.0,2,6,1,4.5,17.3,0,0
+TK-100569,Indirectos,Baja,Liberación,Portal,MX,Matutino,24.0,0,6,0,11.3,19.5,0,0
+TK-101084,IT,Baja,Cambio de proveedor,Correo,US,Matutino,115.0,2,3,0,5.1,8.0,0,0
+TK-101025,Servicios,Crítica,Liberación,Portal,US,Matutino,17.0,0,9,1,14.5,35.9,0,1
+TK-101454,MRO,Crítica,Alta de material,Portal,MX,Nocturno,29.0,0,4,2,11.0,27.3,1,0
+TK-100055,Logística,Baja,Alta de material,Portal,US,Vespertino,4.0,0,2,0,2.1,6.1,0,1
+TK-100881,Indirectos,Alta,Alta de material,Portal,US,Matutino,22.0,0,3,1,5.2,40.4,0,0
+TK-100234,Servicios,Baja,Creación de pedido,Portal,US,Matutino,,3,2,1,8.3,14.2,0,1
+TK-100085,Materiales directos,Media,Liberación,Correo,US,Vespertino,85.0,1,7,1,10.5,28.7,0,0
+TK-100642,IT,Media,Creación de pedido,Correo,BR,Matutino,89.0,1,5,1,2.2,16.8,0,1
+TK-101359,Logística,Alta,Actualización de precio,Correo,US,Matutino,15.0,0,4,1,3.1,17.3,0,0
+TK-100065,Servicios,Alta,Cambio de proveedor,Portal,US,Matutino,56.0,2,1,0,9.6,40.8,0,0
+TK-101231,Materiales directos,Baja,Consulta,Portal,US,Matutino,19.0,3,6,0,8.9,17.0,0,0
+TK-100188,Materiales directos,Media,Liberación,Portal,US,Vespertino,27.0,0,2,0,4.7,14.7,0,1
+TK-100817,MRO,Baja,Actualización de precio,Portal,MX,Nocturno,47.0,1,3,0,5.7,18.6,0,0
+TK-100152,MRO,Baja,Alta de material,Correo,BR,Matutino,16.0,0,3,2,1.5,42.0,0,0
+TK-101159,Indirectos,Baja,Actualización de precio,Portal,US,Vespertino,74.0,4,5,1,1.5,35.6,0,1
+TK-101017,Logística,Baja,Creación de pedido,Portal,MX,Nocturno,56.0,3,3,0,3.1,9.0,0,0
+TK-100389,Materiales directos,Alta,Actualización de precio,Portal,CA,Vespertino,85.0,1,3,3,6.3,18.5,0,0
+TK-100138,Servicios,Crítica,Creación de pedido,Correo,US,Nocturno,82.0,3,6,0,7.2,33.1,1,1
+TK-100173,Indirectos,Alta,Alta de material,Portal,MX,Nocturno,66.0,1,3,0,3.1,12.1,0,1
+TK-100791,Materiales directos,Crítica,Creación de pedido,Portal,US,Vespertino,25.0,0,2,1,2.9,24.4,0,0
+TK-100531,Logística,Baja,Creación de pedido,Portal,US,Vespertino,21.0,2,4,0,10.1,60.4,0,0
+TK-100828,Indirectos,Baja,Cambio de proveedor,Teléfono,BR,Vespertino,116.0,1,6,0,4.7,30.1,1,0
+TK-100456,Materiales directos,Crítica,Liberación,Portal,BR,Vespertino,94.0,2,2,3,6.5,25.1,0,1
+TK-101179,Materiales directos,Alta,Alta de material,Correo,CA,Vespertino,120.0,1,3,0,2.7,17.4,0,1
+TK-101142,IT,Alta,Actualización de precio,Correo,MX,Nocturno,15.0,2,7,0,11.8,22.0,0,1
+TK-100595,Materiales directos,Crítica,Creación de pedido,Teléfono,CA,Matutino,88.0,1,3,0,8.7,11.7,0,0
+TK-101060,Logística,Baja,Liberación,Portal,MX,Nocturno,32.0,0,3,0,2.7,17.0,0,0
+TK-101113,Servicios,Media,Liberación,Portal,MX,Vespertino,85.0,1,3,0,3.8,44.9,0,0
+TK-100375,Materiales directos,Crítica,Actualización de precio,Portal,US,Vespertino,,3,3,1,4.4,41.9,0,0
+TK-101374,IT,Baja,Creación de pedido,Portal,BR,Vespertino,103.0,1,2,1,11.0,10.3,0,0
+TK-100971,Indirectos,Media,Consulta,Correo,BR,Matutino,118.0,3,1,1,3.0,47.8,0,0
+TK-100710,Indirectos,Baja,Liberación,Portal,US,Nocturno,83.0,2,5,4,14.2,35.7,0,1
+TK-100161,Materiales directos,Baja,Consulta,Correo,MX,Matutino,96.0,0,8,1,1.9,26.9,0,0
+TK-101265,Servicios,Baja,Alta de material,Portal,MX,Matutino,83.0,1,3,0,8.9,13.2,1,0
+TK-100051,Materiales directos,Baja,Consulta,Portal,MX,Nocturno,25.0,1,4,0,2.2,29.5,0,0
+TK-101160,Logística,Baja,Creación de pedido,Correo,US,Matutino,9.0,1,3,0,8.3,24.6,0,0
+TK-101069,Materiales directos,Media,Consulta,Portal,MX,Vespertino,10.0,1,3,0,15.8,36.6,0,0
+TK-100671,Materiales directos,Media,Cambio de proveedor,Correo,US,Nocturno,20.0,2,2,0,7.6,22.6,0,1
+TK-100033,Indirectos,Media,Creación de pedido,Correo,US,Matutino,27.0,0,2,1,11.1,18.1,0,0
+TK-100239,Materiales directos,Media,Cambio de proveedor,Portal,BR,Matutino,98.0,0,4,1,9.2,40.3,0,1
+TK-100737,Materiales directos,Baja,Creación de pedido,Portal,US,Nocturno,113.0,2,5,0,8.1,18.1,0,0
+TK-100355,Indirectos,Alta,Actualización de precio,Portal,US,Matutino,6.0,3,2,1,7.7,16.2,0,1
+TK-100165,Servicios,Crítica,Alta de material,Correo,CA,Matutino,103.0,0,3,1,14.4,21.6,1,1
+TK-100487,Indirectos,Baja,Alta de material,Correo,US,Nocturno,92.0,1,5,1,3.6,16.8,0,0
+TK-101228,Indirectos,Baja,Creación de pedido,Portal,US,Matutino,29.0,2,4,0,16.6,18.3,0,1
+TK-101001,Materiales directos,Baja,Alta de material,Portal,BR,Matutino,54.0,3,4,0,2.5,26.8,0,0
+TK-100860,Servicios,Baja,Creación de pedido,Correo,US,Matutino,101.0,3,4,0,10.5,35.4,0,0
+TK-100296,MRO,Baja,Consulta,Portal,BR,Vespertino,,1,6,1,6.1,28.9,0,0
+TK-101024,Servicios,Media,Consulta,Correo,MX,Matutino,,0,2,0,1.8,9.5,0,0
+TK-100475,Indirectos,Baja,Actualización de precio,Correo,US,Vespertino,27.0,0,5,0,11.6,27.0,0,0
+TK-100987,Indirectos,Alta,Creación de pedido,Teléfono,MX,Nocturno,,2,3,0,1.8,30.3,1,1
+TK-100473,Materiales directos,Alta,Actualización de precio,Portal,CA,Vespertino,42.0,1,6,0,4.0,31.4,0,0
+TK-101028,Indirectos,Crítica,Alta de material,Portal,US,Vespertino,97.0,2,4,0,5.1,23.2,0,0
+TK-100821,Materiales directos,Baja,Liberación,Portal,MX,Matutino,80.0,2,3,0,15.1,9.3,0,0
+TK-101150,MRO,Alta,Actualización de precio,Portal,MX,Vespertino,7.0,2,3,0,1.5,21.8,0,0
+TK-100921,Materiales directos,Baja,Creación de pedido,Portal,BR,Matutino,47.0,0,1,0,4.2,36.0,0,1
+TK-100098,Materiales directos,Baja,Cambio de proveedor,Portal,MX,Vespertino,120.0,6,6,0,7.4,18.9,1,1
+TK-101079,Servicios,Baja,Creación de pedido,Correo,US,Vespertino,26.0,4,5,1,8.2,30.3,1,0
+TK-100577,MRO,Crítica,Liberación,Portal,MX,Matutino,116.0,0,4,1,11.2,20.4,0,0
+TK-101333,Servicios,Media,Creación de pedido,Portal,US,Matutino,,0,3,1,3.2,31.0,0,0
+TK-100721,Servicios,Media,Alta de material,Portal,MX,Matutino,89.0,0,6,2,19.4,33.9,0,1
+TK-101309,Materiales directos,Baja,Consulta,Portal,US,Nocturno,,2,3,0,3.9,17.1,0,0
+TK-100551,Indirectos,Crítica,Liberación,Portal,BR,Matutino,3.0,0,4,3,0.8,21.6,0,1
+TK-100309,Indirectos,Media,Alta de material,Portal,US,Nocturno,88.0,3,5,2,1.9,26.1,0,1
+TK-100840,Servicios,Baja,Cambio de proveedor,Portal,CA,Vespertino,,0,6,1,5.7,28.2,0,1
+TK-100829,IT,Media,Consulta,Portal,MX,Vespertino,60.0,2,1,1,10.2,11.7,0,0
+TK-100673,MRO,Media,Cambio de proveedor,Correo,MX,Vespertino,51.0,1,5,1,4.4,26.1,0,0
+TK-100937,MRO,Media,Cambio de proveedor,Correo,CA,Matutino,112.0,3,4,0,1.2,13.1,0,0
+TK-100434,IT,Alta,Creación de pedido,Portal,CA,Matutino,118.0,3,2,2,6.8,46.9,0,0
+TK-100583,Materiales directos,Alta,Actualización de precio,Portal,BR,Matutino,13.0,0,6,0,6.3,45.0,0,1
+TK-101479,Servicios,Alta,Liberación,Portal,MX,Vespertino,34.0,1,3,1,24.1,13.7,0,1
+TK-101072,Servicios,Media,Alta de material,Portal,US,Nocturno,43.0,0,6,0,3.5,65.3,0,1
+TK-101199,Indirectos,Media,Creación de pedido,Correo,MX,Matutino,66.0,2,6,0,8.0,31.2,0,1
+TK-100985,Materiales directos,Alta,Cambio de proveedor,Teléfono,US,Vespertino,19.0,1,0,0,2.2,20.9,0,0
+TK-100449,Materiales directos,Baja,Cambio de proveedor,Correo,MX,Matutino,46.0,0,4,2,12.4,16.8,0,1
+TK-100767,Materiales directos,Alta,Actualización de precio,Portal,BR,Nocturno,57.0,2,4,1,3.6,11.3,1,1
+TK-100568,Materiales directos,Crítica,Actualización de precio,Portal,MX,Matutino,22.0,1,4,1,9.0,23.6,0,1
+TK-100620,Materiales directos,Baja,Consulta,Portal,US,Vespertino,78.0,5,2,2,17.6,33.4,0,1
+TK-101195,IT,Alta,Creación de pedido,Correo,BR,Vespertino,98.0,1,6,2,10.5,23.3,0,1
+TK-100493,Servicios,Media,Liberación,Correo,BR,Matutino,58.0,3,3,1,3.5,24.9,0,0
+TK-100386,MRO,Media,Alta de material,Correo,BR,Matutino,63.0,3,2,1,10.7,13.0,0,0
+TK-100742,Materiales directos,Baja,Creación de pedido,Portal,US,Nocturno,107.0,1,4,0,6.2,19.0,0,0
+TK-100282,Materiales directos,Alta,Creación de pedido,Teléfono,US,Matutino,53.0,1,2,1,3.1,11.5,0,0
+TK-100746,Servicios,Baja,Alta de material,Correo,US,Matutino,84.0,1,4,0,3.1,35.0,0,0
+TK-101323,Materiales directos,Baja,Alta de material,Correo,MX,Vespertino,44.0,1,2,0,3.8,28.8,0,0
+TK-100484,Indirectos,Baja,Actualización de precio,Portal,BR,Nocturno,60.0,3,2,1,7.3,17.6,0,0
+TK-101118,IT,Alta,Liberación,Correo,MX,Vespertino,63.0,2,4,1,7.9,20.7,0,1
+TK-100283,Indirectos,Baja,Creación de pedido,Teléfono,MX,Vespertino,4.0,1,8,0,5.9,32.9,0,0
+TK-100438,Servicios,Media,Cambio de proveedor,Correo,US,Matutino,95.0,2,6,0,2.7,40.7,0,0
+TK-100427,Indirectos,Media,Creación de pedido,Portal,US,Matutino,52.0,1,3,1,2.0,28.7,0,0
+TK-100781,Indirectos,Media,Creación de pedido,Teléfono,MX,Matutino,43.0,1,4,0,2.4,9.5,0,0
+TK-100549,Logística,Baja,Creación de pedido,Portal,BR,Vespertino,85.0,1,7,0,9.1,15.3,0,1
+TK-100853,IT,Baja,Cambio de proveedor,Correo,MX,Vespertino,66.0,2,5,0,2.0,24.8,0,0
+TK-101348,Indirectos,Baja,Liberación,Portal,MX,Vespertino,65.0,1,4,0,3.8,13.0,0,0
+TK-100783,Indirectos,Media,Consulta,Teléfono,MX,Matutino,50.0,1,6,0,5.2,27.5,0,0
+TK-100818,Servicios,Alta,Creación de pedido,Teléfono,US,Nocturno,85.0,0,5,2,9.4,36.9,0,1
+TK-101082,MRO,Alta,Creación de pedido,Portal,BR,Matutino,119.0,0,8,1,12.3,16.6,0,1
+TK-100953,Indirectos,Media,Consulta,Correo,US,Matutino,87.0,1,3,2,8.9,23.5,0,0
+TK-100674,Logística,Baja,Cambio de proveedor,Portal,MX,Vespertino,51.0,0,4,1,12.8,24.5,0,0
+TK-101445,Materiales directos,Baja,Creación de pedido,Portal,US,Vespertino,4.0,5,4,1,11.8,12.1,0,0
+TK-100687,Indirectos,Alta,Cambio de proveedor,Portal,CA,Matutino,,1,2,1,0.7,18.5,1,1
+TK-101269,Servicios,Alta,Liberación,Portal,CA,Vespertino,,2,6,1,1.7,15.0,0,1
+TK-101435,Materiales directos,Media,Actualización de precio,Portal,US,Vespertino,77.0,2,5,1,3.2,40.7,0,0
+TK-100753,Indirectos,Media,Actualización de precio,Portal,BR,Vespertino,67.0,2,6,3,8.1,23.1,1,1
+TK-100122,Servicios,Media,Cambio de proveedor,Teléfono,US,Vespertino,103.0,0,3,0,7.8,27.1,0,1
+TK-101197,Indirectos,Alta,Creación de pedido,Portal,US,Matutino,83.0,1,6,1,5.6,24.0,0,0
+TK-100700,Indirectos,Media,Actualización de precio,Portal,MX,Matutino,3.0,1,6,0,1.4,21.4,0,1
+TK-101334,MRO,Alta,Actualización de precio,Correo,MX,Vespertino,116.0,0,4,1,4.4,16.7,0,1
+TK-100847,Indirectos,Alta,Liberación,,US,Vespertino,,0,2,1,0.6,19.8,0,0
+TK-100017,Servicios,Baja,Consulta,Portal,US,Nocturno,104.0,0,4,1,5.7,21.4,0,0
+TK-101497,IT,Media,Actualización de precio,Correo,US,Vespertino,50.0,1,5,0,1.7,23.5,0,0
+TK-100779,Logística,Alta,Liberación,Portal,US,Nocturno,118.0,1,9,1,0.9,40.0,0,0
+TK-100998,Materiales directos,Baja,Actualización de precio,Portal,MX,Nocturno,118.0,0,6,1,0.5,14.8,0,1
+TK-101353,Indirectos,Alta,Alta de material,Portal,CA,Matutino,20.0,1,3,1,5.7,20.3,0,0
+TK-101038,Indirectos,Media,Liberación,Correo,BR,Nocturno,37.0,1,6,0,7.6,23.2,0,1
+TK-100932,Indirectos,Alta,Alta de material,Portal,BR,Matutino,29.0,1,1,0,4.4,49.0,0,0
+TK-100294,Materiales directos,Alta,Actualización de precio,Teléfono,CA,Matutino,29.0,3,3,2,3.8,24.2,0,1
+TK-100903,Materiales directos,Alta,Alta de material,Portal,MX,Vespertino,40.0,1,8,0,9.3,20.8,0,0
+TK-100040,Logística,Media,Alta de material,Portal,MX,Matutino,98.0,1,5,3,1.0,28.3,0,0
+TK-100107,Indirectos,Crítica,Cambio de proveedor,Correo,CA,Vespertino,62.0,1,7,1,1.4,20.5,1,1
+TK-100727,Indirectos,Alta,Consulta,Portal,US,Vespertino,68.0,2,6,1,10.3,18.5,0,1
+TK-100024,MRO,Alta,Actualización de precio,Correo,BR,Matutino,83.0,3,3,2,4.1,16.7,0,1
+TK-100711,MRO,Crítica,Liberación,Portal,US,Matutino,21.0,1,4,0,5.3,10.1,0,0
+TK-100070,Indirectos,Media,Actualización de precio,Correo,US,Nocturno,56.0,2,4,1,2.5,12.8,0,1
+TK-101016,Materiales directos,Alta,Actualización de precio,Teléfono,CA,Vespertino,23.0,1,4,0,6.3,15.3,0,0
+TK-100426,IT,Baja,Actualización de precio,Portal,US,Matutino,17.0,2,4,0,18.3,18.0,0,0
+TK-101484,Indirectos,Media,Creación de pedido,Portal,BR,Vespertino,47.0,2,4,0,10.3,25.8,0,1
+TK-101331,Logística,Baja,Creación de pedido,Correo,US,Matutino,103.0,0,3,1,5.9,12.8,0,0
+TK-100104,MRO,Alta,Liberación,Correo,BR,Vespertino,70.0,1,2,1,4.5,14.3,0,1
+TK-100556,Indirectos,Media,Liberación,Portal,MX,Vespertino,6.0,0,2,0,7.0,10.3,1,0
+TK-101230,Materiales directos,Alta,Creación de pedido,Portal,CA,Matutino,7.0,1,4,0,4.1,25.0,1,0
+TK-101288,Indirectos,Media,Creación de pedido,Correo,US,Vespertino,13.0,0,3,1,11.9,31.3,0,0
+TK-101117,Materiales directos,Baja,Alta de material,Portal,MX,Vespertino,21.0,1,3,3,9.1,25.2,0,1
+TK-100946,Indirectos,Media,Consulta,Portal,BR,Matutino,3.0,3,6,1,9.4,20.3,0,0
+TK-101420,MRO,Alta,Actualización de precio,Portal,US,Vespertino,74.0,1,5,3,3.0,24.5,0,0
+TK-100075,Materiales directos,Baja,Liberación,Correo,BR,Matutino,40.0,2,5,2,5.1,23.7,0,1
+TK-100508,IT,Baja,Liberación,Correo,US,Vespertino,94.0,3,3,1,4.8,17.7,0,0
+TK-101369,Materiales directos,Crítica,Creación de pedido,Portal,CA,Matutino,73.0,1,3,0,8.5,18.0,0,0
+TK-100219,MRO,Media,Cambio de proveedor,Portal,US,Vespertino,110.0,3,4,4,9.1,26.2,1,0
+TK-101337,Materiales directos,Media,Creación de pedido,Correo,MX,Vespertino,46.0,4,5,2,0.8,28.0,0,0
+TK-101081,Indirectos,Baja,Cambio de proveedor,Correo,BR,Vespertino,20.0,3,4,0,1.3,14.4,0,0
+TK-100266,Materiales directos,Baja,Creación de pedido,Portal,BR,Matutino,51.0,2,1,2,8.1,28.5,0,1
+TK-100941,Indirectos,Crítica,Creación de pedido,Portal,MX,Vespertino,69.0,1,6,0,3.8,11.0,0,0
+TK-101382,Materiales directos,Baja,Cambio de proveedor,Portal,US,Nocturno,54.0,1,6,0,9.6,16.8,0,0
+TK-100435,Materiales directos,Alta,Creación de pedido,Correo,MX,Vespertino,116.0,2,5,0,4.9,13.7,0,1
+TK-100111,Indirectos,Baja,Cambio de proveedor,Correo,US,Vespertino,45.0,0,4,0,12.3,14.9,1,0
+TK-100511,Materiales directos,Baja,Consulta,Portal,BR,Nocturno,24.0,1,4,0,5.1,17.0,1,0
+TK-100041,Indirectos,Alta,Cambio de proveedor,Portal,MX,Nocturno,63.0,2,5,0,4.0,30.4,1,1
+TK-100505,Servicios,Baja,Alta de material,Portal,BR,Vespertino,70.0,3,6,0,7.6,18.5,0,0
+TK-100277,Indirectos,Alta,Actualización de precio,Portal,US,Matutino,,0,4,1,4.8,34.8,0,1
+TK-100810,MRO,Alta,Liberación,Portal,BR,Nocturno,86.0,0,4,0,5.1,12.2,0,0
+TK-100340,MRO,Alta,Actualización de precio,Portal,MX,Matutino,37.0,2,7,0,6.6,19.4,0,0
+TK-101132,Servicios,Media,Alta de material,Portal,MX,Vespertino,67.0,2,9,0,3.0,47.0,0,0
+TK-100472,Indirectos,Crítica,Actualización de precio,Portal,MX,Matutino,37.0,3,2,0,6.9,28.9,1,0
+TK-101190,Servicios,Media,Actualización de precio,Teléfono,MX,Vespertino,60.0,1,6,2,3.8,42.6,1,1
+TK-100186,Logística,Baja,Creación de pedido,Portal,BR,Vespertino,16.0,1,3,1,1.4,10.5,1,1
+TK-100799,Logística,Baja,Actualización de precio,Portal,MX,Matutino,115.0,0,8,1,0.5,18.7,0,0
+TK-101093,Indirectos,Media,Liberación,Correo,BR,Nocturno,36.0,0,3,1,14.5,19.4,0,0
+TK-100745,Servicios,Media,Creación de pedido,Portal,US,Nocturno,12.0,1,8,2,3.8,32.4,0,1
+TK-100944,Indirectos,Media,Alta de material,Correo,MX,Matutino,12.0,2,1,1,1.2,20.3,0,0
+TK-101148,IT,Alta,Alta de material,Portal,BR,Matutino,87.0,3,3,1,2.2,16.0,0,1
+TK-101013,Indirectos,Baja,Consulta,Portal,US,Vespertino,55.0,0,2,0,12.6,20.4,0,0
+TK-100062,Indirectos,Media,Actualización de precio,Portal,MX,Matutino,41.0,4,5,0,5.4,17.7,0,0
+TK-100926,Indirectos,Alta,Actualización de precio,Correo,US,Vespertino,33.0,0,5,1,3.3,32.3,0,0
+TK-100579,IT,Media,Liberación,Portal,CA,Nocturno,22.0,3,1,1,10.5,32.1,0,1
+TK-100798,Materiales directos,Baja,Liberación,Portal,US,Matutino,95.0,2,4,1,7.7,12.3,1,0
+TK-100656,Indirectos,Alta,Creación de pedido,Portal,US,Nocturno,8.0,1,5,1,5.2,28.0,0,0
+TK-101014,MRO,Baja,Creación de pedido,Portal,MX,Nocturno,69.0,0,7,1,1.7,29.2,0,1
+TK-100388,MRO,Baja,Consulta,Correo,US,Matutino,32.0,0,3,0,4.3,47.2,0,0
+TK-100128,Materiales directos,Baja,Creación de pedido,Portal,US,Nocturno,95.0,3,2,1,2.9,20.9,1,1
+TK-101426,Indirectos,Media,Cambio de proveedor,Portal,US,Matutino,104.0,1,6,1,7.5,24.4,0,0
+TK-100252,IT,Baja,Actualización de precio,Portal,US,Matutino,116.0,0,9,3,9.3,29.7,0,1
+TK-101299,Logística,Media,Actualización de precio,Correo,CA,Matutino,7.0,2,5,1,2.8,36.3,1,0
+TK-100544,MRO,Crítica,Creación de pedido,Portal,MX,Matutino,91.0,1,6,1,11.1,23.5,0,1
+TK-100308,Servicios,Media,Creación de pedido,Correo,BR,Matutino,117.0,2,8,0,9.4,54.1,0,1
+TK-100194,IT,Alta,Alta de material,Correo,MX,Matutino,56.0,1,4,1,0.4,40.7,0,1
+TK-100647,Materiales directos,Baja,Cambio de proveedor,Teléfono,US,Matutino,40.0,3,2,1,9.7,12.6,0,0
+TK-100503,MRO,Crítica,Creación de pedido,Correo,MX,Matutino,2.0,1,2,0,4.1,12.1,0,0
+TK-100034,Indirectos,Alta,Creación de pedido,Portal,US,Matutino,79.0,2,4,0,4.5,20.6,1,0
+TK-101126,Servicios,Media,Creación de pedido,Correo,CA,Matutino,7.0,2,1,0,3.8,26.4,0,0
+TK-100801,Logística,Crítica,Creación de pedido,Correo,MX,Vespertino,23.0,4,2,1,2.5,27.1,0,1
+TK-100925,Materiales directos,Crítica,Creación de pedido,Teléfono,US,Matutino,14.0,2,3,0,0.6,14.3,1,1
+TK-100058,Servicios,Media,Creación de pedido,Correo,MX,Matutino,3.0,0,2,2,19.7,27.0,0,0
+TK-100996,Indirectos,Media,Creación de pedido,Portal,BR,Vespertino,13.0,3,3,0,4.7,26.3,0,0
+TK-100359,Servicios,Baja,Alta de material,Portal,MX,Vespertino,41.0,1,3,0,1.8,11.3,1,0
+TK-101314,Materiales directos,Baja,Liberación,Correo,MX,Nocturno,52.0,1,3,2,8.9,32.3,0,1
+TK-100046,IT,Media,Consulta,,MX,Matutino,110.0,0,4,0,9.8,27.6,1,0
+TK-101198,Servicios,Baja,Consulta,Teléfono,CA,Matutino,88.0,1,2,1,7.4,24.3,0,0
+TK-101143,IT,Media,Creación de pedido,Correo,BR,Matutino,3.0,0,6,0,3.5,14.2,0,0
+TK-100882,Servicios,Baja,Consulta,Correo,MX,Vespertino,68.0,1,6,0,7.6,28.2,0,1
+TK-100069,Materiales directos,Media,Liberación,Correo,US,Nocturno,38.0,1,5,1,8.0,15.5,1,1
+TK-100319,Indirectos,Media,Creación de pedido,Portal,MX,Nocturno,26.0,5,3,1,2.9,22.7,0,0
+TK-100292,Materiales directos,Media,Liberación,Portal,CA,Vespertino,87.0,2,5,0,17.9,12.6,0,1
+TK-100047,Indirectos,Baja,Actualización de precio,Teléfono,MX,Vespertino,53.0,2,3,1,5.0,40.0,0,0
+TK-100278,Servicios,Media,Actualización de precio,Portal,MX,Nocturno,38.0,1,2,2,2.3,50.1,0,1
+TK-101395,IT,Crítica,Cambio de proveedor,Portal,BR,Matutino,30.0,1,6,1,3.4,21.0,0,1
+TK-100298,IT,Baja,Actualización de precio,Portal,MX,Nocturno,45.0,1,3,2,1.6,13.6,0,1
+TK-100225,Indirectos,Media,Creación de pedido,Portal,MX,Nocturno,89.0,3,4,3,0.2,24.7,0,1
+TK-100865,Materiales directos,Media,Consulta,Teléfono,MX,Vespertino,92.0,2,7,0,3.5,13.1,0,0
+TK-100930,Logística,Alta,Consulta,Correo,CA,Vespertino,118.0,0,5,0,2.0,29.7,0,0
+TK-101090,Indirectos,Media,Creación de pedido,Correo,US,Vespertino,72.0,2,4,2,9.1,19.3,0,0
+TK-101086,Logística,Media,Consulta,Teléfono,BR,Matutino,54.0,3,1,2,1.1,28.0,0,0
+TK-100365,Servicios,Media,Cambio de proveedor,Correo,BR,Vespertino,74.0,1,4,0,4.6,35.3,0,1
+TK-100428,IT,Alta,Liberación,Portal,MX,Matutino,14.0,0,2,3,1.9,34.9,0,1
+TK-100841,Materiales directos,Baja,Alta de material,Portal,MX,Matutino,8.0,2,3,1,11.6,40.7,0,1
+TK-100367,Logística,Crítica,Alta de material,Portal,MX,Matutino,89.0,0,7,0,1.6,14.7,0,0
+TK-100001,Logística,Media,Liberación,Portal,MX,Vespertino,88.0,3,6,0,3.0,22.3,0,1
+TK-100774,IT,Alta,Liberación,Correo,CA,Vespertino,107.0,3,3,0,3.5,11.1,1,1
+TK-100843,Servicios,Alta,Alta de material,Correo,BR,Vespertino,58.0,4,8,0,0.3,31.3,0,0
+TK-101059,Servicios,Media,Cambio de proveedor,Correo,MX,Matutino,13.0,0,4,0,2.8,23.8,0,0
+TK-100067,Servicios,Baja,Actualización de precio,Correo,MX,Matutino,12.0,1,9,0,0.6,30.4,0,0
+TK-101434,Materiales directos,Alta,Cambio de proveedor,Portal,US,Nocturno,32.0,2,3,1,4.3,26.7,0,0
+TK-100032,MRO,Baja,Creación de pedido,Portal,MX,Matutino,102.0,1,7,1,8.6,28.9,0,0
+TK-100868,IT,Media,Creación de pedido,Correo,US,Vespertino,55.0,2,4,1,7.2,38.2,0,0
+TK-101092,Servicios,Alta,Liberación,Correo,MX,Matutino,34.0,2,5,0,3.0,27.7,0,0
+TK-101155,Servicios,Media,Alta de material,Portal,BR,Matutino,19.0,0,1,2,0.9,21.7,0,1
+TK-100029,Materiales directos,Baja,Alta de material,Portal,CA,Matutino,27.0,0,3,1,10.6,11.0,0,0
+TK-100295,IT,Crítica,Actualización de precio,Portal,US,Vespertino,33.0,0,6,0,6.0,16.0,0,0
+TK-101241,IT,Baja,Liberación,Correo,MX,Matutino,4.0,1,2,1,4.8,12.5,1,0
+TK-100114,Servicios,Media,Alta de material,Portal,CA,Matutino,77.0,1,1,1,27.7,17.3,0,0
+TK-100246,IT,Media,Actualización de precio,Portal,US,Vespertino,105.0,3,4,2,10.1,29.4,1,0
+TK-100416,Indirectos,Baja,Creación de pedido,Correo,US,Nocturno,50.0,1,8,1,10.1,17.7,1,1
+TK-100770,Servicios,Alta,Alta de material,Portal,MX,Matutino,58.0,1,6,0,1.7,24.6,0,0
+TK-100162,MRO,Media,Consulta,Teléfono,MX,Nocturno,57.0,0,4,0,2.4,18.6,0,1
+TK-100679,Materiales directos,Baja,Creación de pedido,Portal,US,Vespertino,78.0,0,4,0,1.9,13.4,0,0
+TK-100412,Servicios,Baja,Creación de pedido,Portal,BR,Matutino,102.0,2,5,1,6.2,19.9,0,0
+TK-101177,Indirectos,Media,Alta de material,Portal,US,Vespertino,107.0,1,3,2,5.3,24.4,1,0
+TK-100039,Indirectos,Alta,Creación de pedido,,US,Matutino,105.0,0,2,1,8.0,37.8,0,0
+TK-100117,Logística,Baja,Creación de pedido,Portal,MX,Matutino,24.0,0,6,0,8.2,31.2,0,0
+TK-101447,MRO,Media,Cambio de proveedor,Portal,MX,Matutino,6.0,1,1,3,6.5,36.2,0,1
+TK-100002,Indirectos,Crítica,Alta de material,Portal,US,Vespertino,105.0,2,5,1,6.1,20.2,1,0
+TK-101453,IT,Baja,Alta de material,Portal,MX,Matutino,8.0,2,4,0,5.3,24.0,0,0
+TK-100248,Indirectos,Media,Liberación,Correo,CA,Vespertino,42.0,1,5,0,6.1,11.6,1,0
+TK-101388,Indirectos,Crítica,Creación de pedido,Portal,US,Vespertino,7.0,1,4,0,3.6,24.6,0,0
+TK-100666,Logística,Baja,Actualización de precio,Correo,MX,Vespertino,46.0,0,6,0,12.0,37.3,1,0
+TK-101437,Materiales directos,Media,Liberación,Portal,US,Matutino,73.0,1,9,2,11.6,31.4,0,1
+TK-101139,Materiales directos,Alta,Alta de material,,MX,Vespertino,2.0,4,9,0,6.0,17.7,1,0
+TK-101384,MRO,Media,Actualización de precio,Teléfono,US,Matutino,23.0,3,8,1,4.6,17.6,0,1
+TK-100093,Indirectos,Crítica,Liberación,Correo,MX,Vespertino,57.0,2,4,2,12.5,39.9,1,1
+TK-100382,MRO,Media,Liberación,Correo,BR,Matutino,56.0,0,2,1,1.9,25.9,0,0
+TK-100115,Materiales directos,Alta,Actualización de precio,Portal,MX,Matutino,25.0,1,11,0,2.4,24.9,0,1
+TK-101216,Servicios,Baja,Creación de pedido,,US,Matutino,64.0,2,1,0,2.4,27.5,1,0
+TK-101095,Servicios,Baja,Creación de pedido,Correo,MX,Matutino,108.0,1,6,0,5.2,25.2,0,0
+TK-100255,Indirectos,Media,Creación de pedido,Teléfono,CA,Matutino,43.0,2,4,1,10.8,14.2,0,0
+TK-100430,IT,Media,Liberación,Portal,US,Vespertino,1.0,2,4,2,3.6,20.0,0,1
+TK-100589,Materiales directos,Alta,Liberación,Teléfono,BR,Matutino,27.0,3,1,0,5.3,10.3,0,0
+TK-100179,MRO,Alta,Creación de pedido,Portal,US,Nocturno,89.0,1,4,1,3.3,12.7,1,1
+TK-101212,IT,Baja,Cambio de proveedor,Correo,BR,Matutino,114.0,2,3,1,3.7,28.1,0,0
+TK-101022,Logística,Media,Creación de pedido,Portal,CA,Matutino,71.0,2,2,1,8.3,31.8,0,0
+TK-100390,IT,Media,Creación de pedido,Teléfono,US,Vespertino,59.0,2,4,0,6.2,30.7,0,1
+TK-100133,Servicios,Media,Creación de pedido,Portal,BR,Nocturno,33.0,1,3,2,8.8,16.7,0,1
+TK-101080,Indirectos,Crítica,Actualización de precio,Correo,CA,Matutino,,1,4,1,4.4,29.0,0,0
+TK-101485,Servicios,Baja,Liberación,Correo,US,Vespertino,16.0,5,3,0,5.0,10.5,0,0
+TK-100571,Indirectos,Alta,Liberación,Portal,MX,Matutino,23.0,0,1,0,10.2,19.4,1,0
+TK-100290,Materiales directos,Baja,Actualización de precio,Correo,CA,Matutino,6.0,1,6,0,2.8,25.5,0,1
+TK-100247,Servicios,Alta,Cambio de proveedor,Portal,CA,Vespertino,119.0,1,2,2,0.6,20.6,0,1
+TK-101127,Servicios,Media,Actualización de precio,Correo,US,Matutino,55.0,1,4,1,7.6,16.6,0,1
+TK-100776,IT,Baja,Actualización de precio,Correo,MX,Matutino,99.0,1,3,0,2.4,9.2,0,0
+TK-100553,Materiales directos,Media,Cambio de proveedor,Correo,BR,Nocturno,81.0,0,3,1,2.2,22.9,0,0
+TK-100090,Servicios,Baja,Consulta,Teléfono,BR,Matutino,37.0,0,2,0,7.9,24.1,0,0
+TK-100193,Materiales directos,Baja,Actualización de precio,Correo,US,Matutino,99.0,0,4,1,18.8,14.0,0,0
+TK-101021,MRO,Baja,Creación de pedido,Portal,CA,Vespertino,20.0,3,1,2,5.3,48.9,0,1
+TK-101491,Materiales directos,Alta,Actualización de precio,Portal,CA,Nocturno,5.0,2,4,0,8.1,39.9,0,1
+TK-101470,Materiales directos,Baja,Creación de pedido,Correo,MX,Vespertino,10.0,0,6,1,8.2,36.8,0,0
+TK-100437,Materiales directos,Media,Cambio de proveedor,Portal,MX,Matutino,2.0,1,9,2,2.9,27.9,1,0
+TK-101023,MRO,Media,Cambio de proveedor,Portal,US,Nocturno,29.0,4,3,0,2.8,20.0,0,0
+TK-100958,Servicios,Baja,Consulta,Correo,MX,Nocturno,39.0,3,4,0,10.1,37.3,0,1
+TK-100652,MRO,Baja,Creación de pedido,Portal,CA,Vespertino,64.0,1,4,1,4.5,58.3,0,0
+TK-100980,Materiales directos,Crítica,Alta de material,,MX,Vespertino,109.0,1,5,2,1.9,16.9,0,1
+TK-100147,Indirectos,Baja,Liberación,Teléfono,BR,Matutino,16.0,3,3,2,1.2,20.2,0,0
+TK-100119,Indirectos,Crítica,Creación de pedido,Portal,BR,Vespertino,53.0,4,7,1,9.4,42.7,0,1
+TK-101015,Indirectos,Baja,Actualización de precio,Portal,US,Matutino,84.0,1,5,1,3.7,17.7,1,0
+TK-101455,Indirectos,Media,Actualización de precio,Portal,CA,Matutino,33.0,0,4,2,1.8,28.7,0,0
+TK-100534,Servicios,Media,Creación de pedido,Portal,US,Matutino,57.0,1,1,0,12.4,15.4,0,0
+TK-100863,IT,Media,Alta de material,Portal,US,Matutino,86.0,1,2,1,5.9,17.4,0,1
+TK-100803,MRO,Media,Cambio de proveedor,Correo,MX,Matutino,77.0,2,4,0,5.6,28.6,0,0
+TK-100023,MRO,Alta,Actualización de precio,Correo,US,Matutino,102.0,1,7,1,6.1,27.5,0,0
+TK-101266,IT,Crítica,Actualización de precio,Portal,US,Matutino,28.0,0,4,1,2.7,19.1,0,1
+TK-101007,MRO,Crítica,Actualización de precio,Portal,BR,Vespertino,27.0,2,3,1,25.8,15.8,1,1
+TK-101124,Materiales directos,Crítica,Cambio de proveedor,Correo,BR,Vespertino,17.0,1,4,0,2.5,10.7,0,0
+TK-100898,Materiales directos,Baja,Actualización de precio,Portal,US,Vespertino,30.0,0,4,1,6.6,18.6,0,0
+TK-101037,Indirectos,Alta,Cambio de proveedor,Portal,US,Matutino,38.0,1,7,0,4.4,23.1,0,1
+TK-100027,Indirectos,Media,Creación de pedido,Correo,US,Vespertino,8.0,2,4,0,1.2,19.0,0,1
+TK-100677,MRO,Media,Cambio de proveedor,Portal,MX,Vespertino,1.0,2,2,0,4.5,23.0,0,0
+TK-100015,Indirectos,Alta,Creación de pedido,Portal,US,Vespertino,105.0,1,4,1,2.7,16.4,0,0
+TK-100501,Logística,Alta,Actualización de precio,Portal,CA,Vespertino,28.0,0,2,0,6.1,27.2,0,0
+TK-101234,Logística,Media,Liberación,Teléfono,US,Matutino,2.0,0,4,0,5.1,28.3,1,1
+TK-100888,Materiales directos,Baja,Liberación,Portal,US,Vespertino,36.0,1,3,1,4.2,22.1,0,1
+TK-100083,IT,Media,Alta de material,Correo,MX,Matutino,26.0,2,1,2,5.6,26.1,0,0
+TK-100354,Servicios,Alta,Cambio de proveedor,Portal,MX,Matutino,,3,4,1,2.1,41.6,0,0
+TK-101267,Materiales directos,Media,Actualización de precio,Portal,US,Vespertino,88.0,1,5,0,4.8,20.3,0,0
+TK-101425,Indirectos,Baja,Alta de material,Correo,BR,Matutino,9.0,1,1,0,1.6,26.3,0,0
+TK-101206,Materiales directos,Media,Liberación,Portal,MX,Matutino,83.0,3,7,3,2.6,28.6,0,1
+TK-100601,Indirectos,Alta,Cambio de proveedor,Correo,US,Matutino,36.0,1,6,1,4.6,18.0,0,0
+TK-100876,MRO,Baja,Actualización de precio,Correo,MX,Vespertino,91.0,4,6,1,1.1,17.6,0,0
+TK-100274,Servicios,Alta,Alta de material,Portal,US,Nocturno,60.0,2,2,1,3.5,25.5,0,0
+TK-100913,MRO,Media,Liberación,Portal,MX,Vespertino,72.0,1,6,0,4.8,17.6,0,0
+TK-100685,Servicios,Media,Creación de pedido,Portal,US,Matutino,71.0,0,3,1,0.9,16.8,0,0
+TK-101125,Indirectos,Media,Consulta,Portal,US,Matutino,65.0,2,3,2,9.2,14.9,0,1
+TK-100467,Servicios,Alta,Alta de material,Portal,US,Vespertino,93.0,4,1,0,6.2,9.1,0,1
+TK-101390,Materiales directos,Baja,Alta de material,Portal,US,Matutino,66.0,0,7,0,5.2,15.8,1,0
+TK-101319,Logística,Media,Liberación,Portal,MX,Vespertino,65.0,3,3,0,3.3,9.3,0,0
+TK-100663,Materiales directos,Media,Consulta,Portal,US,Matutino,53.0,1,4,0,9.0,18.7,0,0
+TK-100939,MRO,Media,Actualización de precio,Teléfono,US,Nocturno,72.0,0,3,1,1.9,12.5,1,1
+TK-100448,Servicios,Crítica,Liberación,Correo,MX,Matutino,83.0,0,6,0,4.9,25.8,0,1
+TK-100372,Indirectos,Media,Creación de pedido,Portal,US,Matutino,119.0,0,2,0,4.0,21.5,0,0
+TK-100558,Servicios,Media,Consulta,Portal,US,Matutino,38.0,1,8,0,13.9,22.1,0,0
+TK-100855,Materiales directos,Media,Alta de material,Teléfono,US,Vespertino,30.0,0,4,0,3.6,28.3,0,0
+TK-100995,MRO,Alta,Creación de pedido,Correo,BR,Vespertino,74.0,0,4,1,6.5,22.7,0,0
+TK-101064,Servicios,Media,Alta de material,Portal,US,Matutino,77.0,0,1,0,4.8,8.7,0,0
+TK-100272,Materiales directos,Alta,Alta de material,Portal,US,Matutino,84.0,0,4,1,2.4,13.0,1,1
+TK-100606,IT,Alta,Creación de pedido,Portal,US,Matutino,30.0,0,3,0,8.9,11.4,0,1
+TK-100450,Servicios,Crítica,Liberación,Correo,BR,Nocturno,6.0,3,8,0,12.9,38.6,0,1
+TK-101477,Indirectos,Media,Actualización de precio,Correo,MX,Matutino,41.0,1,1,0,2.3,24.5,0,0
+TK-100524,Servicios,Baja,Cambio de proveedor,Correo,US,Matutino,14.0,3,2,1,4.8,19.7,0,1
+TK-100215,Logística,Media,Creación de pedido,Correo,US,Matutino,64.0,3,1,2,1.9,10.7,0,1
+TK-100345,IT,Baja,Actualización de precio,Portal,US,Matutino,50.0,2,3,1,1.4,25.6,0,0
+TK-100839,Indirectos,Media,Liberación,Correo,CA,Matutino,,0,6,1,6.9,20.0,0,0
+TK-101315,Materiales directos,Baja,Creación de pedido,Portal,US,Nocturno,55.0,1,4,0,0.4,27.0,0,1
+TK-100148,Servicios,Alta,Alta de material,Portal,US,Matutino,82.0,1,4,1,15.6,18.3,0,0
+TK-101461,Logística,Alta,Actualización de precio,Portal,MX,Matutino,85.0,1,4,1,10.2,31.3,1,1
+TK-101186,IT,Alta,Liberación,Portal,MX,Matutino,110.0,0,5,1,4.6,14.7,0,0
+TK-100724,MRO,Baja,Actualización de precio,Portal,US,Nocturno,54.0,2,5,0,2.0,26.5,0,1
+TK-100413,Materiales directos,Crítica,Actualización de precio,Portal,MX,Matutino,117.0,2,5,2,12.6,26.6,0,1
+TK-100689,Logística,Baja,Alta de material,Teléfono,MX,Vespertino,86.0,1,2,1,7.3,17.4,1,1
+TK-101355,IT,Alta,Consulta,Portal,MX,Vespertino,30.0,2,2,0,7.3,32.2,0,1
+TK-100784,Servicios,Alta,Creación de pedido,Portal,US,Vespertino,102.0,1,3,2,8.7,19.7,0,0
+TK-100343,IT,Baja,Creación de pedido,Portal,CA,Matutino,46.0,1,4,1,8.1,19.9,0,0
+TK-100948,IT,Media,Creación de pedido,Portal,MX,Vespertino,10.0,1,6,1,1.7,25.9,1,1
+TK-100748,Indirectos,Media,Liberación,Portal,MX,Matutino,117.0,0,7,1,10.1,21.6,0,0
+TK-100174,MRO,Baja,Consulta,Portal,MX,Matutino,32.0,4,4,2,10.2,35.3,0,1
+TK-100734,Indirectos,Crítica,Actualización de precio,Portal,BR,Vespertino,85.0,4,3,2,5.8,18.0,0,1
+TK-100378,Indirectos,Media,Consulta,Correo,BR,Vespertino,91.0,4,8,1,4.6,18.7,1,0
+TK-101039,Indirectos,Baja,Cambio de proveedor,Portal,CA,Matutino,111.0,1,3,1,2.5,26.6,1,1
+TK-100739,Indirectos,Media,Liberación,Portal,BR,Vespertino,5.0,3,3,1,0.6,12.0,0,1
+TK-101075,IT,Media,Creación de pedido,Portal,BR,Nocturno,36.0,1,2,2,8.5,62.4,0,0
+TK-100053,IT,Media,Alta de material,Portal,BR,Matutino,26.0,1,1,1,1.6,22.0,0,0
+TK-100019,IT,Baja,Cambio de proveedor,Correo,BR,Matutino,79.0,0,3,1,5.1,12.7,0,0
+TK-100222,Servicios,Baja,Liberación,Portal,US,Nocturno,119.0,2,3,1,6.1,13.9,0,1
+TK-101054,Materiales directos,Crítica,Actualización de precio,Portal,MX,Vespertino,62.0,1,3,0,6.4,23.1,1,0
+TK-101141,Indirectos,Alta,Cambio de proveedor,Portal,MX,Matutino,80.0,1,6,0,6.8,34.0,0,0
+TK-100096,Servicios,Alta,Creación de pedido,Teléfono,US,Nocturno,50.0,0,4,0,6.0,22.3,0,1
+TK-100262,IT,Baja,Alta de material,Portal,US,Nocturno,12.0,2,4,0,5.8,28.4,0,0
+TK-101303,Logística,Baja,Consulta,Correo,BR,Matutino,107.0,3,3,0,0.6,15.1,1,0
+TK-100180,Logística,Media,Actualización de precio,Correo,MX,Nocturno,51.0,3,7,0,8.1,26.7,0,0
+TK-100717,Servicios,Baja,Liberación,Portal,BR,Nocturno,69.0,0,0,0,2.2,15.5,0,0
+TK-101430,Indirectos,Alta,Creación de pedido,Portal,CA,Matutino,,2,3,0,7.6,35.7,0,1
+TK-100185,Logística,Baja,Creación de pedido,,US,Matutino,47.0,1,6,0,4.9,12.1,0,0
+TK-100468,MRO,Alta,Cambio de proveedor,Portal,BR,Vespertino,110.0,4,4,1,6.1,32.2,1,1
+TK-100904,Servicios,Alta,Actualización de precio,Portal,US,Vespertino,31.0,2,3,0,1.5,17.7,0,0
+TK-100072,Indirectos,Media,Consulta,Correo,US,Nocturno,,2,5,2,1.1,39.6,1,0
+TK-101211,Logística,Crítica,Alta de material,Correo,MX,Vespertino,69.0,0,0,1,7.8,9.3,1,1
+TK-100347,MRO,Media,Liberación,Portal,CA,Vespertino,32.0,5,5,0,1.9,25.6,0,0
+TK-100030,Logística,Baja,Cambio de proveedor,Correo,US,Matutino,117.0,0,2,1,3.2,19.3,0,0
+TK-100797,Materiales directos,Alta,Alta de material,Teléfono,BR,Vespertino,2.0,0,4,3,0.7,32.4,0,1
+TK-100158,Servicios,Alta,Creación de pedido,Portal,US,Vespertino,4.0,2,2,1,2.2,49.4,0,0
+TK-100933,Indirectos,Media,Actualización de precio,Correo,MX,Nocturno,120.0,1,7,0,6.2,27.8,0,1
+TK-100659,Servicios,Media,Liberación,Portal,BR,Matutino,106.0,4,1,2,7.3,24.3,0,1
+TK-101335,MRO,Alta,Liberación,Portal,MX,Matutino,,3,5,1,9.1,16.5,0,0
+TK-100395,Materiales directos,Media,Liberación,Correo,MX,Matutino,34.0,0,6,1,1.0,17.2,0,0
+TK-100989,Indirectos,Baja,Consulta,Portal,US,Vespertino,81.0,1,6,3,2.5,34.3,1,1
+TK-101202,Servicios,Media,Liberación,Portal,US,Vespertino,64.0,1,0,1,3.5,11.8,0,0
+TK-101066,MRO,Media,Liberación,Portal,BR,Matutino,116.0,2,5,1,7.1,28.4,0,0
+TK-100403,IT,Alta,Actualización de precio,Portal,US,Nocturno,66.0,1,3,0,2.7,38.6,1,0
+TK-100990,IT,Media,Consulta,Correo,US,Vespertino,10.0,3,4,0,3.4,17.6,0,0
+TK-100678,Servicios,Alta,Actualización de precio,Portal,CA,Vespertino,70.0,1,2,1,1.9,15.1,0,0
+TK-100823,Indirectos,Media,Actualización de precio,Correo,MX,Matutino,85.0,1,3,2,9.4,11.8,0,1
+TK-100964,Materiales directos,Media,Creación de pedido,Correo,MX,Vespertino,43.0,4,6,1,3.5,16.7,0,1
+TK-100836,Servicios,Alta,Actualización de precio,Correo,US,Vespertino,89.0,3,2,3,5.0,18.5,0,1
+TK-101034,MRO,Baja,Actualización de precio,Portal,US,Nocturno,,0,6,0,3.5,16.4,0,0
+TK-101254,Servicios,Baja,Actualización de precio,Correo,MX,Vespertino,27.0,0,1,0,12.1,7.3,0,0
+TK-100940,Materiales directos,Alta,Creación de pedido,Portal,US,Matutino,28.0,2,1,0,5.3,4.7,1,1
+TK-101055,Indirectos,Baja,Liberación,Correo,US,Vespertino,5.0,1,4,0,5.9,31.6,0,0
+TK-100692,MRO,Media,Alta de material,Correo,US,Nocturno,70.0,0,6,3,5.9,20.9,0,1
+TK-101220,Materiales directos,Media,Alta de material,Portal,US,Matutino,44.0,0,6,0,11.8,20.1,0,0
+TK-100335,Materiales directos,Baja,Cambio de proveedor,Portal,BR,Vespertino,52.0,3,2,0,13.5,13.7,1,0
+TK-100874,Indirectos,Baja,Creación de pedido,Correo,US,Matutino,,4,6,0,1.8,17.6,0,0
+TK-100806,Materiales directos,Media,Creación de pedido,Correo,BR,Matutino,64.0,0,2,2,0.6,23.7,0,0
+TK-100008,IT,Media,Creación de pedido,Portal,BR,Vespertino,4.0,2,4,0,2.5,16.5,0,0
+TK-100518,Logística,Baja,Creación de pedido,Portal,MX,Vespertino,48.0,2,1,0,1.7,24.1,1,0
+TK-100198,IT,Alta,Creación de pedido,Portal,US,Vespertino,67.0,0,5,2,0.7,52.7,0,1
+TK-100297,MRO,Media,Liberación,Portal,BR,Matutino,7.0,2,3,0,4.2,51.5,0,1
+TK-101105,Materiales directos,Baja,Consulta,Portal,US,Vespertino,20.0,1,4,0,2.1,10.7,0,0
+TK-101347,Indirectos,Baja,Liberación,Teléfono,US,Vespertino,67.0,2,2,1,0.4,17.5,0,0
+TK-100123,Materiales directos,Alta,Cambio de proveedor,Correo,MX,Matutino,67.0,2,3,2,4.4,18.6,0,0
+TK-100379,Indirectos,Media,Actualización de precio,Portal,US,Nocturno,58.0,5,5,2,4.9,33.2,1,1
+TK-101063,Indirectos,Alta,Creación de pedido,Portal,US,Nocturno,1.0,1,3,0,6.0,23.4,0,0
+TK-101324,IT,Crítica,Creación de pedido,Portal,CA,Vespertino,92.0,2,7,0,7.9,23.4,0,0
+TK-101110,Materiales directos,Media,Actualización de precio,Correo,US,Matutino,18.0,3,8,3,7.7,25.9,1,0
+TK-100163,Indirectos,Alta,Creación de pedido,Portal,US,Vespertino,70.0,2,4,0,2.0,33.3,0,0
+TK-100125,Materiales directos,Media,Creación de pedido,Portal,US,Matutino,60.0,3,3,1,12.9,21.4,0,1
+TK-100552,Materiales directos,Baja,Actualización de precio,Portal,US,Vespertino,6.0,1,4,1,11.3,24.1,1,1
+TK-100005,Materiales directos,Alta,Creación de pedido,Portal,US,Vespertino,5.0,0,3,1,12.5,37.3,0,1
+TK-100916,MRO,Baja,Cambio de proveedor,Portal,CA,Vespertino,22.0,1,5,2,5.9,51.8,0,0
+TK-100959,Servicios,Baja,Creación de pedido,Portal,US,Vespertino,119.0,4,5,1,3.6,23.9,0,1
+TK-101290,Servicios,Media,Alta de material,Portal,US,Vespertino,104.0,1,1,1,4.5,32.3,0,0
+TK-100612,Servicios,Media,Cambio de proveedor,Correo,US,Matutino,56.0,1,3,1,5.9,10.7,0,0
+TK-100288,Indirectos,Alta,Actualización de precio,Correo,CA,Vespertino,82.0,1,4,2,7.0,14.9,0,0
+TK-100957,Logística,Media,Consulta,,US,Nocturno,77.0,2,7,0,2.4,25.9,0,0
+TK-101159,Indirectos,Baja,Actualización de precio,Portal,US,Vespertino,74.0,4,5,1,1.5,35.6,0,1
+TK-101310,MRO,Baja,Alta de material,Correo,MX,Nocturno,103.0,1,6,0,8.8,18.4,0,0
+TK-100909,Indirectos,Media,Actualización de precio,Portal,CA,Nocturno,12.0,4,3,2,6.4,23.4,0,0
+TK-100507,Indirectos,Media,Actualización de precio,Correo,CA,Vespertino,108.0,3,6,0,6.7,27.3,0,0
+TK-100357,Logística,Baja,Actualización de precio,Portal,US,Matutino,70.0,2,4,2,4.2,32.5,0,0
+TK-100353,Servicios,Media,Creación de pedido,Correo,BR,Vespertino,14.0,1,6,0,6.3,32.9,0,0
+TK-100845,Materiales directos,Alta,Consulta,Portal,MX,Vespertino,41.0,0,7,2,5.7,25.6,0,1
+TK-100837,Logística,Alta,Alta de material,Correo,US,Vespertino,77.0,1,3,1,2.1,20.2,1,1
+TK-100947,Logística,Baja,Creación de pedido,Correo,BR,Matutino,95.0,0,2,0,3.5,12.1,0,0
+TK-100668,MRO,Media,Creación de pedido,Correo,MX,Nocturno,74.0,3,4,0,7.5,15.5,0,0
+TK-100887,Indirectos,Crítica,Consulta,Portal,MX,Nocturno,48.0,1,3,0,5.3,21.7,1,1
+TK-101262,Indirectos,Crítica,Consulta,Teléfono,BR,Matutino,,3,3,2,2.2,21.1,0,1
+TK-100334,IT,Baja,Creación de pedido,Correo,MX,Vespertino,74.0,2,6,1,2.3,27.1,1,1
+TK-100154,Servicios,Baja,Creación de pedido,Portal,US,Matutino,99.0,0,1,1,4.5,47.0,0,0
+TK-100788,Indirectos,Alta,Creación de pedido,,MX,Nocturno,26.0,1,2,2,4.8,32.9,0,0
+TK-100502,MRO,Media,Actualización de precio,Correo,US,Nocturno,,4,3,0,3.0,25.4,0,1
+TK-100722,Indirectos,Media,Actualización de precio,Correo,US,Vespertino,,3,3,0,2.3,19.0,0,0
+TK-100374,Indirectos,Crítica,Creación de pedido,Correo,MX,Matutino,90.0,2,6,1,9.8,20.8,0,0
+TK-100591,MRO,Media,Liberación,Portal,US,Matutino,,3,5,2,6.7,27.8,0,0
+TK-100313,Indirectos,Alta,Actualización de precio,Portal,CA,Vespertino,90.0,3,3,0,14.4,15.5,0,0
+TK-100043,Logística,Media,Liberación,Teléfono,BR,Vespertino,32.0,1,0,1,3.0,26.1,0,0
+TK-101185,Materiales directos,Baja,Consulta,Portal,US,Matutino,13.0,0,5,1,17.1,41.2,0,0
+TK-100646,IT,Crítica,Liberación,Correo,US,Vespertino,17.0,2,4,0,2.3,9.1,0,0
+TK-101285,MRO,Baja,Consulta,Portal,CA,Vespertino,106.0,2,4,1,14.9,13.3,0,0
+TK-100972,Materiales directos,Alta,Creación de pedido,Portal,US,Vespertino,31.0,2,1,0,9.7,8.2,0,1
+TK-101458,Indirectos,Baja,Alta de material,Portal,BR,Vespertino,73.0,1,6,1,5.0,22.9,0,0
+TK-100523,Materiales directos,Baja,Creación de pedido,,US,Nocturno,53.0,1,4,0,4.5,36.4,0,0
+TK-101225,Materiales directos,Baja,Creación de pedido,Correo,MX,Vespertino,106.0,1,0,1,1.4,10.6,1,0
+TK-100763,Materiales directos,Media,Creación de pedido,Portal,CA,Vespertino,43.0,4,4,1,6.0,27.2,0,1
+TK-101500,Logística,Baja,Liberación,Correo,US,Vespertino,16.0,3,4,2,0.5,26.8,0,1
+TK-101129,Servicios,Baja,Liberación,Portal,BR,Matutino,99.0,1,2,0,1.4,20.5,0,0
+TK-100705,Indirectos,Media,Creación de pedido,Portal,MX,Matutino,84.0,2,4,0,7.4,6.4,0,0
+TK-101260,MRO,Media,Creación de pedido,Portal,US,Matutino,80.0,0,4,2,7.8,17.5,0,0
+TK-101356,Materiales directos,Crítica,Alta de material,Correo,MX,Matutino,,1,3,0,3.0,19.1,0,1
+TK-100945,Indirectos,Media,Creación de pedido,Teléfono,MX,Nocturno,19.0,1,3,0,13.6,21.5,0,0
+TK-100169,Indirectos,Baja,Creación de pedido,Correo,US,Vespertino,106.0,1,7,0,3.3,20.0,0,0
+TK-100361,MRO,Media,Cambio de proveedor,Portal,US,Vespertino,55.0,5,5,0,2.7,32.6,0,0
+TK-101019,Materiales directos,Media,Creación de pedido,Portal,US,Vespertino,11.0,3,0,1,5.8,25.9,0,1
+TK-101496,Servicios,Media,Cambio de proveedor,Portal,BR,Nocturno,108.0,1,8,0,1.5,22.9,0,0
+TK-100744,Materiales directos,Baja,Actualización de precio,Portal,US,Matutino,11.0,1,4,3,2.4,35.6,0,0
+TK-100273,Materiales directos,Media,Alta de material,Portal,MX,Matutino,14.0,1,2,0,21.6,13.7,0,0
+TK-100520,IT,Media,Liberación,Portal,US,Vespertino,52.0,1,2,0,4.8,19.1,0,0
+TK-100815,Materiales directos,Media,Actualización de precio,Portal,MX,Matutino,86.0,1,3,0,4.7,8.6,1,0
+TK-100819,Servicios,Media,Alta de material,Portal,US,Matutino,,1,2,1,3.4,9.6,0,1
+TK-100735,Materiales directos,Alta,Creación de pedido,Correo,US,Nocturno,49.0,0,9,1,2.9,36.2,1,1
+TK-101422,Servicios,Baja,Creación de pedido,Portal,US,Vespertino,98.0,0,4,2,7.6,41.8,0,0
+TK-101326,IT,Alta,Actualización de precio,Portal,US,Nocturno,32.0,3,5,1,5.7,52.0,0,1
+TK-101173,Indirectos,Media,Consulta,Portal,BR,Nocturno,2.0,1,1,3,3.5,13.6,0,0
+TK-101498,Servicios,Baja,Actualización de precio,Correo,MX,Matutino,101.0,2,4,2,9.8,17.7,0,1
+TK-101122,Materiales directos,Crítica,Liberación,,US,Vespertino,82.0,0,1,2,2.6,14.0,1,1
+TK-100129,Materiales directos,Baja,Alta de material,Portal,MX,Matutino,38.0,0,4,1,5.1,12.5,0,0
+TK-100999,MRO,Alta,Cambio de proveedor,Portal,BR,Vespertino,50.0,3,3,0,3.4,11.5,1,0
+TK-101427,Materiales directos,Alta,Creación de pedido,Correo,CA,Vespertino,53.0,1,3,1,2.3,41.9,0,0
+TK-100545,Materiales directos,Crítica,Cambio de proveedor,Portal,US,Nocturno,112.0,6,3,0,3.4,7.9,0,1
+TK-100380,Logística,Media,Consulta,,MX,Nocturno,80.0,0,5,0,3.8,19.7,1,0
+TK-100204,Materiales directos,Media,Alta de material,Portal,US,Vespertino,63.0,2,3,1,6.0,22.8,0,0
+TK-100344,Servicios,Crítica,Creación de pedido,Portal,MX,Vespertino,82.0,2,2,1,2.0,23.4,0,0
+TK-101293,Servicios,Alta,Creación de pedido,Portal,BR,Matutino,62.0,3,6,1,5.1,42.3,0,1
+TK-101407,MRO,Crítica,Consulta,Correo,CA,Matutino,1.0,2,4,1,12.3,25.0,0,1
+TK-100519,Materiales directos,Media,Actualización de precio,Correo,US,Matutino,73.0,1,4,1,6.1,15.7,0,1
+TK-100489,Servicios,Crítica,Creación de pedido,Teléfono,US,Vespertino,116.0,1,5,1,0.6,21.8,1,1
+TK-101489,MRO,Baja,Cambio de proveedor,Teléfono,US,Matutino,90.0,2,8,2,8.0,32.7,1,1
+TK-100918,Materiales directos,Media,Actualización de precio,Teléfono,MX,Nocturno,71.0,2,4,1,3.5,51.0,1,1
+TK-100233,MRO,Alta,Actualización de precio,Portal,BR,Matutino,18.0,0,5,1,2.4,30.7,0,0
+TK-100795,Materiales directos,Baja,Actualización de precio,Correo,MX,Vespertino,105.0,2,2,1,3.2,22.5,0,0
+TK-101419,MRO,Baja,Creación de pedido,Correo,MX,Nocturno,52.0,0,5,0,6.0,35.6,0,0
+TK-101123,IT,Baja,Consulta,Correo,CA,Matutino,,1,3,1,16.5,18.1,0,0
+TK-100515,Indirectos,Media,Consulta,Portal,US,Matutino,25.0,2,7,0,20.0,28.0,0,1
+TK-101499,Indirectos,Crítica,Liberación,Correo,MX,Nocturno,75.0,1,5,1,9.8,13.1,1,1
+TK-100512,IT,Baja,Alta de material,Portal,US,Vespertino,26.0,0,4,0,27.8,12.5,1,0
+TK-100113,Indirectos,Alta,Alta de material,,US,Vespertino,63.0,2,5,0,3.2,22.0,0,0
+TK-101450,Materiales directos,Alta,Creación de pedido,Correo,MX,Matutino,73.0,1,8,1,6.2,30.6,0,0
+TK-100218,Materiales directos,Media,Creación de pedido,Correo,MX,Vespertino,98.0,2,5,1,5.3,17.6,0,0
+TK-100500,Servicios,Media,Liberación,,MX,Nocturno,100.0,3,4,0,3.4,17.9,1,1
+TK-101483,Servicios,Baja,Liberación,Correo,MX,Vespertino,56.0,0,2,0,4.1,15.0,0,0
+TK-100935,Logística,Alta,Actualización de precio,Correo,MX,Vespertino,100.0,1,3,2,7.3,15.2,1,1
+TK-100226,MRO,Baja,Liberación,Portal,US,Matutino,60.0,2,9,0,6.5,30.6,0,1
+TK-101043,Servicios,Media,Creación de pedido,Correo,US,Matutino,102.0,3,4,4,1.2,23.9,0,1
+TK-101292,Servicios,Baja,Creación de pedido,Correo,US,Nocturno,60.0,2,1,1,5.4,22.0,0,0
+TK-101402,Materiales directos,Crítica,Liberación,Portal,US,Nocturno,8.0,0,3,1,5.7,24.1,0,1
+TK-100398,Indirectos,Baja,Creación de pedido,Portal,US,Matutino,36.0,2,2,1,6.5,29.6,0,0
+TK-100541,MRO,Baja,Consulta,Portal,CA,Matutino,31.0,0,9,0,5.3,19.6,0,0
+TK-100329,Servicios,Crítica,Actualización de precio,Correo,MX,Vespertino,47.0,3,3,1,12.4,30.2,1,1
+TK-100796,Indirectos,Baja,Alta de material,Correo,MX,Matutino,104.0,0,6,1,2.9,26.7,1,1
+TK-100849,Materiales directos,Baja,Creación de pedido,Correo,US,Matutino,35.0,1,4,1,0.4,27.7,1,1
+TK-101460,Indirectos,Crítica,Liberación,Portal,MX,Vespertino,113.0,1,4,1,6.3,23.3,0,0
+TK-100094,Indirectos,Media,Consulta,Portal,MX,Vespertino,32.0,0,6,1,5.7,29.6,0,0
+TK-100214,IT,Alta,Alta de material,Teléfono,MX,Matutino,25.0,2,1,3,3.9,13.5,0,1
+TK-100771,Indirectos,Media,Consulta,Teléfono,US,Matutino,90.0,1,2,2,0.7,14.1,0,1
+TK-100338,Logística,Media,Consulta,Portal,US,Vespertino,20.0,2,5,0,2.0,9.5,0,0
+TK-100804,Servicios,Media,Creación de pedido,Portal,US,Matutino,80.0,2,3,0,5.3,22.1,1,0
+TK-100213,Materiales directos,Crítica,Liberación,Correo,MX,Matutino,41.0,1,3,1,2.5,30.5,0,0
+TK-100619,Materiales directos,Baja,Cambio de proveedor,Portal,US,Matutino,111.0,3,1,0,5.0,6.5,0,1
+TK-101140,Logística,Baja,Liberación,Correo,US,Matutino,76.0,1,6,2,11.8,23.1,1,1
+TK-101183,Materiales directos,Baja,Alta de material,Portal,MX,Vespertino,55.0,1,4,0,9.5,42.0,0,1
+TK-101169,IT,Media,Actualización de precio,Correo,MX,Vespertino,119.0,1,9,1,5.0,40.7,0,0
+TK-101137,Indirectos,Media,Actualización de precio,Portal,US,Matutino,39.0,0,4,0,13.8,9.1,0,0
+TK-100037,Materiales directos,Alta,Alta de material,Correo,CA,Vespertino,75.0,0,0,1,6.7,12.6,0,1
+TK-100106,Logística,Baja,Alta de material,Portal,CA,Nocturno,111.0,0,5,0,1.3,32.7,0,0
+TK-100363,Materiales directos,Crítica,Alta de material,Portal,MX,Matutino,75.0,1,3,1,8.4,19.0,0,1
+TK-100851,Materiales directos,Baja,Actualización de precio,Teléfono,CA,Nocturno,115.0,2,5,3,5.0,26.8,0,0
+TK-100757,Indirectos,Crítica,Creación de pedido,Correo,BR,Vespertino,18.0,2,3,0,5.6,10.2,0,0
+TK-100759,Materiales directos,Baja,Consulta,Portal,MX,Vespertino,16.0,2,4,0,1.9,23.4,0,0
+TK-100366,Indirectos,Alta,Cambio de proveedor,Portal,US,Matutino,49.0,3,5,1,9.3,31.4,0,0
+TK-100857,Logística,Media,Liberación,Correo,US,Vespertino,,1,5,0,6.0,16.0,1,0
+TK-101270,Servicios,Crítica,Liberación,Correo,US,Matutino,78.0,1,8,1,10.8,25.6,0,1
+TK-100417,Materiales directos,Media,Alta de material,Correo,MX,Nocturno,31.0,0,5,1,7.6,14.1,1,1
+TK-100566,Logística,Crítica,Liberación,Portal,MX,Matutino,58.0,2,7,3,5.4,31.5,0,1
+TK-100250,Indirectos,Media,Actualización de precio,Portal,US,Vespertino,104.0,2,3,2,3.8,38.4,1,1
+TK-100477,Indirectos,Media,Liberación,Portal,BR,Vespertino,14.0,4,6,0,2.8,21.3,0,1
+TK-101189,Materiales directos,Baja,Creación de pedido,Correo,US,Matutino,114.0,0,5,1,0.9,34.3,0,0
+TK-100782,MRO,Baja,Liberación,Portal,MX,Vespertino,76.0,1,2,1,2.1,64.9,0,1
+TK-100455,Materiales directos,Crítica,Consulta,Portal,MX,Vespertino,2.0,4,5,2,11.0,19.2,1,1
+TK-101370,Indirectos,Baja,Actualización de precio,Portal,CA,Vespertino,17.0,2,1,1,4.1,17.0,0,0
+TK-101201,Servicios,Alta,Creación de pedido,Correo,US,Matutino,22.0,2,4,0,2.4,16.4,1,0
+TK-101108,Indirectos,Baja,Liberación,Correo,MX,Vespertino,,1,4,0,3.0,11.0,0,0
+TK-100231,Materiales directos,Crítica,Actualización de precio,Portal,CA,Vespertino,49.0,3,6,2,14.9,30.7,0,0
+TK-100653,Logística,Alta,Cambio de proveedor,Portal,MX,Vespertino,56.0,0,5,0,6.1,21.9,0,1
+TK-100071,Materiales directos,Media,Creación de pedido,Portal,CA,Vespertino,12.0,1,5,1,8.3,11.7,0,0
+TK-100611,Servicios,Media,Alta de material,Portal,MX,Matutino,94.0,0,7,1,2.7,30.7,0,0
+TK-101175,Servicios,Media,Liberación,Portal,US,Matutino,24.0,2,9,2,5.4,27.3,0,1
+TK-101456,Materiales directos,Media,Cambio de proveedor,Correo,MX,Matutino,31.0,5,6,0,22.1,22.0,1,0
+TK-101411,IT,Alta,Cambio de proveedor,Teléfono,BR,Matutino,39.0,3,3,1,4.7,32.3,0,1
+TK-101471,MRO,Media,Consulta,Portal,US,Nocturno,77.0,0,3,0,4.1,28.8,0,0
+TK-100411,Logística,Baja,Alta de material,Portal,US,Nocturno,94.0,1,4,0,1.8,15.7,0,1
+TK-101397,Servicios,Crítica,Creación de pedido,Portal,MX,Matutino,9.0,1,3,3,10.8,29.3,0,1
+TK-101152,IT,Media,Actualización de precio,Portal,BR,Nocturno,67.0,0,4,1,11.7,37.2,0,1
+TK-100339,Materiales directos,Alta,Cambio de proveedor,Portal,US,Vespertino,87.0,0,2,0,2.0,14.1,0,0
+TK-101026,Indirectos,Baja,Consulta,Teléfono,MX,Vespertino,31.0,0,0,2,14.6,24.2,0,0
+TK-100044,Indirectos,Baja,Actualización de precio,Portal,CA,Nocturno,120.0,1,3,0,4.4,33.1,0,0
+TK-100540,IT,Alta,Cambio de proveedor,Correo,BR,Vespertino,105.0,2,4,1,10.4,14.6,0,0
+TK-100602,Logística,Baja,Creación de pedido,Portal,US,Matutino,95.0,3,4,1,2.8,15.1,0,1
+TK-100966,Servicios,Alta,Creación de pedido,Correo,MX,Vespertino,120.0,1,5,0,4.7,25.6,0,1
+TK-101360,Materiales directos,Media,Liberación,Portal,MX,Matutino,49.0,2,7,0,11.1,17.9,0,1
+TK-100172,Servicios,Media,Alta de material,Portal,MX,Matutino,,1,1,0,13.3,15.8,0,0
+TK-100418,Logística,Alta,Liberación,Correo,US,Matutino,30.0,0,3,0,7.0,20.6,0,0
+TK-100838,MRO,Media,Creación de pedido,Correo,MX,Matutino,64.0,1,5,1,9.0,26.9,0,0
+TK-101261,Materiales directos,Media,Consulta,Portal,CA,Vespertino,118.0,0,4,0,3.8,14.7,0,0
+TK-100807,Logística,Media,Alta de material,Teléfono,MX,Vespertino,79.0,3,5,1,8.9,21.7,0,1
+TK-100883,MRO,Baja,Alta de material,Correo,MX,Matutino,22.0,2,3,2,6.1,28.0,0,0
+TK-101413,IT,Media,Liberación,Portal,US,Vespertino,51.0,3,3,1,10.3,24.3,1,1
+TK-100638,Logística,Alta,Creación de pedido,,MX,Matutino,94.0,3,4,2,5.3,19.9,0,0
+TK-100424,Materiales directos,Media,Actualización de precio,Correo,BR,Vespertino,46.0,2,1,0,3.9,16.0,0,0
+TK-100728,Materiales directos,Baja,Creación de pedido,Portal,US,Matutino,62.0,2,4,0,7.6,16.4,0,0
+TK-100968,Materiales directos,Media,Creación de pedido,Portal,US,Vespertino,77.0,1,5,1,5.3,16.7,0,1
+TK-100377,MRO,Baja,Creación de pedido,Portal,US,Vespertino,47.0,1,5,2,10.0,17.7,1,0
+TK-100525,Materiales directos,Media,Actualización de precio,Correo,US,Matutino,88.0,1,2,2,3.2,17.8,0,0
+TK-100439,Logística,Baja,Creación de pedido,Correo,BR,Matutino,87.0,3,3,3,9.0,37.6,0,1
+TK-101305,IT,Baja,Creación de pedido,Portal,MX,Vespertino,37.0,0,5,1,16.0,19.0,0,0
+TK-100151,IT,Baja,Creación de pedido,Correo,BR,Vespertino,68.0,1,4,0,4.4,15.2,0,0
+TK-100836,Servicios,Alta,Actualización de precio,Correo,US,Vespertino,89.0,3,2,3,5.0,18.5,0,1
+TK-101375,MRO,Baja,Alta de material,Portal,MX,Matutino,88.0,1,4,2,6.8,22.3,0,1
+TK-100982,IT,Baja,Actualización de precio,Portal,CA,Matutino,48.0,1,1,0,5.7,33.7,0,0
+TK-100955,MRO,Media,Creación de pedido,Teléfono,MX,Matutino,107.0,4,2,0,4.5,27.7,0,0
+TK-101366,Servicios,Baja,Creación de pedido,Portal,US,Matutino,115.0,0,2,0,5.1,11.1,0,0
+TK-100144,Servicios,Baja,Creación de pedido,,MX,Vespertino,39.0,1,3,1,9.4,44.1,0,0
+TK-100718,Materiales directos,Crítica,Liberación,Portal,BR,Vespertino,73.0,0,3,2,7.3,22.9,0,0
+TK-100527,MRO,Alta,Creación de pedido,Portal,US,Matutino,27.0,1,8,1,2.2,35.0,0,0
+TK-100584,Indirectos,Baja,Liberación,Portal,US,Vespertino,104.0,2,5,1,5.2,14.1,0,0
+TK-100976,Servicios,Baja,Creación de pedido,Portal,US,Matutino,,0,4,1,7.2,41.5,1,0
+TK-100567,Logística,Media,Liberación,Correo,MX,Matutino,7.0,0,5,0,7.2,20.4,0,1
+TK-101233,Materiales directos,Media,Liberación,Correo,US,Matutino,17.0,1,4,2,4.2,36.3,0,0
+TK-100441,IT,Baja,Creación de pedido,Correo,MX,Matutino,17.0,2,4,1,1.2,26.7,0,0
+TK-101156,Materiales directos,Crítica,Creación de pedido,Portal,BR,Matutino,82.0,1,3,0,7.7,25.2,0,0
+TK-100175,Materiales directos,Alta,Alta de material,Correo,MX,Matutino,72.0,1,2,1,2.1,19.2,0,0
+TK-101424,Indirectos,Media,Creación de pedido,Portal,MX,Matutino,,3,5,0,8.5,34.0,0,0
+TK-100124,Indirectos,Baja,Actualización de precio,Teléfono,US,Matutino,111.0,1,9,0,4.1,30.6,0,0
+TK-100139,IT,Baja,Liberación,Portal,US,Vespertino,17.0,0,10,1,8.9,43.6,0,1
+TK-100880,Servicios,Alta,Actualización de precio,Correo,US,Matutino,22.0,1,6,1,14.8,25.3,0,1
+TK-101076,Indirectos,Media,Actualización de precio,Portal,MX,Vespertino,29.0,1,1,2,8.5,12.7,0,0
+TK-100733,Materiales directos,Baja,Actualización de precio,Portal,BR,Nocturno,48.0,2,2,1,6.1,21.0,0,1
+TK-100625,MRO,Media,Alta de material,Correo,US,Nocturno,13.0,0,2,2,7.5,12.1,0,0
+TK-100785,MRO,Baja,Actualización de precio,Portal,MX,Matutino,31.0,4,4,0,8.8,23.5,0,0
+TK-100183,Servicios,Alta,Actualización de precio,Correo,BR,Matutino,5.0,0,2,0,16.8,18.2,0,1
+TK-100618,Indirectos,Baja,Creación de pedido,Correo,BR,Matutino,42.0,3,1,1,8.3,15.9,1,0
+TK-100691,Indirectos,Baja,Creación de pedido,Correo,MX,Vespertino,2.0,3,8,0,6.1,21.0,1,1
+TK-101329,Indirectos,Alta,Liberación,Portal,US,Matutino,64.0,1,1,1,5.1,33.0,0,0
+TK-100241,IT,Baja,Consulta,Portal,MX,Vespertino,73.0,2,6,0,3.8,29.5,0,0
+TK-101255,Materiales directos,Alta,Liberación,Portal,MX,Matutino,2.0,0,2,1,12.1,19.7,0,1
+TK-100459,IT,Alta,Creación de pedido,Portal,MX,Matutino,32.0,4,4,1,0.7,30.0,0,1
+TK-100682,Materiales directos,Crítica,Creación de pedido,Portal,CA,Vespertino,7.0,4,6,0,2.1,17.9,0,0
+TK-100466,Logística,Baja,Liberación,Portal,BR,Vespertino,72.0,1,8,1,5.9,30.4,0,1
+TK-101188,MRO,Media,Creación de pedido,Portal,US,Matutino,77.0,2,3,2,5.7,16.2,0,0
+TK-101192,Indirectos,Media,Liberación,Portal,US,Matutino,59.0,3,1,0,10.0,17.1,0,0
+TK-100146,Indirectos,Media,Alta de material,Teléfono,MX,Matutino,80.0,3,8,3,9.4,33.5,0,0
+TK-100207,Materiales directos,Baja,Creación de pedido,Portal,MX,Matutino,31.0,1,6,0,3.5,35.3,0,0
+TK-101213,Servicios,Baja,Actualización de precio,Teléfono,MX,Vespertino,53.0,2,1,1,4.4,11.8,0,0
+TK-101344,Servicios,Baja,Creación de pedido,Correo,US,Vespertino,116.0,2,4,0,4.2,32.3,0,0
+TK-100325,IT,Alta,Alta de material,Portal,MX,Nocturno,2.0,3,5,0,19.8,13.0,0,0
+TK-100658,Indirectos,Baja,Actualización de precio,Correo,CA,Matutino,7.0,2,2,0,4.7,20.1,0,0
+TK-101385,MRO,Media,Liberación,Portal,US,Matutino,51.0,1,5,0,3.8,22.5,0,1
+TK-100715,IT,Crítica,Liberación,Portal,MX,Matutino,8.0,2,6,1,16.0,44.7,0,1
+TK-101400,Indirectos,Media,Liberación,Portal,BR,Matutino,27.0,0,4,0,0.8,13.8,0,0
+TK-101436,MRO,Media,Actualización de precio,Correo,MX,Nocturno,11.0,4,5,1,3.7,26.9,0,0
+TK-100080,IT,Alta,Creación de pedido,Portal,BR,Matutino,6.0,2,5,0,11.2,18.3,0,0
+TK-101446,Servicios,Media,Actualización de precio,Portal,MX,Vespertino,58.0,0,5,1,4.9,14.9,0,0
+TK-101368,Materiales directos,Media,Alta de material,Correo,BR,Matutino,35.0,0,8,0,3.2,19.7,0,0
+TK-100688,MRO,Media,Consulta,Portal,CA,Matutino,25.0,1,6,0,3.6,18.3,0,0
+TK-100167,IT,Alta,Creación de pedido,Correo,MX,Vespertino,108.0,1,3,2,5.9,29.6,1,1
+TK-100230,Materiales directos,Media,Actualización de precio,Portal,MX,Matutino,53.0,2,3,1,1.9,28.6,0,1
+TK-101465,Servicios,Baja,Creación de pedido,Correo,CA,Matutino,96.0,0,1,1,11.2,21.4,0,0
+TK-101341,Materiales directos,Alta,Creación de pedido,Portal,MX,Matutino,66.0,1,10,0,8.5,28.2,0,0
+TK-100741,Materiales directos,Baja,Creación de pedido,Portal,MX,Matutino,25.0,0,3,2,18.4,21.4,0,1
+TK-100101,MRO,Crítica,Consulta,Correo,MX,Nocturno,57.0,0,6,1,3.7,19.0,0,1
+TK-100291,IT,Alta,Cambio de proveedor,Portal,MX,Vespertino,119.0,2,2,1,6.5,21.2,0,0
+TK-100445,Indirectos,Alta,Liberación,Portal,US,Vespertino,9.0,3,5,1,9.6,16.0,0,1
+TK-100879,Servicios,Baja,Creación de pedido,Portal,MX,Matutino,67.0,2,1,1,4.6,13.6,0,1
+TK-101078,Servicios,Alta,Actualización de precio,Correo,CA,Matutino,85.0,1,1,2,7.0,10.7,0,0
+TK-100740,Indirectos,Media,Actualización de precio,Correo,US,Matutino,93.0,0,4,1,0.6,27.2,0,0
+TK-100392,Materiales directos,Alta,Alta de material,Portal,MX,Nocturno,18.0,1,6,0,7.5,30.9,0,0
+TK-100087,Logística,Media,Creación de pedido,Portal,MX,Matutino,85.0,1,4,0,6.9,17.4,0,0
+TK-100979,Servicios,Media,Actualización de precio,Correo,BR,Matutino,92.0,0,3,2,8.3,19.9,0,1
+TK-100667,IT,Alta,Creación de pedido,Portal,BR,Vespertino,3.0,5,2,1,1.4,16.2,0,1
+TK-101276,Indirectos,Media,Creación de pedido,Portal,BR,Matutino,98.0,3,2,0,2.4,13.6,0,0
+TK-101364,Materiales directos,Baja,Consulta,Correo,BR,Vespertino,4.0,0,6,0,10.6,30.5,0,0
+TK-100476,Indirectos,Baja,Actualización de precio,Portal,US,Nocturno,82.0,2,6,1,5.2,39.4,0,0
+TK-101296,Indirectos,Media,Actualización de precio,Correo,CA,Vespertino,61.0,3,2,1,16.1,17.5,0,0
+TK-100045,IT,Media,Liberación,,MX,Vespertino,73.0,0,3,2,5.9,18.0,1,0
+TK-100789,IT,Baja,Cambio de proveedor,Portal,BR,Matutino,21.0,0,3,3,3.3,25.9,1,1
+TK-101003,Materiales directos,Crítica,Liberación,Portal,MX,Matutino,88.0,1,7,0,7.4,23.3,0,1
+TK-101138,Indirectos,Baja,Liberación,Correo,US,Matutino,,1,4,1,2.7,36.7,0,0
+TK-100025,Logística,Alta,Cambio de proveedor,Correo,BR,Matutino,9.0,2,5,0,7.4,12.4,1,0
+TK-101236,Materiales directos,Media,Creación de pedido,Teléfono,BR,Matutino,9.0,3,5,0,2.3,20.5,0,0
+TK-100833,Indirectos,Alta,Actualización de precio,Portal,US,Matutino,97.0,2,4,2,1.9,23.6,0,1
+TK-101194,MRO,Crítica,Liberación,Correo,MX,Matutino,22.0,2,3,1,1.8,15.0,0,0
+TK-100592,Indirectos,Alta,Cambio de proveedor,Correo,MX,Matutino,48.0,2,4,0,5.9,25.2,0,0
+TK-101492,IT,Alta,Liberación,Correo,CA,Matutino,96.0,1,8,2,5.5,19.5,0,0
+TK-100974,MRO,Media,Creación de pedido,Portal,CA,Matutino,78.0,1,4,2,3.8,29.8,0,0
+TK-101057,MRO,Baja,Cambio de proveedor,Portal,BR,Vespertino,64.0,0,3,2,9.0,41.8,0,0
+TK-100110,MRO,Media,Consulta,Teléfono,MX,Nocturno,101.0,0,5,1,5.6,20.6,0,0
+TK-101161,Materiales directos,Alta,Actualización de precio,Portal,MX,Matutino,28.0,1,2,0,7.0,23.3,0,0
+TK-100223,Logística,Alta,Liberación,Portal,MX,Matutino,2.0,5,5,1,2.9,21.2,0,0
+TK-101053,Indirectos,Media,Actualización de precio,Portal,US,Vespertino,13.0,4,3,0,3.7,47.3,0,0
+TK-101312,MRO,Alta,Liberación,Portal,US,Nocturno,99.0,2,4,0,6.4,24.5,0,0
+TK-100723,Materiales directos,Media,Liberación,Portal,MX,Matutino,19.0,2,7,1,2.1,21.9,0,0
+TK-100056,IT,Alta,Actualización de precio,Correo,US,Nocturno,100.0,3,2,1,4.2,18.4,0,0
+TK-101494,IT,Media,Creación de pedido,Teléfono,US,Matutino,80.0,0,7,1,6.9,42.4,0,1
+TK-100254,Indirectos,Alta,Actualización de precio,Portal,US,Vespertino,31.0,0,2,1,2.0,22.1,0,1
+TK-101439,MRO,Baja,Cambio de proveedor,Correo,US,Matutino,11.0,3,3,0,11.7,13.9,0,0
+TK-101073,Indirectos,Alta,Actualización de precio,Portal,US,Vespertino,56.0,3,5,0,12.1,23.7,0,1
+TK-100643,Materiales directos,Alta,Liberación,Portal,US,Matutino,18.0,2,3,0,6.0,22.8,0,0
+TK-100546,Indirectos,Baja,Actualización de precio,Teléfono,BR,Matutino,,1,6,0,4.0,15.6,0,1
+TK-100478,Servicios,Crítica,Consulta,Portal,MX,Nocturno,95.0,5,2,0,2.5,15.7,0,0
+TK-100950,Indirectos,Media,Cambio de proveedor,Portal,CA,Vespertino,44.0,1,5,1,5.8,29.4,0,1
+TK-100844,Indirectos,Baja,Alta de material,Correo,US,Matutino,5.0,2,0,2,5.8,15.6,0,1
+TK-100064,Logística,Crítica,Consulta,Correo,MX,Matutino,111.0,0,7,0,1.0,37.8,0,1
+TK-100414,MRO,Media,Creación de pedido,Teléfono,CA,Nocturno,76.0,1,7,1,7.2,46.7,0,0
+TK-100385,Indirectos,Media,Creación de pedido,Correo,US,Matutino,113.0,1,5,0,3.8,22.1,0,0
+TK-101431,MRO,Media,Cambio de proveedor,Teléfono,BR,Vespertino,79.0,1,7,0,1.7,22.9,1,0
+TK-100975,Indirectos,Media,Creación de pedido,Correo,MX,Matutino,10.0,4,1,2,1.1,21.4,0,0
+TK-100885,Materiales directos,Baja,Consulta,Portal,CA,Matutino,63.0,4,4,1,7.2,17.4,0,1
+TK-100452,MRO,Baja,Actualización de precio,Correo,US,Vespertino,100.0,2,4,1,3.5,18.6,0,0
+TK-101259,Servicios,Media,Consulta,Portal,MX,Matutino,54.0,2,5,1,2.0,23.6,0,0
+TK-100657,IT,Baja,Creación de pedido,Portal,MX,Nocturno,62.0,1,7,0,3.2,18.9,0,1
+TK-101328,Servicios,Baja,Liberación,Portal,MX,Nocturno,101.0,0,2,0,9.8,20.1,0,0
+TK-100370,MRO,Alta,Actualización de precio,Correo,MX,Vespertino,91.0,0,2,0,2.6,41.8,0,1
+TK-100690,Servicios,Crítica,Cambio de proveedor,Correo,MX,Vespertino,76.0,3,7,0,2.2,24.0,0,1
+TK-100220,Indirectos,Alta,Cambio de proveedor,Portal,MX,Matutino,46.0,0,4,0,6.0,14.4,0,0
+TK-101417,Servicios,Baja,Actualización de precio,Correo,US,Vespertino,84.0,2,7,1,9.5,39.9,0,0
+TK-101321,Servicios,Baja,Liberación,Correo,US,Matutino,77.0,2,4,1,9.2,23.8,1,1
+TK-100022,Indirectos,Media,Liberación,Portal,CA,Matutino,54.0,1,4,1,6.9,23.1,0,0
+TK-100761,Logística,Alta,Consulta,Correo,US,Matutino,103.0,0,5,0,5.4,11.7,1,0
+TK-100870,Materiales directos,Media,Actualización de precio,,MX,Matutino,93.0,1,3,0,3.1,6.2,0,0
+TK-100421,Servicios,Media,Liberación,Portal,US,Vespertino,2.0,3,3,0,25.7,20.0,0,1
+TK-101350,Materiales directos,Media,Liberación,Correo,US,Nocturno,49.0,5,3,0,2.5,8.1,0,0
+TK-100200,Indirectos,Alta,Consulta,Correo,CA,Vespertino,117.0,4,3,2,6.5,27.4,0,1
+TK-100451,Materiales directos,Crítica,Alta de material,Portal,US,Vespertino,118.0,1,5,2,5.7,35.4,1,1
+TK-101162,Servicios,Media,Cambio de proveedor,Portal,MX,Matutino,86.0,3,9,0,5.6,32.6,0,1
+TK-101020,Indirectos,Baja,Liberación,Correo,MX,Matutino,9.0,0,3,0,2.5,7.9,0,1
+TK-100912,IT,Crítica,Actualización de precio,Correo,MX,Vespertino,17.0,3,5,1,2.8,20.5,0,0
+TK-100697,Logística,Baja,Cambio de proveedor,Portal,US,Vespertino,118.0,5,5,1,14.0,25.2,0,0
+TK-100812,Materiales directos,Baja,Creación de pedido,Portal,US,Matutino,74.0,1,2,1,4.5,20.0,1,0
+TK-101237,Materiales directos,Baja,Cambio de proveedor,Correo,US,Vespertino,17.0,0,3,2,3.1,17.1,1,1
+TK-101486,Materiales directos,Baja,Cambio de proveedor,Portal,BR,Vespertino,70.0,0,4,0,3.3,14.0,0,1
+TK-100911,Logística,Alta,Actualización de precio,Portal,BR,Vespertino,8.0,1,4,1,10.4,17.2,0,1
+TK-101050,Indirectos,Baja,Alta de material,Portal,US,Vespertino,11.0,2,2,0,16.6,40.0,0,0
+TK-100506,IT,Alta,Actualización de precio,Portal,US,Vespertino,,2,1,0,5.3,12.5,1,0
+TK-101372,MRO,Media,Creación de pedido,Portal,BR,Nocturno,1.0,0,3,2,3.8,41.4,0,0
+TK-101256,IT,Alta,Creación de pedido,Correo,US,Matutino,44.0,2,2,2,7.1,18.2,0,0
+TK-100406,IT,Media,Liberación,Correo,BR,Matutino,54.0,1,2,1,5.2,13.8,0,0
+TK-100318,Logística,Media,Creación de pedido,Portal,MX,Vespertino,28.0,0,5,1,9.1,24.3,0,0
+TK-100184,Indirectos,Baja,Creación de pedido,Correo,MX,Nocturno,65.0,1,2,3,5.2,20.2,0,0
+TK-101121,Logística,Alta,Consulta,,MX,Nocturno,75.0,1,3,0,2.9,27.1,0,1
+TK-101405,Materiales directos,Media,Actualización de precio,,MX,Nocturno,27.0,1,2,1,5.8,18.3,0,1
+TK-100610,Indirectos,Baja,Creación de pedido,Correo,US,Vespertino,2.0,1,3,1,5.5,8.2,0,0
+TK-100627,IT,Media,Consulta,Portal,MX,Matutino,110.0,1,3,0,7.7,17.3,0,0
+TK-100486,Indirectos,Crítica,Liberación,Portal,CA,Matutino,4.0,1,3,0,9.5,13.1,1,1
+TK-100279,IT,Media,Cambio de proveedor,Portal,BR,Matutino,114.0,2,1,1,3.4,28.9,0,0
+TK-100631,MRO,Baja,Creación de pedido,Portal,MX,Vespertino,27.0,4,1,3,5.2,12.7,1,1
+TK-100021,Logística,Baja,Cambio de proveedor,Portal,CA,Matutino,84.0,1,2,3,8.1,22.9,0,0
+TK-100171,Indirectos,Media,Consulta,Portal,CA,Nocturno,2.0,0,4,2,5.7,37.9,0,1
+TK-100902,Indirectos,Alta,Liberación,Portal,MX,Matutino,114.0,2,3,1,7.8,14.3,0,0
+TK-101040,Materiales directos,Media,Liberación,Portal,CA,Matutino,17.0,1,2,0,5.8,8.5,0,1
+TK-100177,Indirectos,Alta,Liberación,Portal,MX,Matutino,4.0,0,5,2,13.0,21.4,0,0
+TK-100328,Servicios,Media,Liberación,Portal,MX,Matutino,70.0,2,5,0,7.4,39.9,0,1
+TK-100707,IT,Alta,Cambio de proveedor,Portal,US,Matutino,82.0,2,2,0,6.6,20.6,0,0
+TK-101223,MRO,Media,Cambio de proveedor,Portal,MX,Vespertino,29.0,0,4,0,5.4,24.1,0,0
+TK-100471,Indirectos,Media,Actualización de precio,Correo,MX,Vespertino,,1,5,0,7.3,33.1,0,0
+TK-101396,Materiales directos,Baja,Actualización de precio,Correo,CA,Matutino,51.0,2,7,0,2.7,13.0,0,0
+TK-100267,Indirectos,Crítica,Creación de pedido,Correo,US,Vespertino,15.0,4,3,1,2.3,20.0,0,1
+TK-100616,Logística,Crítica,Alta de material,Teléfono,US,Nocturno,112.0,1,6,0,4.5,28.8,0,0
+TK-100131,Materiales directos,Media,Actualización de precio,Portal,US,Vespertino,45.0,1,6,1,4.4,25.6,0,1
+TK-100866,MRO,Alta,Cambio de proveedor,Teléfono,US,Nocturno,71.0,0,4,1,7.0,17.8,1,0
+TK-101459,MRO,Baja,Creación de pedido,Correo,US,Matutino,89.0,1,1,1,6.2,27.8,0,0
+TK-101363,Servicios,Media,Alta de material,,CA,Nocturno,33.0,1,3,2,6.4,40.1,0,1
+TK-101401,Indirectos,Media,Liberación,Correo,MX,Matutino,42.0,0,6,0,5.6,16.2,1,0
+TK-100490,Servicios,Baja,Actualización de precio,Portal,CA,Nocturno,45.0,0,4,0,1.3,19.7,0,0
+TK-100607,IT,Alta,Creación de pedido,Portal,BR,Matutino,102.0,1,1,0,7.4,19.6,0,0
+TK-101218,Servicios,Crítica,Creación de pedido,Teléfono,MX,Matutino,118.0,2,3,0,0.7,24.6,0,0
+TK-101165,Materiales directos,Media,Alta de material,Portal,CA,Matutino,116.0,2,3,0,1.4,12.6,0,0
+TK-100417,Materiales directos,Media,Alta de material,Correo,MX,Nocturno,31.0,0,5,1,7.6,14.1,1,1
+TK-100153,Materiales directos,Baja,Cambio de proveedor,Portal,US,Vespertino,43.0,1,3,1,11.0,51.6,0,1
+TK-100890,Logística,Baja,Creación de pedido,Teléfono,MX,Vespertino,86.0,1,5,0,3.1,28.7,0,0
+TK-100850,MRO,Baja,Cambio de proveedor,Portal,CA,Matutino,73.0,1,4,0,18.5,15.0,1,0
+TK-100280,IT,Media,Creación de pedido,Correo,US,Vespertino,18.0,2,6,1,6.1,16.3,1,0
+TK-101035,Indirectos,Crítica,Creación de pedido,,US,Vespertino,49.0,1,3,1,2.8,21.1,0,0
+TK-100270,Materiales directos,Alta,Creación de pedido,Correo,US,Vespertino,,3,6,1,6.4,36.0,0,1
+TK-100097,Indirectos,Baja,Creación de pedido,Portal,US,Matutino,55.0,1,2,0,3.7,37.6,1,0
+TK-100211,Logística,Alta,Cambio de proveedor,Correo,US,Matutino,113.0,1,2,0,6.4,7.4,0,0
+TK-100570,Servicios,Media,Cambio de proveedor,Portal,CA,Nocturno,59.0,3,4,1,2.6,29.8,0,0
+TK-101466,Logística,Media,Creación de pedido,Portal,US,Matutino,,0,3,1,4.2,23.9,0,0
+TK-100872,Materiales directos,Media,Creación de pedido,Teléfono,MX,Vespertino,67.0,4,3,0,6.6,13.1,0,0
+TK-100533,Indirectos,Media,Actualización de precio,Portal,MX,Vespertino,26.0,2,4,0,4.2,12.5,0,0
+TK-101463,Materiales directos,Baja,Cambio de proveedor,Portal,US,Vespertino,23.0,0,6,1,6.6,22.3,0,0
+TK-101357,Servicios,Media,Consulta,Correo,MX,Nocturno,56.0,0,8,0,4.1,17.8,0,1
+TK-101100,Materiales directos,Crítica,Consulta,Portal,US,Matutino,18.0,3,1,1,4.9,36.7,0,0
+TK-100713,IT,Alta,Consulta,Teléfono,US,Vespertino,94.0,2,2,2,12.0,23.7,0,0
+TK-100078,Logística,Alta,Alta de material,Portal,US,Matutino,44.0,1,2,1,6.1,31.3,0,0
+TK-100264,Materiales directos,Baja,Actualización de precio,Portal,MX,Matutino,89.0,0,3,0,2.3,33.5,0,0
+TK-101133,Materiales directos,Alta,Actualización de precio,Portal,US,Matutino,54.0,2,3,1,12.5,22.4,1,0
+TK-100150,Materiales directos,Alta,Creación de pedido,Portal,BR,Vespertino,89.0,2,6,1,4.7,21.9,0,0
+TK-100470,Servicios,Media,Consulta,Correo,BR,Matutino,14.0,3,6,2,6.9,18.5,0,0
+TK-100565,Servicios,Media,Consulta,Teléfono,MX,Nocturno,,2,9,1,10.8,25.1,0,0
+TK-100462,Materiales directos,Media,Liberación,Portal,BR,Matutino,8.0,0,4,1,1.8,19.8,0,0
+TK-101278,Materiales directos,Media,Liberación,Portal,MX,Vespertino,74.0,2,8,0,11.9,26.7,0,1
+TK-100897,Indirectos,Baja,Cambio de proveedor,Portal,CA,Vespertino,31.0,1,3,2,4.9,15.9,0,0
+TK-101394,Materiales directos,Media,Alta de material,Correo,BR,Matutino,56.0,0,2,0,6.1,17.6,1,0
+TK-101346,Servicios,Media,Consulta,Teléfono,MX,Vespertino,112.0,2,3,2,1.6,33.9,0,0
+TK-100696,Servicios,Alta,Actualización de precio,Teléfono,US,Vespertino,101.0,0,6,2,2.8,25.2,0,1
+TK-101176,Logística,Media,Actualización de precio,Teléfono,US,Vespertino,64.0,1,5,0,3.6,15.3,0,0
+TK-100929,Servicios,Media,Creación de pedido,Teléfono,US,Nocturno,47.0,2,6,1,3.1,47.0,0,0
+TK-101327,Indirectos,Media,Creación de pedido,Correo,CA,Vespertino,49.0,0,0,1,4.7,12.8,0,1
+TK-101215,Indirectos,Alta,Actualización de precio,Portal,BR,Matutino,19.0,1,9,2,3.1,30.1,0,1
+TK-100587,Materiales directos,Media,Cambio de proveedor,Correo,US,Nocturno,11.0,1,6,2,2.3,26.4,0,1
+TK-101373,Indirectos,Baja,Actualización de precio,Portal,MX,Matutino,57.0,2,3,1,15.0,21.4,1,0
+TK-100244,Servicios,Crítica,Cambio de proveedor,Portal,BR,Nocturno,116.0,3,1,0,15.3,11.8,0,1
+TK-101112,Indirectos,Alta,Liberación,Correo,MX,Vespertino,3.0,0,5,1,5.7,36.9,0,0
+TK-100752,Indirectos,Alta,Actualización de precio,Portal,US,Matutino,27.0,1,3,1,5.5,9.3,0,0
+TK-101448,Servicios,Alta,Actualización de precio,Correo,US,Vespertino,45.0,0,6,0,3.7,12.2,0,1
+TK-101313,Servicios,Alta,Creación de pedido,Correo,MX,Vespertino,10.0,2,4,1,11.9,33.4,0,0
+TK-100649,Logística,Alta,Creación de pedido,Teléfono,CA,Vespertino,117.0,1,4,2,0.6,15.2,0,1
+TK-101191,Indirectos,Crítica,Creación de pedido,Portal,MX,Vespertino,26.0,2,3,1,9.8,25.5,0,1
+TK-100596,Indirectos,Media,Consulta,Correo,US,Nocturno,113.0,1,5,0,6.7,30.5,0,1
+TK-100314,Indirectos,Baja,Alta de material,Teléfono,US,Matutino,56.0,0,11,2,5.1,78.0,0,1
+TK-100934,Logística,Media,Creación de pedido,Portal,MX,Vespertino,25.0,2,5,1,2.7,20.9,0,0
+TK-100156,Logística,Media,Cambio de proveedor,Correo,US,Vespertino,83.0,1,0,1,1.2,11.4,0,0
+TK-101381,Indirectos,Baja,Actualización de precio,Portal,US,Vespertino,7.0,1,2,1,3.7,22.0,0,0
+TK-101406,Indirectos,Media,Alta de material,Teléfono,US,Matutino,118.0,3,4,1,1.6,21.6,0,0
+TK-101304,Indirectos,Media,Cambio de proveedor,Correo,MX,Matutino,97.0,2,3,1,6.0,16.3,0,1
+TK-101151,Materiales directos,Crítica,Creación de pedido,Teléfono,MX,Matutino,11.0,2,0,1,5.5,9.9,0,1
+TK-101000,Indirectos,Media,Creación de pedido,Portal,BR,Matutino,26.0,3,1,0,11.3,11.7,0,0
+TK-101047,Materiales directos,Crítica,Creación de pedido,Teléfono,MX,Vespertino,99.0,1,6,2,10.4,37.6,0,1
+TK-101307,Servicios,Media,Actualización de precio,Correo,US,Matutino,61.0,3,5,1,4.3,24.2,0,0
+TK-101392,IT,Crítica,Liberación,Correo,US,Vespertino,46.0,2,4,0,2.6,24.6,0,0
+TK-100026,Materiales directos,Baja,Creación de pedido,Correo,BR,Matutino,107.0,2,4,0,5.2,17.3,0,0
+TK-100197,Servicios,Baja,Actualización de precio,Portal,BR,Matutino,24.0,3,4,2,0.5,18.6,0,1
+TK-101089,Servicios,Media,Creación de pedido,,US,Matutino,4.0,2,7,1,1.1,24.0,0,0
+TK-100016,Indirectos,Baja,Alta de material,Portal,US,Vespertino,,1,2,0,16.8,22.9,0,0
+TK-101322,Indirectos,Media,Actualización de precio,Correo,US,Matutino,,2,5,0,8.1,35.7,1,0
+TK-100884,Indirectos,Baja,Actualización de precio,Portal,BR,Matutino,114.0,2,9,0,4.9,23.2,0,1
+TK-100622,Servicios,Baja,Creación de pedido,Portal,US,Vespertino,28.0,1,6,1,8.4,27.9,0,1
+TK-101361,Logística,Media,Creación de pedido,Correo,MX,Matutino,,2,2,3,20.8,26.8,0,0
+TK-101051,Logística,Media,Consulta,Portal,CA,Vespertino,112.0,2,5,1,1.2,17.0,0,0
+TK-101068,Logística,Baja,Alta de material,Portal,CA,Matutino,60.0,1,7,1,16.9,25.0,0,0
+TK-100498,Servicios,Media,Liberación,Portal,MX,Matutino,75.0,2,3,0,2.3,17.4,0,0
+TK-100793,Indirectos,Media,Creación de pedido,Correo,MX,Matutino,42.0,3,5,1,6.1,26.8,0,0
+TK-100965,MRO,Baja,Cambio de proveedor,Portal,US,Vespertino,114.0,2,3,2,3.6,18.4,0,0
+TK-100516,Materiales directos,Media,Liberación,,MX,Matutino,109.0,2,4,1,7.1,14.6,0,0
+TK-101481,Indirectos,Media,Actualización de precio,Portal,MX,Vespertino,35.0,3,7,2,2.3,23.6,0,0
+TK-101412,MRO,Baja,Creación de pedido,Portal,BR,Vespertino,16.0,2,2,0,6.0,18.9,0,0
+TK-101096,Indirectos,Crítica,Cambio de proveedor,Correo,US,Vespertino,84.0,0,2,1,4.1,8.9,0,0
+TK-100543,IT,Media,Consulta,Portal,CA,Vespertino,88.0,1,5,1,4.8,51.6,0,0
+TK-100457,MRO,Media,Consulta,Correo,MX,Matutino,95.0,0,5,0,5.8,18.4,0,0
+TK-100634,Indirectos,Crítica,Actualización de precio,Portal,MX,Vespertino,,1,5,1,11.1,26.0,0,1
+TK-100432,Logística,Media,Actualización de precio,Correo,MX,Vespertino,,0,5,0,4.9,17.4,0,0
+TK-100628,Materiales directos,Media,Alta de material,Portal,MX,Vespertino,69.0,1,8,0,9.8,36.3,0,0
+TK-100729,Indirectos,Baja,Alta de material,Portal,BR,Nocturno,4.0,4,3,1,4.2,33.6,0,0
+TK-101289,Indirectos,Crítica,Consulta,Correo,MX,Matutino,108.0,1,7,0,5.1,21.0,0,0
+TK-100210,Servicios,Baja,Creación de pedido,Portal,BR,Vespertino,88.0,2,7,0,5.8,67.8,0,1
+TK-100317,Indirectos,Alta,Liberación,Portal,MX,Vespertino,35.0,2,1,2,4.0,23.0,0,1
+TK-100514,Indirectos,Media,Consulta,,BR,Matutino,65.0,2,8,0,10.6,25.6,0,0
+TK-101338,Servicios,Baja,Creación de pedido,Portal,MX,Vespertino,111.0,1,6,0,6.7,16.8,0,0
+TK-100830,Indirectos,Media,Alta de material,Portal,BR,Matutino,104.0,3,10,1,9.6,23.0,0,0
+TK-100320,MRO,Media,Cambio de proveedor,Correo,MX,Matutino,49.0,2,4,0,1.0,51.3,0,0
+TK-101032,Logística,Media,Cambio de proveedor,Correo,US,Matutino,112.0,2,4,1,0.7,34.2,0,1
+TK-101418,Servicios,Alta,Creación de pedido,Correo,BR,Matutino,95.0,3,3,0,4.3,28.7,0,1
+TK-100142,Servicios,Baja,Creación de pedido,Portal,US,Nocturno,26.0,0,2,2,12.7,16.7,1,1
+TK-101111,Materiales directos,Alta,Cambio de proveedor,Portal,CA,Matutino,9.0,0,6,0,8.8,22.1,0,0
+TK-100754,Indirectos,Media,Liberación,Correo,CA,Vespertino,,1,4,0,12.7,32.1,0,0
+TK-101002,Indirectos,Alta,Cambio de proveedor,Portal,CA,Vespertino,83.0,2,5,1,5.3,23.3,0,1
+TK-101240,Materiales directos,Media,Alta de material,Portal,BR,Vespertino,87.0,4,6,0,7.1,30.3,0,1
+TK-100581,Servicios,Media,Liberación,Portal,BR,Matutino,113.0,0,3,2,7.1,19.0,0,1
+TK-100563,IT,Media,Consulta,,US,Vespertino,28.0,3,4,0,1.1,29.7,1,1
+TK-100399,Indirectos,Baja,Alta de material,Teléfono,MX,Nocturno,89.0,2,6,2,5.2,30.4,1,1
+TK-100669,Indirectos,Media,Cambio de proveedor,,US,Matutino,46.0,1,7,0,0.6,26.2,0,0
+TK-100253,Indirectos,Alta,Creación de pedido,Portal,MX,Nocturno,84.0,1,5,2,1.5,51.3,0,1
+TK-100908,Materiales directos,Baja,Consulta,Portal,BR,Vespertino,81.0,1,3,0,11.1,6.0,0,0
+TK-100469,Materiales directos,Media,Cambio de proveedor,Portal,CA,Matutino,92.0,1,3,0,3.0,17.7,0,0
+TK-100915,MRO,Media,Cambio de proveedor,Correo,BR,Matutino,5.0,3,4,1,2.5,22.8,0,1
+TK-100358,IT,Baja,Actualización de precio,Correo,CA,Matutino,93.0,2,2,3,3.1,25.9,0,0
+TK-101279,IT,Baja,Cambio de proveedor,,MX,Nocturno,96.0,2,4,1,6.7,36.5,0,0
+TK-101301,Materiales directos,Crítica,Actualización de precio,Portal,MX,Matutino,6.0,2,4,1,4.2,20.9,1,1
+TK-101203,IT,Media,Creación de pedido,Portal,US,Matutino,,0,3,0,2.3,15.4,1,0
+TK-101306,MRO,Baja,Creación de pedido,Correo,MX,Vespertino,20.0,1,3,0,5.4,28.0,0,0
+TK-101415,Materiales directos,Media,Creación de pedido,Portal,MX,Matutino,71.0,1,2,2,3.7,24.1,0,1
+TK-100509,Servicios,Baja,Alta de material,Correo,MX,Vespertino,39.0,1,0,2,8.6,10.3,0,1
+TK-100750,IT,Media,Creación de pedido,Correo,MX,Matutino,69.0,0,1,1,5.6,35.3,0,1
+TK-100130,Servicios,Media,Consulta,Portal,US,Vespertino,24.0,4,5,1,2.4,13.4,1,0
+TK-100145,Indirectos,Baja,Liberación,Portal,MX,Vespertino,82.0,2,8,1,4.8,28.8,0,1
+TK-100961,Servicios,Alta,Cambio de proveedor,Correo,US,Nocturno,114.0,1,2,0,1.4,24.3,0,1
+TK-100848,Logística,Alta,Alta de material,Correo,MX,Matutino,25.0,1,4,2,2.6,35.6,1,0
+TK-100716,Materiales directos,Baja,Liberación,Portal,BR,Matutino,78.0,3,5,1,3.2,16.2,0,0
+TK-100906,Servicios,Baja,Alta de material,Correo,BR,Vespertino,97.0,0,4,1,0.9,30.6,0,1
+TK-101097,Materiales directos,Baja,Alta de material,Teléfono,MX,Vespertino,53.0,0,1,0,9.9,14.6,0,0
+TK-100236,IT,Alta,Creación de pedido,Correo,US,Matutino,69.0,3,2,1,2.7,38.6,0,0
+TK-101062,Servicios,Media,Alta de material,Portal,US,Matutino,65.0,3,4,2,5.3,20.7,0,1
