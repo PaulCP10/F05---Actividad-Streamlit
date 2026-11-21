@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+stream_train/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Secretos y llaves (NUNCA subir al repo)
+.env
+.streamlit/secrets.toml
+
+# Sistema
+.DS_Store
+Thumbs.db
